@@ -1,0 +1,7 @@
+---
+title: The Big Book of Maker Skills
+taxonomy:
+	author: Chris Hackett
+	pubdate: 2018-09-18
+---
+Makers, get ready. This is your ultimate, must-have, tip-packed guide for taking your DIY projects to the next level—from basic wood and metalworking skills to plugged-in fun with power tools, and from cutting-edge electronics play to 3-D printing wizardry. Join Chris Hackett, intrepid DIY-er, on a rummage through the toolbox of yore—and a foray into the technologies of the future. Packed with demystifying explanations and helpful tips, The Big Book of Maker Skills covers: HAND TOOLS A classic is a classic for a reason. Learn to build your own metal forge, screen-print whatever you want, swing a hammer better than your ancestors, and repurpose what Hackett calls “obtanium”—but what others might call trash—into your own mad-scientist creations. POWER TOOLS Discover the supreme joy that is angle-grinding, rig your own welding machine out of a junked car battery or three, and meet and master a whole host of electronic gadgets—LEDs, piezo buzzers, solar panels, and more. ROBOTS & BEYOND When it comes to making, there’s a whole new skillset in town. Get started with CNC milling, laser-cutting, programming microcontrollers, and 3D printing in a chapter that’s all about building what’s next. MUCH MORE Setting up a hackerspace, drones and space exploration tools, circuitry basics, sourcing and crowdsourcing and biotechnology-just to name a few more. You name it; it’s probably in this book.

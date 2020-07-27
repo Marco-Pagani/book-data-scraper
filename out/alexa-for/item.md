@@ -1,0 +1,7 @@
+---
+title: Alexa For Dummies
+taxonomy:
+	author: Paul McFedries
+	pubdate: 2018-11-27
+---
+Upgrade your Echo expertise with this Dummies guide to all things Alexa Amazon's hugely popular family of Echo devices has made Alexa a household name. She can answer your questions, entertain you, and even help around the house. Alexa for Dummies is the perfect guide for Alexa users who want to get up and running with their Echo devices. From basic setup to making the most of Alexa’s powerful smart home capabilities, this is your one-stop resource to all things Alexa. Whether you’ll use Alexa to send text messages, play music, control your thermostat, look up recipes, replenish your pantry, or just search the internet for information, you’ll find detailed instructions in this fun and easy-to-understand guide. Set up and personalize your Alexa device with an Amazon account and custom settings, including your preferred Alexa voice Use Alexa to play music throughout your home, stream videos online, and meet all your entertainment needs Unlock the power of advanced features like Alexa Skills and make your Alexa accessible Turn your ordinary house into a modern smart home with advanced smart home features and Echo accessories The virtual assistant you've dreamed of is now a reality with your favorite Echo device. Let Alexa For Dummies make your wish Alexa's command.

@@ -1,0 +1,7 @@
+---
+title: Arduino For Dummies
+taxonomy:
+	author: John Nussey
+	pubdate: 2018-09-12
+---
+Bring your ideas to life with the latest Arduino hardware and software Arduino is an affordable and readily available hardware development platform based around an open source, programmable circuit board. You can combine this programmable chip with a variety of sensors and actuators to sense your environment around you and control lights, motors, and sound. This flexible and easy-to-use combination of hardware and software can be used to create interactive robots, product prototypes and electronic artwork, whether you’re an artist, designer or tinkerer. Arduino For Dummies is a great place to start if you want to find out about Arduino and make the most of its incredible capabilities. It helps you become familiar with Arduino and what it involves, and offers inspiration for completing new and exciting projects. • Covers the latest software and hardware currently on the market • Includes updated examples and circuit board diagrams in addition to new resource chapters • Offers simple examples to teach fundamentals needed to move onto more advanced topics • Helps you grasp what’s possible with this fantastic little board Whether you’re a teacher, student, programmer, hobbyist, hacker, engineer, designer, or scientist, get ready to learn the latest this new technology has to offer!

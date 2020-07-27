@@ -1,0 +1,7 @@
+---
+title: Internet of Things (IoT) Technologies, Applications, Challenges and Solutions
+taxonomy:
+	author: J. Anuradha
+	pubdate: 2017-10-04
+---
+The term IoT, which was first proposed by Kevin Ashton, a British technologist, in 1999 has the potential to impact everything from new product opportunities to shop floor optimization to factory worker efficiency gains, that will power top-line and bottom-line gains. As IoT technology is being put to diversified use, the current technology needs to be improved to enhance privacy and built secure devices by adopting a security-focused approach, reducing the amount of data collected, increasing transparency and providing consumers with a choice to opt out. Therefore, the current volume has been compiled, in an effort to draw the various issues in IoT, challenges faced and existing solutions so far. Key Points: � Provides an overview of basic concepts and technologies of IoT with communication technologies ranging from 4G to 5G and its architecture. � Discusses recent security and privacy studies and social behavior of human beings over IoT. � Covers the issues related to sensors, business model, principles, paradigms, green IoT and solutions to handle relevant challenges. � Presents the readers with practical ideas of using IoT, how it deals with human dynamics, the ecosystem, the social objects and their relation. � Deals with the challenges involved in surpassing diversified architecture, protocol, communications, integrity and security.
