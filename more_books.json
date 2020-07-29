@@ -1,6 +1,222 @@
 {
     "books": [
         {
+            "title": "A Hands-On Course in Sensors Using the Arduino and Raspberry Pi",
+            "authors": [
+                "Volker Ziemann"
+            ],
+            "publisher": "CRC Press",
+            "publishedDate": "2018-02-19",
+            "description": "A Hands-On Course in Sensors using the Arduino and Raspberry Pi is the first book to give a practical and wide-ranging account of how to interface sensors and actuators with micro-controllers, Raspberry Pi and other control systems. The author describes the progression of raw signals through conditioning stages, digitization, data storage and presentation. The collection, processing, and understanding of sensor data plays a central role in industrial and scientific activities. This book builds simplified models of large industrial or scientific installations that contain hardware and other building blocks, including services for databases, web servers, control systems, and messaging brokers. A range of case studies are included within the book, including a weather station, geophones, a water-colour monitor, capacitance measurement, the profile of laser beam, and a remote-controlled and fire-seeking robot This book is suitable for advanced undergraduate and graduate students taking hands-on laboratory courses in physics and engineering. Hobbyists in robotics clubs and other enthusiasts will also find this book of interest.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781351188296"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1351188291"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 258,
+            "printType": "BOOK",
+            "categories": [
+                "Science"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=9NJMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=9NJMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=9NJMDwAAQBAJ&printsec=frontcover&dq=intitle:a+handson+course+in+sensors+using+the+arduino+and+raspberry+pi&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=9NJMDwAAQBAJ&dq=intitle:a+handson+course+in+sensors+using+the+arduino+and+raspberry+pi&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/A_Hands_On_Course_in_Sensors_Using_the_A.html?hl=&id=9NJMDwAAQBAJ"
+        },
+        {
+            "title": "Blender Quick Start Guide",
+            "subtitle": "3D Modeling, Animation, and Render with Eevee in Blender 2.8",
+            "authors": [
+                "Allan Brito"
+            ],
+            "publisher": "Packt Publishing Ltd",
+            "publishedDate": "2018-09-29",
+            "description": "Learn the new Blender 2.8 user interface and make 3D models Key Features Find your way round the new user interface and tools of Blender 2.8 Create materials, apply textures and render scenes Use the new cutting-edge real-time render EEVEE in your projects Book Description Blender is open source 3D creation software. With a long history and an enthusiastic community of users, it is the ideal choice for almost any kind of work with 3D modeling or animation. However, for new users, its power and flexibillity can sometimes be daunting, and that’s when you need this book! The book starts by showing you round the all-new Blender 2.8 user interface. You'll look at the most commonly-used options and tools, such as navigating in 3D and selecting objects. You will then use and manipulate one of the most important windows of the interface, the 3D View. You'll learn how to use essential tools for working with 3D modeling. To give your models the feel of real-world objects, you'll learn how to create materials and set up surfaces. You'll see how to use Physically-Based Rendering (PBR), which allows you to craft realistic surfaces such as wood, stone, and metal. You will also work with Eevee, a new real-time render engine in Blender. You will see how to add motion to objects, making use of Blender's impressive 3D animation features. Finally, you'll learn how to create scenes and organize them for rendering, and later add titles and effects using built-in Blender tools. By the end of the book, you will be able to use Blender 2.8 new UI, Create 3D Models with textures, Animations, and Render them in real-time using Eevee. What you will learn Manipulate and visualize your 3D objects in Blender Use polygon modeling tools such as extrude, loop cut, and more Apply precision modeling tools like snapping and the 3D Cursor Render a scene using the real-time engine Eevee Create materials for Eevee and Cycles Render a scene with the Eevee real-time engine Use PBR textures to craft realistic surfaces such as wood with the Shader Editor Add motion and animation using keyframes Create animation loops using curves and modifiers Who this book is for This book is for anyone interested in taking their steps with Blender. If you're an experienced 3D artists or hobbyist, this book will help you with its features.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781789612936"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1789612934"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 194,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ZP1wDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ZP1wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=ZP1wDwAAQBAJ&pg=PP7&dq=intitle:blender+quick+start+guide+d+modeling+animation+and+render+with+eevee+in+blender&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=ZP1wDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZP1wDwAAQBAJ"
+        },
+        {
+            "title": "Raspberry Pi Projects for Kids",
+            "authors": [
+                "Daniel Bates"
+            ],
+            "publisher": "Packt Pub Limited",
+            "publishedDate": "2014-03",
+            "description": "This tutorial contains allimportant information about how to use your Raspberry Pi to develop any application you like. It is broken down into several actionpacked projects, each containing easytofollow steps, just to show you how easy and fun computer programming can be!If you are someone with a big imagination and would like to dive straight into the realm of technology and computers, then this is the book for you. With only a Raspberry Pi and no prior experience required, you will be shown how to translate your ideas into computer programs, creating any game, tool, or animation you can dream of.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1783982225"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781783982226"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 96,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=eV6JoAEACAAJ&dq=intitle:raspberry+pi+projects+for+kids&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=eV6JoAEACAAJ&dq=intitle:raspberry+pi+projects+for+kids&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Raspberry_Pi_Projects_for_Kids.html?hl=&id=eV6JoAEACAAJ"
+        },
+        {
+            "title": "Design Thinking",
+            "subtitle": "A Guide to Creative Problem Solving for Everyone",
+            "authors": [
+                "Andrew Pressman"
+            ],
+            "publisher": "Routledge",
+            "publishedDate": "2018-10-25",
+            "description": "Design thinking is a powerful process that facilitates understanding and framing of problems, enables creative solutions, and may provide fresh perspectives on our physical and social landscapes. Not just for architects or product developers, design thinking can be applied across many disciplines to solve real-world problems and reconcile dilemmas. It is a tool that may trigger inspiration and the imagination, and lead to innovative ideas that are responsive to the needs and issues of stakeholders. Design Thinking: A Guide to Creative Problem Solving for Everyone will assist in addressing a full spectrum of challenges from the most vexing to the everyday. It renders accessible the creative problem-solving abilities that we all possess by providing a dynamic framework and practical tools for thinking imaginatively and critically. Every aspect of design thinking is explained and analyzed together with insights on navigating through the process. Application of design thinking to help solve myriad problems that are not typically associated with design is illuminated through vignettes drawn from such diverse realms as politics and society, business, health and science, law, and writing. A combination of theory and application makes this volume immediately useful and personally relevant.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781317202837"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "131720283X"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 154,
+            "printType": "BOOK",
+            "categories": [
+                "Architecture"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=I_h1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=I_h1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=I_h1DwAAQBAJ&printsec=frontcover&dq=intitle:design+thinking++a+guide+to+creative+problem+solving+for+everyone&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=I_h1DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I_h1DwAAQBAJ"
+        },
+        {
+            "title": "Robotics A Project-Based Approach",
+            "authors": [
+                "Lakshmi Prayaga",
+                "Chandra Prayaga",
+                "Alexander Whiteside",
+                "Ramakrishna Suri"
+            ],
+            "publisher": "Cengage Learning Trade",
+            "publishedDate": "2014-10-24",
+            "description": "Have you ever thought of building your own robot? With today's technology, it's easy (and inexpensive!) to get started in this fascinating hobby. With the projects in this book and just a little bit of programming knowledge, you can create fun, functional robots. You'll learn the fundamentals of robot-building--the basic concepts and technologies that are used every day in the growing field of robotics. Each of the book's projects is presented in clear step-by-step fashion, so you can follow along at your own pace. Projects include a traveling robot, an intruder alarm detector, a medical assistant, a data logger, and more. The technology used in this book is based on the Arduino platform, a popular open-source tool based on easy-to-use hardware and software. Get started building your own robots today, with ROBOTICS: A PROJECT-BASED APPROACH.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781305271036"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1305271033"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 240,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=nbRGBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=nbRGBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=nbRGBQAAQBAJ&pg=PT1&dq=intitle:robotics++a+projectbased+approach&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=nbRGBQAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nbRGBQAAQBAJ"
+        },
+        {
             "title": "Cool Woodworking Projects",
             "subtitle": "Fun & Creative Workshop Activities",
             "authors": [
@@ -42,46 +258,6 @@
             "previewLink": "http://books.google.com/books?id=QBzPDAAAQBAJ&printsec=frontcover&dq=intitle:cool+woodworking+projects&hl=&cd=1&source=gbs_api",
             "infoLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ&source=gbs_api",
             "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ"
-        },
-        {
-            "title": "AutoCAD 2007",
-            "subtitle": "3-D Modeling, a Visual Approach",
-            "authors": [
-                "Alan J. Kalameja"
-            ],
-            "publisher": "AutoDesk Press",
-            "publishedDate": "2006",
-            "description": "This completely up-to-date book is the perfect means for learning to use the three-dimensional capabilities of AutoCAD 2007! It boasts a hands-on introduction to more than 70 AutoCAD commands relating to 3D space and 3D modeling, with concise and easy-to-understand instructions helping users get the most out of every 3D feature of AutoCAD. A series of self-paced tutorials at the end of most chapters guide readers through the hands-on completion of various 3D wireframe, surface, and solid models. An accompanying CD with drawing files of 3D models gets readers up and running quickly.",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_10",
-                    "identifier": "1418049042"
-                },
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9781418049041"
-                }
-            ],
-            "readingModes": {
-                "text": false,
-                "image": false
-            },
-            "pageCount": 578,
-            "printType": "BOOK",
-            "categories": [
-                "Computers"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "preview-1.0.0",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=sarvPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=sarvPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com/books?id=sarvPgAACAAJ&dq=intitle:autocad++d+modeling&hl=&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.com/books?id=sarvPgAACAAJ&dq=intitle:autocad++d+modeling&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/AutoCAD_2007.html?hl=&id=sarvPgAACAAJ"
         },
         {
             "title": "Learn Autodesk Inventor 2018 Basics",
@@ -126,6 +302,184 @@
             "previewLink": "http://books.google.com/books?id=jbE_DwAAQBAJ&pg=PA396&dq=intitle:learn+autodesk+inventor++basics++d+modeling+d+graphics+and+assembly+design&hl=&cd=1&source=gbs_api",
             "infoLink": "https://play.google.com/store/books/details?id=jbE_DwAAQBAJ&source=gbs_api",
             "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jbE_DwAAQBAJ"
+        },
+        {
+            "title": "Getting the Most Out of Makerspaces to Create with 3-D Printers",
+            "authors": [
+                "Nicki Peter Petrikowski"
+            ],
+            "publisher": "The Rosen Publishing Group, Inc",
+            "publishedDate": "2014-07-15",
+            "description": "3-D printing allows for the creation of nearly any type of object, from an entire house to a human organ. Now with makerspaces, collaborative engineering workspaces, virtually anyone can utilize these printers to make anything they can dream up. This title shows young people just how. With information on where to find makerspaces in their local community to the latest types of 3-D printers available, this resource grabs the interest of engineering-minded students and sets them on course to excel in STEM classes. This book also includes examples of interesting beginner projects to create and print at a makerspace.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781477777763"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1477777768"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 64,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Nonfiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.5.3.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=pca2BQAAQBAJ&printsec=frontcover&dq=intitle:getting+the+most+out+of+makerspaces+to+create+with+d+printers&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=pca2BQAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pca2BQAAQBAJ"
+        },
+        {
+            "title": "Arduino For Dummies",
+            "authors": [
+                "John Nussey"
+            ],
+            "publisher": "John Wiley & Sons",
+            "publishedDate": "2013-04-29",
+            "description": "The quick, easy way to leap into the fascinating world ofphysical computing This is no ordinary circuit board. Arduino allows anyone,whether you're an artist, designer, programmer or hobbyist, tolearn about and play with electronics. Through this book you learnhow to build a variety of circuits that can sense or control thingsin the real world. Maybe you'll prototype your own product orcreate a piece of interactive artwork? This book equips you witheverything you'll need to build your own Arduino project, but whatyou make is up to you! If you're ready to bring your ideas into thereal world or are curious about the possibilities, this book is foryou. ? Learn by doing ? start building circuits and programmingyour Arduino with a few easy to follow examples - rightaway! ? Easy does it ? work through Arduino sketches line by linein plain English, to learn of how a they work and how to write yourown ? Solder on! ? Only ever used a breadboard in the kitchen?Don't know your soldering iron from a curling iron? No problem,you'll be prototyping in no time ? Kitted out ? discover new and interesting hardware to makeyour Arduino into anything from a mobile phone to a geigercounter! ? Become an Arduino savant ? learn all about functions,arrays, libraries, shields and other tools of the trade to takeyour Arduino project to the next level. ? Get social ? teach your Arduino to communicate withsoftware running on a computer to link the physical world with thevirtual world It's hardware, it's software, it's fun! Start building the nextcool gizmo with Arduino and Arduino For Dummies.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781118446430"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1118446437"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 456,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.1.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=LRWcJH5SPokC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=LRWcJH5SPokC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=LRWcJH5SPokC&printsec=frontcover&dq=intitle:arduino+for+dummies&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=LRWcJH5SPokC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LRWcJH5SPokC"
+        },
+        {
+            "title": "Arduino Microcontroller Processing for Everyone!",
+            "subtitle": "Third Edition",
+            "authors": [
+                "Steven F. Barrett"
+            ],
+            "publisher": "Morgan & Claypool Publishers",
+            "publishedDate": "2013-08-01",
+            "description": "This book is about the Arduino microcontroller and the Arduino concept. The visionary Arduino team of Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, and David Mellis launched a new innovation in microcontroller hardware in 2005, the concept of open source hardware. Their approach was to openly share details of microcontroller-based hardware design platforms to stimulate the sharing of ideas and promote innovation. This concept has been popular in the software world for many years. This book is intended for a wide variety of audiences including students of the fine arts, middle and senior high school students, engineering design students, and practicing scientists and engineers. To meet this wide audience, the book has been divided into sections to satisfy the need of each reader. The book contains many software and hardware examples to assist the reader in developing a wide variety of systems. The book covers two different Arduino products: the Arduino UNO R3 equipped with the Atmel ATmega328 and the Arduino Mega 2560 equipped with the Atmel ATmega2560. The third edition has been updated with the latest on these two processing boards, changes to the Arduino Development Environment and multiple extended examples.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781627052542"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1627052542"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 513,
+            "printType": "BOOK",
+            "categories": [
+                "Technology & Engineering"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "2.5.5.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=TbldAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=TbldAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=TbldAQAAQBAJ&printsec=frontcover&dq=intitle:arduino+microcontroller+processing+for+everyone&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=TbldAQAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TbldAQAAQBAJ"
+        },
+        {
+            "title": "Master Your Craft",
+            "subtitle": "Strategies for Designing, Making, and Selling Artisan Work",
+            "authors": [
+                "Tien Chiu"
+            ],
+            "publisher": "Schiffer Publishing",
+            "publishedDate": "2016",
+            "description": "\"Perspectives from 22 master artisans fuse with industrial product design techniques and the author's own craft experience to offer a powerful framework for designing, making, and selling your work.\"--Amazon.com",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0764351451"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780764351457"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 176,
+            "printType": "BOOK",
+            "categories": [
+                "Decorative arts"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=81aRjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=81aRjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=81aRjwEACAAJ&dq=intitle:master+your+craft++strategies+for+designing+making+and+selling+artisan+work&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=81aRjwEACAAJ&dq=intitle:master+your+craft++strategies+for+designing+making+and+selling+artisan+work&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Master_Your_Craft.html?hl=&id=81aRjwEACAAJ"
         },
         {
             "title": "The Ultimate Brush Lettering Guide",
@@ -259,40 +613,48 @@
             "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PqV8DwAAQBAJ"
         },
         {
-            "title": "I Can Make Toys",
-            "publisher": "Maple Tree Press",
-            "publishedDate": "1994",
-            "description": "Toys for young children to make, with easy directions and inexpensive and readily available materials, include jet gliders, dolls, puzzles, and other playthings.",
+            "title": "Welding Complete, 2nd Edition",
+            "subtitle": "Techniques, Project Plans & Instructions",
+            "authors": [
+                "Michael A. Reeser"
+            ],
+            "publisher": "Cool Springs Press",
+            "publishedDate": "2017-06-15",
+            "description": "Welding is a satisfying skill that will yield many rewards, Welding Complete shows you everything you need to know to become a competent and safe welder. Welding is a fun and surprisingly affordable activity, with complete welding kits available at home-improvement stores for just a few hundred dollars. This book shows you everything you need to know to become a competent and safe welder of a wide variety of metal projects. Featured projects include a coffee table, magazine rack, wine rack, truck rack, firepit, and gate. The time has never been better to learn to weld. New tools and equipment are lower in price and easier to use. Growing interest in metalworking has made supplies easier to come by, with most home-improvement stores now stocking a variety of metals and fuels. As interest in welding expands, the number of great plans and designs continues to grow. This updated edition of Welding Complete comes packed with fresh designs and up-to-date information, this new book is your personal metal shop teacher.",
             "industryIdentifiers": [
                 {
-                    "type": "OTHER",
-                    "identifier": "PSU:000023206137"
+                    "type": "ISBN_13",
+                    "identifier": "9780760357743"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0760357749"
                 }
             ],
             "readingModes": {
-                "text": false,
-                "image": false
+                "text": true,
+                "image": true
             },
-            "pageCount": 31,
+            "pageCount": 240,
             "printType": "BOOK",
             "categories": [
-                "Juvenile Nonfiction"
+                "Crafts & Hobbies"
             ],
             "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.0",
+            "allowAnonLogging": true,
+            "contentVersion": "0.1.1.0.preview.3",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=m9AOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=m9AOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=eLktDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=eLktDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com/books?id=m9AOAQAAMAAJ&q=intitle:i+can+make+toys&dq=intitle:i+can+make+toys&hl=&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.com/books?id=m9AOAQAAMAAJ&dq=intitle:i+can+make+toys&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/I_Can_Make_Toys.html?hl=&id=m9AOAQAAMAAJ"
+            "previewLink": "http://books.google.com/books?id=eLktDwAAQBAJ&printsec=frontcover&dq=intitle:welding+complete++techniques+project+plans++instructions&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=eLktDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eLktDwAAQBAJ"
         },
         {
             "title": "How to Build Treehouses, Huts and Forts",
@@ -336,93 +698,6 @@
             "previewLink": "http://books.google.com/books?id=3900od2rKbsC&q=intitle:how+to+build+treehouses+huts++forts&dq=intitle:how+to+build+treehouses+huts++forts&hl=&cd=1&source=gbs_api",
             "infoLink": "http://books.google.com/books?id=3900od2rKbsC&dq=intitle:how+to+build+treehouses+huts++forts&hl=&source=gbs_api",
             "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Build_Treehouses_Huts_and_Forts.html?hl=&id=3900od2rKbsC"
-        },
-        {
-            "title": "Cool Woodworking Projects",
-            "subtitle": "Fun & Creative Workshop Activities",
-            "authors": [
-                "Rebecca Felix"
-            ],
-            "publisher": "ABDO",
-            "publishedDate": "2017",
-            "description": "With this book, kids can learn how to handcraft a cool bow and arrow set, bend and mold a mini wooden skateboard, and more. Each workshop project includes easy-to-read, step-by-step instructions paired with photographs. Budding craftspeople and engineers will love learning how to use the tools of the trade to make one-of-a-kind creations.",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9781680775501"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "1680775502"
-                }
-            ],
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "printType": "BOOK",
-            "categories": [
-                "Woodwork"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.3.0.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=QBzPDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=QBzPDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com/books?id=QBzPDAAAQBAJ&printsec=frontcover&dq=intitle:cool+woodworking+projects&hl=&cd=1&source=gbs_api",
-            "infoLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ&source=gbs_api",
-            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ"
-        },
-        {
-            "title": "Designing Smart Homes",
-            "subtitle": "The Role of Artificial Intelligence",
-            "authors": [
-                "Juan Carlos Augusto"
-            ],
-            "publisher": "Springer Science & Business Media",
-            "publishedDate": "2006-06-29",
-            "description": "The area of smart homes is fast developing as an emergent area which attracts the synergy of several areas of science. This volume offers a collection of contributions addressing how artificial intelligence (AI), one of the core areas of computer science, can bring the growing area of smart homes to a higher level of functionality where homes can truly realize the long standing dream of proactively helping their inhabitants in an intelligent way. After an introductory section to describe a smart home scenario and to provide some basic terminology, the following 9 sections turn special attention to a particular exemplar application scenario (provision of healthcare and safety related services to increase the quality of life) exploring the application of specific areas of AI to this scenario.",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9783540359944"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "354035994X"
-                }
-            ],
-            "readingModes": {
-                "text": true,
-                "image": true
-            },
-            "pageCount": 182,
-            "printType": "BOOK",
-            "categories": [
-                "Architecture"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.3",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=QHGHoZ53OBIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=QHGHoZ53OBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com/books?id=QHGHoZ53OBIC&pg=PA109&dq=intitle:smart+homes&hl=&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.com/books?id=QHGHoZ53OBIC&dq=intitle:smart+homes&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Designing_Smart_Homes.html?hl=&id=QHGHoZ53OBIC"
         },
         {
             "title": "Starting a Makerspace",
@@ -646,50 +921,6 @@
             "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JM1FDwAAQBAJ"
         },
         {
-            "title": "Easy Paper Projects",
-            "subtitle": "60 Crafts You Can Wear, Gift, Use and Admire",
-            "authors": [
-                "Maggy Woodley"
-            ],
-            "publisher": "Page Street Publishing",
-            "publishedDate": "2019-09-10",
-            "description": "Transform Paper into Thoughtful Cards, Fun Decorations and More with Easy, Mess-Free Crafts Learn just how versatile paper can be when creating fun, colorful crafts. Whether you have plain printer paper, a rainbow array of cardstock or just a few scraps of construction paper, you’ll be able to create inventive paper crafts that require only a few materials you already have, making them a thrifty and accessible alternative to more complicated projects. So grab your paper, scissors and glue and try these fun projects: • Origami Corner Bookmarks • Tin Can Pen Pots • Paper Pendants • Llama Cards • Origami Lucky Stars Bracelets • 3-D Paper Accordion Flowers • Kite Birds • Paper Dog Puppet • Confetti Bookmarks • Leaf Wreaths • Quick Ghost Garlands • Polar Bear Ornaments A whole slew of cute, exciting projects makes it easy for you to get your craft on no matter the occasion, and they provide hours of fun all year long. With easy-to-follow step-by-step instructions and plenty of photos to guide you, you can be on your way to creating paper masterpieces in no time.",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9781624148514"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "1624148514"
-                }
-            ],
-            "readingModes": {
-                "text": true,
-                "image": false
-            },
-            "pageCount": 192,
-            "printType": "BOOK",
-            "categories": [
-                "Crafts & Hobbies"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "1.2.2.0.preview.2",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=8a1_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=8a1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com/books?id=8a1_DwAAQBAJ&printsec=frontcover&dq=intitle:paper+crafts&hl=&cd=1&source=gbs_api",
-            "infoLink": "https://play.google.com/store/books/details?id=8a1_DwAAQBAJ&source=gbs_api",
-            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8a1_DwAAQBAJ"
-        },
-        {
             "title": "The Art, Science, and Craft of Great Landscape Photography",
             "authors": [
                 "Glenn Randall"
@@ -733,6 +964,138 @@
             "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D15gBwAAQBAJ"
         },
         {
+            "title": "Creative Nightscapes and Time-Lapses",
+            "subtitle": "Your Complete Guide to Conceptualizing, Planning and Creating Composite Nightscapes and Time-Lapses",
+            "authors": [
+                "Mike Shaw"
+            ],
+            "publisher": "Routledge",
+            "publishedDate": "2018-11-16",
+            "description": "Creative Nightscapes and Time-Lapses is your all-in-one guide to making spectacular, multi-image nightscapes and time-lapses. Covering everything from conceptualization and planning to post-processing, this book features innovative cookbook-style \"recipes\" for each composite nightscape and time-lapse project. Beginning with a review of the key fundamentals of astronomy and photography, author Mike Shaw covers the latest methods for planning your night shooting sessions and how to set up your gear to get the best constituent images. The book precisely details how to combine images into 12 different varieties of state-of-the-art nightscape trophies, each impossible to capture in a single image, before demonstrating how to create stunning level and ramp time-lapses that transition fluidly from day to night. Each nightscape and time-lapse project category includes specific tips for (i) acquiring the constituent images; (ii) assembling them into the composite image or time-lapse; (iii) overcoming common obstacles and (iv) finding the best subjects. Providing examples of how to apply these techniques in the field through four detailed case studies, including one, three-night immersive retreat, this book is the comprehensive guide to creating creative nightscapes and time-lapses.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781351719940"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1351719947"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 362,
+            "printType": "BOOK",
+            "categories": [
+                "Photography"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=POZ3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=POZ3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=POZ3DwAAQBAJ&printsec=frontcover&dq=intitle:creative+nightscapes+and+timelapses++your+complete+guide+to+conceptualizing+planning+and+creating+composite+nightscapes+and+timelapses&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=POZ3DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=POZ3DwAAQBAJ"
+        },
+        {
+            "title": "Color Correction Handbook",
+            "subtitle": "Professional Techniques for Video and Cinema",
+            "authors": [
+                "Alexis Van Hurkman"
+            ],
+            "publisher": "Pearson Education",
+            "publishedDate": "2013",
+            "description": "The colorist is responsible for the critical final stage of refinement of the film and broadcast image. Using all of the controls modern color correction software provides, colorists refine the mood, create style, add polish to scenes, and breathe life into the visuals. The craft of color correction can take considerable trial and error to learn, while the art of color grading takes years to perfect. Alexis Van Hurkman draws on his wealth of industry experience to provide a thoroughly updated edition of what has become the standard guide to color correction. Using a friendly, clear teaching style and a slew of real-world examples and anecdotes, Alexis demonstrates how to achieve professional results for any project, using any number of dedicated grading applications, or even an editing program's built-in color correction tools. From the most basic methods for evaluating and correcting an overall image to the most advanced targeted corrections and creative stylizations, Color Correction Handbook, Second Edition, is your one-stop guide. Among many valuable concepts and techniques, you'll learn to: * Set up a professional color correction environment using the latest technologies and adhere to the most up-to-date standards * Work with log-encoded media and LUTs * Analyze shots quickly and correct errors of color and exposure * Create idealized adjustments for key features such as skin tone, skies, and product shots * Develop strategies for balancing clips in a scene to match one another for continuity, and grading greenscreen clips destined for visual effects * Master a variety of stylistic techniques used to set a scene's mood * Apply principles of color and contrast to add depth and visual interest * Browse valuable research about memory colors, audience preferences, and critical corrections for achieving appealing skin tones and controlled environments * Follow along with the downloadable files that accompany this book, including HD footage, cross-platform exercises, and project files.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780321929662"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0321929667"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 644,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=mFkXAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=mFkXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=mFkXAgAAQBAJ&printsec=frontcover&dq=intitle:color+correction+handbook++professional+techniques+for+video+and+cinema&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=mFkXAgAAQBAJ&dq=intitle:color+correction+handbook++professional+techniques+for+video+and+cinema&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Color_Correction_Handbook.html?hl=&id=mFkXAgAAQBAJ"
+        },
+        {
+            "title": "Developing Professional iPhone Photography",
+            "subtitle": "Using Photoshop, Lightroom, and other iOS and Desktop Apps to Create and Edit Photos",
+            "authors": [
+                "Rafiq Elmansy"
+            ],
+            "publisher": "Apress",
+            "publishedDate": "2017-12-20",
+            "description": "Leverage the photo taking power of your iPhone with desktop and iOS apps to capture, retouch, manipulate, organize, and sell your photography. This book shows you how to edit photos using Adobe mobile apps and other apps, integrate Adobe mobile apps with desktop applications, such as Adobe Photoshop and Lightroom, and finally sell those photos online. Developing Professional iPhone Photography provides a practical guide to creating a professional photography portfolio with your iPhone and features iPhonoegraphy examples from professional photographers to showcase what can be done. You can then share your workflow with your desktop programs, such as Adobe Photoshop Mix, Photoshop Fix, and Lightroom apps iPhone camera and photography capabilities have dramatically improved to a professional level and mobile and desktop software have come right along with them. Now it’s not only possible to take worthwhile photos on your phone but also to edit and develop them to a professional level. What You'll Learn Use Adobe Mobile and Apple apps for retouching and photo manipulation Transform your iPhone into a piece of your professional workflow Market and sell photos directly from your iPhone Who This Book Is For Photographers and other iPhone owners who want to make the most of the editing and capturing the power of their iOS devices",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781484231869"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1484231864"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 389,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=kAxEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=kAxEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=kAxEDwAAQBAJ&pg=PR2&dq=intitle:developing+professional+iphone+photography++using+photoshop+lightroom+and+other+ios+and+desktop+apps+to+create+and+edit+photos&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=kAxEDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kAxEDwAAQBAJ"
+        },
+        {
             "title": "Maker Projects for Kids Who Love Electronics",
             "authors": [
                 "Megan Kopp"
@@ -774,6 +1137,50 @@
             "previewLink": "http://books.google.com/books?id=KvXdjwEACAAJ&dq=intitle:maker+projects+for+kids+who+love+electronics&hl=&cd=1&source=gbs_api",
             "infoLink": "http://books.google.com/books?id=KvXdjwEACAAJ&dq=intitle:maker+projects+for+kids+who+love+electronics&hl=&source=gbs_api",
             "canonicalVolumeLink": "https://books.google.com/books/about/Maker_Projects_for_Kids_Who_Love_Electro.html?hl=&id=KvXdjwEACAAJ"
+        },
+        {
+            "title": "Home Robotics",
+            "subtitle": "Maker-Inspired Projects For Building Your Own Robots",
+            "authors": [
+                "Daniel Knox"
+            ],
+            "publisher": "Aurum Press Limited",
+            "publishedDate": "2018-01-18",
+            "description": "Learn to make your own robots with this accessible, illustrated guide for robotics enthusiasts, featuring 13 unique robotics projects suitable for beginner to intermediate level. You’ve seen the sci-fi movies and dreamed of creating your very own robot. Now learn to build machines with your own hands that will move or perform tasks at your command. Featuring brand-new projects and specially commissioned photography, this book uses easily sourced components to teach you simple electronics and programming. Learn to design and build your very own custom-made creations that can walk, draw or even guard your home. Start with a space-age butterfly that skips along on its own or a robot that creates psychedelic patterns of amazing variety, then discover how to create a catapult bot that activates when movement is detected or construct an intelligent, all-terrain rover vehicle – the possibilities are endless.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781781317686"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1781317682"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 160,
+            "printType": "BOOK",
+            "categories": [
+                "Technology & Engineering"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=DPZcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=DPZcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=DPZcDwAAQBAJ&printsec=frontcover&dq=intitle:home+robotics++makerinspired+projects+for+building+your+own+robots&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=DPZcDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DPZcDwAAQBAJ"
         },
         {
             "title": "Build Your Own Robots",
@@ -821,6 +1228,49 @@
             "canonicalVolumeLink": "https://books.google.com/books/about/Build_Your_Own_Robots.html?hl=&id=fcs1DwAAQBAJ"
         },
         {
+            "title": "BeagleBone Robotic Projects",
+            "authors": [
+                "Dr. Richard Grimmett"
+            ],
+            "publisher": "Packt Publishing Ltd",
+            "publishedDate": "2017-06-13",
+            "description": "Exciting new capabilities to enable even easier DIY robotics with BeagleBone Blue About This Book Build powerful robots with the all new BeagleBone Blue Communicate with your robot and teach it to detect and respond to its environment Control walking, rolling, swimming, and flying robots with your iOS and Android mobile devices Who This Book Is For This book is for anyone who is curious about using new, low-cost hardware to create robotic projects and have previously been the domain of research labs, major universities, or defence departments. Some programming experience would be useful, but if you know how to use a personal computer, you can use this book to construct far more complex systems than you would have thought possible. What You Will Learn Power on and configure the BeagleBone Blue Get to know Simple programming techniques to enable the unique hardware capabilities of the BeagleBone Blue. Connect standard hardware to enable your projects to see, speak, hear, and move Build advanced capabilities into your projects, such as GPS and sonar sensors Build complex projects that can fly, or go under or on the water In Detail BeagleBone Blue is effectively a small, light, cheap computer in a similar vein to Raspberry Pi and Arduino. It has all of the extensibility of today's desktop machines, but without the bulk, expense, or noise. This project guide provides step-by-step instructions that enable anyone to use this new, low-cost platform in some fascinating robotics projects. By the time you are finished, your projects will be able to see, speak, listen, detect their surroundings, and move in a variety of amazing ways. The book begins with unpacking and powering up the components. This includes guidance on what to purchase and how to connect it all successfully, and a primer on programming the BeagleBone Blue. You will add additional software functionality available from the open source community, including making the system see using a webcam, hear using a microphone, and speak using a speaker. You will then learn to use the new hardware capability of the BeagleBone Blue to make your robots move, as well as discover how to add sonar sensors to avoid or find objects. Later, you will learn to remotely control your robot through iOS and Android devices. At the end of this book, you will see how to integrate all of these functionalities to work together, before developing the most impressive robotics projects: Drone and Submarine. Style and approach Develop practical example projects with detailed explanations, combine the projects in a vast number of ways to create different robot designs, or work through them in sequence to discover the full capability of the BeagleBone Blue.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781788291293"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1788291298"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 230,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "2.2.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=9Hc5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=9Hc5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=9Hc5DwAAQBAJ&pg=PA191&dq=intitle:beaglebone+robotic+projects&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=9Hc5DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9Hc5DwAAQBAJ"
+        },
+        {
             "title": "Electronics Projects for Beginners",
             "authors": [
                 "Tammy Enz"
@@ -862,6 +1312,50 @@
             "canonicalVolumeLink": "https://books.google.com/books/about/Electronics_Projects_for_Beginners.html?hl=&id=3D07DwAAQBAJ"
         },
         {
+            "title": "Creating the Character Costume",
+            "subtitle": "Tools, Tips, and Talks with Top Costumers and Cosplayers",
+            "authors": [
+                "Cheralyn Lambeth"
+            ],
+            "publisher": "Taylor & Francis",
+            "publishedDate": "2016-11-25",
+            "description": "Many beginning and hobbyist costumers believe that professional costume/prop builders have unlimited and specialized resources with which to ply their craft. Actually, the pros create things in much the same way that hobbyists do, working as resourcefully and creatively as possible with a limited budget. Creating the Character Costume dives into these methods to showcase how to achieve expert looks with limited means and lots of creativity. Part One explores tools, materials, and construction methods.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781317597964"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1317597966"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 240,
+            "printType": "BOOK",
+            "categories": [
+                "Performing Arts"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=qC8lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=qC8lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=qC8lDwAAQBAJ&printsec=frontcover&dq=intitle:creating+the+character+costume++tools+tips+and+talks+with+top+costumers+and+cosplayers&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=qC8lDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qC8lDwAAQBAJ"
+        },
+        {
             "title": "Sewing Techniques and Patterns",
             "authors": [
                 "Marie-Noëlle Bayard"
@@ -901,6 +1395,95 @@
             "previewLink": "http://books.google.com/books?id=YOpre4kMZvoC&printsec=frontcover&dq=intitle:sewing&hl=&cd=1&source=gbs_api",
             "infoLink": "http://books.google.com/books?id=YOpre4kMZvoC&dq=intitle:sewing&hl=&source=gbs_api",
             "canonicalVolumeLink": "https://books.google.com/books/about/Sewing_Techniques_and_Patterns.html?hl=&id=YOpre4kMZvoC"
+        },
+        {
+            "title": "Wearable Technology in Medicine and Health Care",
+            "authors": [
+                "Raymond Tong"
+            ],
+            "publisher": "Academic Press",
+            "publishedDate": "2018-08-08",
+            "description": "Wearable Technology in Medicine and Health Care provides readers with the most current research and information on the clinical and biomedical applications of wearable technology. Wearable devices provide applicability and convenience beyond many other means of technical interface and can include varying applications, such as personal entertainment, social communications and personalized health and fitness. The book covers the rapidly expanding development of wearable systems, thus enabling clinical and medical applications, such as disease management and rehabilitation. Final chapters discuss the challenges inherent to these rapidly evolving technologies. Provides state-of-the-art coverage of the latest advances in wearable technology and devices in healthcare and medicine Presents the main applications and challenges in the biomedical implementation of wearable devices Includes examples of wearable sensor technology used for health monitoring, such as the use of wearables for continuous monitoring of human vital signs, e.g. heart rate, respiratory rate, energy expenditure, blood pressure and blood glucose, etc. Covers examples of wearables for early diagnosis of diseases, prevention of chronic conditions, improved clinical management of neurodegenerative conditions, and prompt response to emergency situations",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780128498811"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0128498811"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 340,
+            "printType": "BOOK",
+            "categories": [
+                "Technology & Engineering"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.3.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=9aRBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=9aRBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=9aRBDwAAQBAJ&printsec=frontcover&dq=intitle:wearable+technology+in+medicine+and+health+care&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=9aRBDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9aRBDwAAQBAJ"
+        },
+        {
+            "title": "Crafting Wearables",
+            "subtitle": "Blending Technology with Fashion",
+            "authors": [
+                "Sibel Deren Guler",
+                "Madeline Gannon",
+                "Kate Sicchio"
+            ],
+            "publisher": "Apress",
+            "publishedDate": "2016-08-13",
+            "description": "Enter the exciting intersection of technology and fashion known as wearable computing. Learn about the future of electronics in clothing and textiles, and be a part of creating that future! Crafting Wearables begins with the history of the field, then covers current practices and future trends. You will gain deeper insight into the strategy behind the design of wearable devices while learning about the tools and materials needed to start your own wearables toolbox. In a time when consumer electronics are becoming smaller and seamlessly integrated into our lives, it is important to understand how technology can improve and augment your lifestyle. Wearables are in a sense the most organic and natural interface we can design, yet there is still doubt about how quickly wearable technologies will become the cultural norm. Furthermore, skills that have become less valuable over the years, such as sewing, are making a return with the wearables movement. Gives a better understanding of wearable technology and how it has evolved Teaches basic skills and techniques to familiarize you with the tools and materials Showcases breakthrough designs and discoveries that impact our everyday interactions What You'll Learn Learn the history of how technology in fashion has evolved over time Discover interesting materials and fabrics for use in wearable technology Glimpse new tools for designing wearable technology and fashion Rediscover sewing and related skills that every wearables enthusiast should learn Learn how new techniques in textile manufacturing could disrupt the fashion industry Understand and respond to the cultural and societal developments around wearables Who This Book Is For The curious designer, engineer, or creative who is looking for insight into the world of fashion technology. It is for someone who wants to start exploring wearables with basic projects and dig deeper into the methods and tools of an expert. Crafting Wearables is intended to impart comprehensive general knowledge of the state of wearables in different industries while providing a well-curated list of example projects and resources by which to begin your personal journey into e-textiles. It is a wonderful read for those who are looking to expand their understanding of fashion and technology from both a hands-on and research-based perspective.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781484218082"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1484218086"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 216,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.3.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_wLWDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_wLWDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=_wLWDAAAQBAJ&printsec=frontcover&dq=intitle:crafting+wearables+blending+technology+with+fashion&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=_wLWDAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_wLWDAAAQBAJ"
         }
     ]
 }

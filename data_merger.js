@@ -9,8 +9,7 @@ google_data.forEach(function (book, i) {
     if (!book.error) {
 
     } else {
-        if (typeof lib_data[i].ISBN == 'string') {
-            console.log(lib_data[i].Title.replace(/[^a-zA-Z ]/g, "").replace(/\s/g , "+").toLowerCase())
-        }
+            console.log(lib_data[i].Title)
+            console.log(lib_data[i].Author)
     }
 })
