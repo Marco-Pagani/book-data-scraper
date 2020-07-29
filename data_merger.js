@@ -10,7 +10,7 @@ google_data.forEach(function (book, i) {
 
     } else {
         if (typeof lib_data[i].ISBN == 'string') {
-            console.log(lib_data[i].ISBN.split(' ')[1])
+            console.log(lib_data[i].Title.replace(/[^a-zA-Z ]/g, "").replace(/\s/g , "+").toLowerCase())
         }
     }
 })

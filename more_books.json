@@ -1,0 +1,906 @@
+{
+    "books": [
+        {
+            "title": "Cool Woodworking Projects",
+            "subtitle": "Fun & Creative Workshop Activities",
+            "authors": [
+                "Rebecca Felix"
+            ],
+            "publisher": "ABDO",
+            "publishedDate": "2017",
+            "description": "With this book, kids can learn how to handcraft a cool bow and arrow set, bend and mold a mini wooden skateboard, and more. Each workshop project includes easy-to-read, step-by-step instructions paired with photographs. Budding craftspeople and engineers will love learning how to use the tools of the trade to make one-of-a-kind creations.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781680775501"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1680775502"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "printType": "BOOK",
+            "categories": [
+                "Woodwork"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=QBzPDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=QBzPDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=QBzPDAAAQBAJ&printsec=frontcover&dq=intitle:cool+woodworking+projects&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ"
+        },
+        {
+            "title": "AutoCAD 2007",
+            "subtitle": "3-D Modeling, a Visual Approach",
+            "authors": [
+                "Alan J. Kalameja"
+            ],
+            "publisher": "AutoDesk Press",
+            "publishedDate": "2006",
+            "description": "This completely up-to-date book is the perfect means for learning to use the three-dimensional capabilities of AutoCAD 2007! It boasts a hands-on introduction to more than 70 AutoCAD commands relating to 3D space and 3D modeling, with concise and easy-to-understand instructions helping users get the most out of every 3D feature of AutoCAD. A series of self-paced tutorials at the end of most chapters guide readers through the hands-on completion of various 3D wireframe, surface, and solid models. An accompanying CD with drawing files of 3D models gets readers up and running quickly.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1418049042"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781418049041"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 578,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=sarvPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=sarvPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=sarvPgAACAAJ&dq=intitle:autocad++d+modeling&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=sarvPgAACAAJ&dq=intitle:autocad++d+modeling&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/AutoCAD_2007.html?hl=&id=sarvPgAACAAJ"
+        },
+        {
+            "title": "Learn Autodesk Inventor 2018 Basics",
+            "subtitle": "3D Modeling, 2D Graphics, and Assembly Design",
+            "authors": [
+                "T. Kishore"
+            ],
+            "publisher": "Apress",
+            "publishedDate": "2017-11-20",
+            "description": "Get started with the basics of part modeling, assembly modeling, presentations, and drawings in this step-by-step tutorial on Autodesk Inventor fundamentals. Next, this book teaches you some intermediate-level topics such as additional part modeling tools, sheet metal modeling, top-down assembly features, assembly joints, and dimension and annotations. Engaging explanations, practical examples, and step-by-step instructions make this tutorial book complete. Once you have read Learn Autodesk Inventor 2018 Basics you will be able to use Autodesk Inventor for 3D modeling, 2D drawings, finite element analysis, mold design, and other purposes, just like a design professional. You will gain all the basic information and essential skills you need to work in Autodesk Inventor immediately. What You'll Learn Carry out virtual 3D modeling for your next 3D printing projects Design molds for 3D printing and other projects Generate 2D drawings Who This Book Is For Novice users of Autodesk Inventor.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781484232255"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1484232259"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 399,
+            "printType": "BOOK",
+            "categories": [
+                "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.4.4.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=jbE_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=jbE_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=jbE_DwAAQBAJ&pg=PA396&dq=intitle:learn+autodesk+inventor++basics++d+modeling+d+graphics+and+assembly+design&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=jbE_DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jbE_DwAAQBAJ"
+        },
+        {
+            "title": "The Ultimate Brush Lettering Guide",
+            "subtitle": "A Complete Step-by-Step Creative Workbook to Jump-Start Modern Calligraphy Skills",
+            "authors": [
+                "Peggy Dean"
+            ],
+            "publisher": "Watson-Guptill",
+            "publishedDate": "2018-07-24",
+            "description": "From the artist behind the popular Pigeon Letters website, a complete guide to learning and perfecting brush lettering, a forgiving style of modern calligraphy that encourages creative expression and imprecision, including basic skills, flourishes, and project ideas. The Ultimate Brush Lettering Guide has something for everyone--from beginners that have never used a brush pen, to seasoned letterers looking for a new style or ideas for creative flourishes. From choosing the best pens and paper and knowing the different styles of lettering, to adding color to your finished pieces--this book covers it all. The book includes templates for labels, cards, handmade bunting, and word collages. It even includes a how to guide for posting your best work on social media. Each lesson builds on itself, unlocking endless opportunities inside the playful art of brush lettering. As a self-taught artist who left her day job to pursue a creative life, Peggy Dean is the ideal teacher for artists and non-artists alike.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780399582189"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0399582185"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 160,
+            "printType": "BOOK",
+            "categories": [
+                "Art"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.5.6.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=REpEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=REpEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=REpEDwAAQBAJ&printsec=frontcover&dq=intitle:ultimate+brush+lettering+guide++a+complete+stepbystep+creative+workbook+to+jumpstart+modern+calligraphy+skills&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=REpEDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=REpEDwAAQBAJ"
+        },
+        {
+            "title": "Rad Recycled Art",
+            "authors": [
+                "Emily Kington"
+            ],
+            "publisher": "Hungry Tomato ®",
+            "publishedDate": "2019-01-01",
+            "description": "Turn everyday waste into a work of art! Design a futuristic cardboard building, make funky chicken bookends, and construct a robot from nuts. Learn how to think outside of the box while recycling.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781541548497"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1541548493"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 32,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Nonfiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=dsJ9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=dsJ9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=dsJ9DwAAQBAJ&pg=PA4&dq=intitle:rad+recycled+art&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=dsJ9DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dsJ9DwAAQBAJ"
+        },
+        {
+            "title": "Hemp Bracelets and More",
+            "subtitle": "Easy Instructions for More Than 20 Designs",
+            "authors": [
+                "Suzanne McNeill"
+            ],
+            "publisher": "Fox Chapel Publishing",
+            "publishedDate": "2016-03-29",
+            "description": "There are so many ways to make cool bracelets with natural hemp! Soft, supple, and durable, hemp cord now comes in a beautiful range of lustrous colors, perfect for making stylish eco-chic jewelry. This book makes it easy, with step-by-step instructions and irresistible projects. Discover how to create amazing hand-tied bracelets, key chains, headbands, and more. Inside you’ll find lots of super fun ideas for both contemporary and earthy boho designs. Bestselling craft author Suzanne McNeill reveals the simple knotting and braiding techniques that guarantee stunning results, with friendly advice on using findings, choosing colors, and embellishing with beads, buttons, rings, and charms.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781607654667"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1607654660"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 250,
+            "printType": "BOOK",
+            "categories": [
+                "Crafts & Hobbies"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=PqV8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=PqV8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=PqV8DwAAQBAJ&printsec=frontcover&dq=intitle:hemp+bracelets+and+more++easy+instructions+for+more+than++designs&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=PqV8DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PqV8DwAAQBAJ"
+        },
+        {
+            "title": "I Can Make Toys",
+            "publisher": "Maple Tree Press",
+            "publishedDate": "1994",
+            "description": "Toys for young children to make, with easy directions and inexpensive and readily available materials, include jet gliders, dolls, puzzles, and other playthings.",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "PSU:000023206137"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 31,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Nonfiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=m9AOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=m9AOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=m9AOAQAAMAAJ&q=intitle:i+can+make+toys&dq=intitle:i+can+make+toys&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=m9AOAQAAMAAJ&dq=intitle:i+can+make+toys&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/I_Can_Make_Toys.html?hl=&id=m9AOAQAAMAAJ"
+        },
+        {
+            "title": "How to Build Treehouses, Huts and Forts",
+            "authors": [
+                "David Stiles"
+            ],
+            "publisher": "Globe Pequot",
+            "publishedDate": "2003",
+            "description": "Finally, a practical guide to building castles in the air.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1592281923"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781592281923"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 96,
+            "printType": "BOOK",
+            "categories": [
+                "Architecture"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "2.2.2.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=3900od2rKbsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=3900od2rKbsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=3900od2rKbsC&q=intitle:how+to+build+treehouses+huts++forts&dq=intitle:how+to+build+treehouses+huts++forts&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=3900od2rKbsC&dq=intitle:how+to+build+treehouses+huts++forts&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Build_Treehouses_Huts_and_Forts.html?hl=&id=3900od2rKbsC"
+        },
+        {
+            "title": "Cool Woodworking Projects",
+            "subtitle": "Fun & Creative Workshop Activities",
+            "authors": [
+                "Rebecca Felix"
+            ],
+            "publisher": "ABDO",
+            "publishedDate": "2017",
+            "description": "With this book, kids can learn how to handcraft a cool bow and arrow set, bend and mold a mini wooden skateboard, and more. Each workshop project includes easy-to-read, step-by-step instructions paired with photographs. Budding craftspeople and engineers will love learning how to use the tools of the trade to make one-of-a-kind creations.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781680775501"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1680775502"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "printType": "BOOK",
+            "categories": [
+                "Woodwork"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=QBzPDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=QBzPDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=QBzPDAAAQBAJ&printsec=frontcover&dq=intitle:cool+woodworking+projects&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QBzPDAAAQBAJ"
+        },
+        {
+            "title": "Designing Smart Homes",
+            "subtitle": "The Role of Artificial Intelligence",
+            "authors": [
+                "Juan Carlos Augusto"
+            ],
+            "publisher": "Springer Science & Business Media",
+            "publishedDate": "2006-06-29",
+            "description": "The area of smart homes is fast developing as an emergent area which attracts the synergy of several areas of science. This volume offers a collection of contributions addressing how artificial intelligence (AI), one of the core areas of computer science, can bring the growing area of smart homes to a higher level of functionality where homes can truly realize the long standing dream of proactively helping their inhabitants in an intelligent way. After an introductory section to describe a smart home scenario and to provide some basic terminology, the following 9 sections turn special attention to a particular exemplar application scenario (provision of healthcare and safety related services to increase the quality of life) exploring the application of specific areas of AI to this scenario.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9783540359944"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "354035994X"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 182,
+            "printType": "BOOK",
+            "categories": [
+                "Architecture"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=QHGHoZ53OBIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=QHGHoZ53OBIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=QHGHoZ53OBIC&pg=PA109&dq=intitle:smart+homes&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=QHGHoZ53OBIC&dq=intitle:smart+homes&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Designing_Smart_Homes.html?hl=&id=QHGHoZ53OBIC"
+        },
+        {
+            "title": "Starting a Makerspace",
+            "authors": [
+                "Pam Williams"
+            ],
+            "publisher": "Cherry Lake",
+            "publishedDate": "2017-01-01",
+            "description": "At makerspaces, makers of all kinds share tools and knowledge to help each other complete projects. Through simple text written to foster creativity and problem solving, students will learn how to start their own makerspaces. Large, colorful images show students how to complete activities. Additional tools, including a glossary and an index, help students learn new vocabulary and locate information.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781634722582"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1634722582"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 24,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Nonfiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=CPNKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=CPNKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=CPNKDQAAQBAJ&pg=PA13&dq=intitle:starting+a+makerspace&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=CPNKDQAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CPNKDQAAQBAJ"
+        },
+        {
+            "title": "Makerspaces",
+            "subtitle": "A Practical Guide for Librarians",
+            "authors": [
+                "John J. Burke"
+            ],
+            "publisher": "Rowman & Littlefield",
+            "publishedDate": "2018-01-23",
+            "description": "This A-Z guidebook on makerspaces is jam-packed with resources, advice, and information to help you develop and fund your own makerspace from the ground up. Readers are introduced to makerspace equipment, new technologies, models for planning and assessing projects, and useful case studies.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781538108192"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1538108194"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 208,
+            "printType": "BOOK",
+            "categories": [
+                "Language Arts & Disciplines"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.2.3.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0txBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0txBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=0txBDwAAQBAJ&printsec=frontcover&dq=intitle:makerspaces++a+practical+guide+for+librarians&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=0txBDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0txBDwAAQBAJ"
+        },
+        {
+            "title": "Organizing a MakerFest",
+            "authors": [
+                "Kristin Fontichiaro"
+            ],
+            "publisher": "Cherry Lake",
+            "publishedDate": "2017-01-01",
+            "description": "At MakerFests, makers of all kinds come together to show off their projects and share knowledge with the public. Through simple text written to foster creativity and problem solving, students will learn how to host their own MakerFests. Large, colorful images show students how to complete activities. Additional tools, including a glossary and an index, help students learn new vocabulary and locate information.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781634722568"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1634722566"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 24,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Nonfiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=4_JKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=4_JKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=4_JKDQAAQBAJ&pg=PA15&dq=intitle:organizing+a+makerfest&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=4_JKDQAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4_JKDQAAQBAJ"
+        },
+        {
+            "title": "Better Living Through Origami",
+            "subtitle": "20 Creative Paper Projects for a Beautiful Home",
+            "authors": [
+                "Nellianna van den Baard",
+                "Kenneth Veenenbos"
+            ],
+            "publisher": "David & Charles",
+            "publishedDate": "2018-08-29",
+            "description": "“Beautifully fresh and contemporary . . . demonstrate[s] the many ways in which origami can be put to practical and decorative use in your home.” —91 Magazine Take papercraft to a new creative level and turn your home into a designer haven with this DIY interiors book by Dutch design duo Studio Snowpuppe. Learn how to create twenty items of sustainable home decor using simple, mindful paper folding and manipulation techniques, and show off your DIY creations at the heart of your home. Step-by-step illustrations will guide you through the projects, which include beautiful lampshades, creative wall art ideas, an ingenious clock, pretty garlands and decorations, unique vases, candle holders, plant holders, decorative bowls, and more—all with a stylish modern aesthetic. Using readily available paper and cardstock, you can create some stunning designer accents for your home for a fraction of the cost of store-bought versions. “These projects are absolutely beautiful, lovingly photographed, and explained in minute detail to give readers the best possible chance at success. With tool listings, measurements, templates, and more at your disposal, you’ll be adding decorative paper touches to your home in no time.” —San Francisco Book Review “Never, ever underestimate the magic that innovative designers can bring to a centuries-old craft. Kudos go to van den Baard and Veenenbos, the Dutch husband-and-wife behind Studio Snowpuppe, who have transformed plain paper and origami techniques into elegant, pleated objets de la maison.” —Booklist (Starred Review) “I never knew origami could look so pretty for the everyday home . . . A must-read to fuel your creativity and home décor.” —LittleBigBell",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781446376683"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1446376680"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 357,
+            "printType": "BOOK",
+            "categories": [
+                "Crafts & Hobbies"
+            ],
+            "averageRating": 3,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.2.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=smnIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=smnIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=smnIDwAAQBAJ&pg=PP1&dq=intitle:better+living+through+origami+++creative+paper+projects+for+a+beautiful+home&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=smnIDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=smnIDwAAQBAJ"
+        },
+        {
+            "title": "Craft the Rainbow",
+            "subtitle": "40 Colorful Paper Projects from The House That Lars Built",
+            "authors": [
+                "Brittany Watson Jepsen"
+            ],
+            "publisher": "Abrams",
+            "publishedDate": "2018-04-24",
+            "description": "What began as an Instagram hashtag and project collection (#CrafttheRainbow) that quickly went viral has become a showstopping book, offering a rainbow of completely new project ideas. Learn how to make playful party decorations, luscious flowers, amazing cards, and sophisticated wreaths, garlands, centerpieces, and more than you can imagine—all with nothing but the creative power of paper. Sought-after designer Brittany Watson Jepsen is known for the unusually imaginative and amazingly beautiful designs she creates for her website and host of clients (including Anthropologie). In Craft the Rainbow, Jepsen walks readers through the easy basics of transforming simple paper—including tissue, crepe, cardstock, leaves of books, and vintage and recycled paper—into vibrant, fanciful, handmade projects suitable for every occasion.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781683352150"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1683352157"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 192,
+            "printType": "BOOK",
+            "categories": [
+                "Crafts & Hobbies"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.3.3.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=JM1FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=JM1FDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=JM1FDwAAQBAJ&printsec=frontcover&dq=intitle:craft+the+rainbow+++colorful+paper+projects+from+the+house+that+lars+built&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=JM1FDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JM1FDwAAQBAJ"
+        },
+        {
+            "title": "Easy Paper Projects",
+            "subtitle": "60 Crafts You Can Wear, Gift, Use and Admire",
+            "authors": [
+                "Maggy Woodley"
+            ],
+            "publisher": "Page Street Publishing",
+            "publishedDate": "2019-09-10",
+            "description": "Transform Paper into Thoughtful Cards, Fun Decorations and More with Easy, Mess-Free Crafts Learn just how versatile paper can be when creating fun, colorful crafts. Whether you have plain printer paper, a rainbow array of cardstock or just a few scraps of construction paper, you’ll be able to create inventive paper crafts that require only a few materials you already have, making them a thrifty and accessible alternative to more complicated projects. So grab your paper, scissors and glue and try these fun projects: • Origami Corner Bookmarks • Tin Can Pen Pots • Paper Pendants • Llama Cards • Origami Lucky Stars Bracelets • 3-D Paper Accordion Flowers • Kite Birds • Paper Dog Puppet • Confetti Bookmarks • Leaf Wreaths • Quick Ghost Garlands • Polar Bear Ornaments A whole slew of cute, exciting projects makes it easy for you to get your craft on no matter the occasion, and they provide hours of fun all year long. With easy-to-follow step-by-step instructions and plenty of photos to guide you, you can be on your way to creating paper masterpieces in no time.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781624148514"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1624148514"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 192,
+            "printType": "BOOK",
+            "categories": [
+                "Crafts & Hobbies"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.2.2.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=8a1_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=8a1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=8a1_DwAAQBAJ&printsec=frontcover&dq=intitle:paper+crafts&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=8a1_DwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8a1_DwAAQBAJ"
+        },
+        {
+            "title": "The Art, Science, and Craft of Great Landscape Photography",
+            "authors": [
+                "Glenn Randall"
+            ],
+            "publisher": "Rocky Nook, Inc.",
+            "publishedDate": "2015-03-16",
+            "description": "The Art, Science, and Craft of Great Landscape Photography teaches photographers how to convert their visual peak experiences-moments of extraordinary natural beauty that evoke a sense of wonder and awe-into stunning images that elicit the same awestruck emotion in their viewers. Randall is an experienced wilderness photographer, and whether you want to venture into the mountains for once-in-a-lifetime shots of raw nature, or simply hone your landscape photography skills from the safety of your back deck, Randall explains the art, science and craft of creating astounding images.Randall begins by focusing on the art of landscape photography. He describes his three-step process for composing a photograph and shows how good composition is an organic process that begins with rules but ultimately transcends them. Randall then explores the science behind successful landscape photographs, which requires understanding key concepts from geography, optics, vision, and psychology. These concepts include: Understanding how the position of the sun at sunrise and sunset varies throughout the year, which will help you plan when and where to shoot. Understanding optics to predict where rainbows will appear, how polarizers will interact with reflections, and where to find spectacular light. Understanding how to use topographic maps and computerized mapping tools to help you find the most promising shooting locations in the wilderness. Understanding how our visual system analyzes images and the psychology of how we view art. These insights will help you produce successful photographs. Exposure is a central aspect of the craft of landscape photography, and Randall tackles the challenges of this topic from every angle-from tips on calculating exposures in the field, to achieving correct exposure in high-contrast lighting situations, to the best digital darkroom techniques.Great landscape photography can be mastered with practice and by applying the techniques taught in this book. The Art, Science, and Craft of Great Landscape Photography is intended for those who already understand the basics of photography and who are ready to master the finer nuances of creating magnificent landscape photographs. Foreword by Reid Callanan Director, Santa Fe Photographic Workshops",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781457189036"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1457189038"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 240,
+            "printType": "BOOK",
+            "categories": [
+                "Photography"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.1.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=D15gBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=D15gBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=D15gBwAAQBAJ&printsec=frontcover&dq=intitle:the+art+science+and+craft+of+great+landscape+photography&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=D15gBwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D15gBwAAQBAJ"
+        },
+        {
+            "title": "Maker Projects for Kids Who Love Electronics",
+            "authors": [
+                "Megan Kopp"
+            ],
+            "publisher": "Crabtree Publishing Company",
+            "publishedDate": "2016-08",
+            "description": "This plugged-in title helps readers navigate the sometimes-complex world of electronic innovation. Young readers can explore this exciting and popular field by learning the basics of electronic circuits and how electronic components work, which they can then apply to an idea of their own. They will be able to create their project using everyday materials and easy-to-understand computer elements. Important electronic innovators and their creations are profiled to provide inspiration for young makers.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0778725758"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780778725756"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 32,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Nonfiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KvXdjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KvXdjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=KvXdjwEACAAJ&dq=intitle:maker+projects+for+kids+who+love+electronics&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=KvXdjwEACAAJ&dq=intitle:maker+projects+for+kids+who+love+electronics&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Maker_Projects_for_Kids_Who_Love_Electro.html?hl=&id=KvXdjwEACAAJ"
+        },
+        {
+            "title": "Build Your Own Robots",
+            "authors": [
+                "Rob Ives"
+            ],
+            "publisher": "Makerspace Models",
+            "publishedDate": "2018",
+            "description": "See engineering come to life with an insect droid, a walking electric robot, and a cutlery bot made from household items. Step-by-step illustrations support robot builders and give them hands-on science experiences.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781512459708"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1512459704"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 32,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Nonfiction"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=fcs1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=fcs1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=fcs1DwAAQBAJ&pg=PP1&dq=intitle:build+your+own+robots&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=fcs1DwAAQBAJ&dq=intitle:build+your+own+robots&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Build_Your_Own_Robots.html?hl=&id=fcs1DwAAQBAJ"
+        },
+        {
+            "title": "Electronics Projects for Beginners",
+            "authors": [
+                "Tammy Enz"
+            ],
+            "publisher": "Capstone",
+            "publishedDate": "2018",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781515794950"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1515794954"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "printType": "BOOK",
+            "categories": [
+                "Electronic apparatus and appliances"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=3D07DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=3D07DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=3D07DwAAQBAJ&printsec=frontcover&dq=intitle:electronics+projects+for+beginners&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=3D07DwAAQBAJ&dq=intitle:electronics+projects+for+beginners&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Electronics_Projects_for_Beginners.html?hl=&id=3D07DwAAQBAJ"
+        },
+        {
+            "title": "Sewing Techniques and Patterns",
+            "authors": [
+                "Marie-Noëlle Bayard"
+            ],
+            "publisher": "Sterling Publishing Company, Inc.",
+            "publishedDate": "2007",
+            "description": "A practical guide to sewing techniques includes patterns for a variety of items including cushions, children's clothing, a kimono, a jersey shawl, and cradle blankets.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781402737718"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1402737718"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 256,
+            "printType": "BOOK",
+            "categories": [
+                "Crafts & Hobbies"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=YOpre4kMZvoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=YOpre4kMZvoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=YOpre4kMZvoC&printsec=frontcover&dq=intitle:sewing&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=YOpre4kMZvoC&dq=intitle:sewing&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Sewing_Techniques_and_Patterns.html?hl=&id=YOpre4kMZvoC"
+        }
+    ]
+}
