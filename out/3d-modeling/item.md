@@ -3,5 +3,9 @@ title: 3D Modeling
 taxonomy:
 	author: Theo Zizka
 	pubdate: 2014-08-01
+	isbn: 9781631378126
+	subjects: 3D Modeling, Juvenile Nonfiction
+	audience: K-12
+	expertise: Beginner
 ---
-Learn how to create computer-generated 3D models like the ones used in video games and animated films. Readers will blend their art and technology skills as they learn how to use the program SketchUp. Photos, sidebars, and callouts help readers draw connections between new concepts in this book and other makers-related concepts they may already know. Additional text features and search tools, including a glossary and an index, help students locate information and learn new words.
+This book explores the basics of 3D modeling using the free SketchUp software.  It also suggests ways to  further develop your 3D modeling skills once you finish the book.

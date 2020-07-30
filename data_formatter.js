@@ -1,59 +1,38 @@
 let fs = require('fs')
-let data = require('./books.json')
+let data = require('./formatted_data/complete_books.json')
 
-let books = data.books
-books.forEach(book => {
+data.forEach(book => {
     if (!book.error) {
-        let fulltitle = book.title
-        if (book.subtitle) fulltitle = fulltitle + ' ' + book.subtitle
-        let grub = fulltitle.replace(/[^A-Z0-9]+/ig, "-").toLowerCase()
-        if (grub.length > 15) {
-            grub = grub.substr(0, 35)
+        // define grub for url
+        let grub = book.title.replace(/[^A-Z0-9]+/ig, "-").toLowerCase()
+        if (grub.length > 30) {
+            grub = grub.substr(0, 30)
             grub = grub.substr(0, grub.lastIndexOf("-"))
         }
+
+        // add data to page
         let page =
             '---\n' +
-            'title: ' + fulltitle + '\n' +
+            'title: ' + book.title + '\n' +
             'taxonomy:\n' +
             '\tauthor: ' + book.authors.join(', ') + '\n' +
-            '\tpubdate: ' + book.publishedDate + '\n' +
+            '\tpubdate: ' + book.published + '\n' +
+            '\tisbn: ' + book.isbn + '\n' +
+            '\tsubjects: ' + book.subjects.join(', ') + '\n' +
+            '\taudience: ' + book.audience.join(', ') + '\n' +
+            '\texpertise: ' + book.expertise.join(', ') + '\n' +
             '---\n' + book.description
 
 
-
+        // create folder for page
         if (!fs.existsSync('out/' + grub)) {
             fs.mkdirSync('out/' + grub);
         }
+
+        // write file
         fs.writeFile('out/' + grub + '/item.md', page, function (err) {
             console.log("writing " + grub)
         })
 
     }
 })
-/*
-fs.createReadStream('database_short.csv')
-  .pipe(csv())
-  .on('data', (data) => results.push(data))
-    .on('end', () => {
-        results.forEach(book => {
-            //console.log(book)
-
-            axios.get('https://www.googleapis.com/books/v1/volumes?q=isbn:' + book.ISBN
-              )
-                .then(function (response) {
-                  console.log(response)
-              })
-
-            let grub = book.Title.replace(/[^A-Z0-9]+/ig, "_");
-            if (grub.length > 15) {
-                grub = grub.substr(0,35)
-                grub = grub.substr(0, grub.lastIndexOf("_")).toLowerCase()
-            }
-            if (!fs.existsSync('out/' + grub)){
-                fs.mkdirSync('out/' + grub);
-            }
-
-
-        })
-
-  });*/

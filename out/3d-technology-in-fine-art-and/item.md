@@ -1,7 +1,11 @@
 ---
-title: 3D Technology in Fine Art and Craft Exploration of 3d Printing, Scanning, Sculpting and Milling
+title: 3D Technology in Fine Art and Craft: Exploration of 3d Printing, Scanning, Sculpting and Milling
 taxonomy:
 	author: Bridgette Mongeon
 	pubdate: 2015-08-24
+	isbn: 1138844330
+	subjects: 3D Printing, 3D Scanning, Art
+	audience: General
+	expertise: Beginner
 ---
-The possibilities for creation are endless with 3D printing, sculpting, scanning, and milling, and new opportunities are popping up faster than artists can keep up with them. 3D Technology in Fine Art and Craft takes the mystery out of these exciting new processes by demonstrating how to navigate their digital components and showing their real world applications. Artists will learn to incorporate these new technologies into their studio work and see their creations come to life in a physical form never before possible. Featuring a primer on 3D basics for beginners, interviews, tutorials, and artwork from over 80 artists, intellectual property rights information, and a comprehensive companion website, this book is your field guide to exploring the exhilarating new world of 3D. Follow step-by-step photos and tutorials outlining the techniques, methodologies, and finished products of master artists who have employed 3D technology in new and inventive ways Learn how to enlarge, reduce, and repurpose existing artwork and create virtual pieces in physical forms through a variety of mediums Research your options with an accessible list of pros and cons of the various software, 3D printers, scanners, milling machines, and vendors that provide services in 3D technology Listen to podcasts with the artists and learn more tips and tricks through the book's website at www.digitalsculpting.net
+3D Technology in Fine Art and Craft covers the basics of 3D printing and provides tutorials for creating art with a variety of 3D technologies.  There is also a section dedicated to professional artists who have created artwork using 3D technology and what techniques they employ in their creative process.

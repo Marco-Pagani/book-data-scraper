@@ -1,7 +1,11 @@
 ---
-title: Makerspaces Top Trailblazing Projects, A LITA Guide
+title: Makerspaces: Top Trailblazing Projects, A LITA Guide
 taxonomy:
 	author: Caitlin A. Bagley
 	pubdate: 2014
+	isbn: 9781555709907
+	subjects: Making Scholarship, Makerspaces - Operating, House & Home
+	audience: College/University, Libraries
+	expertise: Advanced
 ---
-Spaces that have been designed to allow users to create, build, and learn new projects and technologies, makerspaces employ a variety of tools such as 3-D printers, AutoCAD design software, and even open-source hardware like Arduino Kits. Developing a community around shared use of space and equipment, a tenet of the makerspace movement, fits squarely into libraries’ mission. Bagley examines nine makerspaces in public, academic, and school libraries, describing their design and technical decisions in depth and showing how each is doing something unique and different, under a wide range of budgets and project offerings. Enabling readers to quickly gather information about these trailblazing projects, Bagley’s guide Defines the makerspace, and describes why it fits perfectly into the library’s role as community center Answers common questions about implementing a makerspace project, detailing how libraries are addressing issues such as registration, usage policy, noise, software programs in digital workspaces, adapting spaces, funding, and promotion Illustrates approaches libraries are taking to staffing makerspaces, from Anchorage Public Library’s Maker in Residence and Mesa Public Library's THINKspot coordinator, to the library school students involved with University of Michigan and University of Illinois makerspace projects Covers the demographics of makerspace users, from children and teens to hobbyists and job seekers, offering guidance for targeting, marketing, and programming A sourcebook of ideas that readers can apply at their own institutions, this resource also demonstrates how makerspaces can be gathering places for people to learn how to create and build together as a community.
+The book provides information on Makerspace and its different uses and applications. It then provides a detailed description and analysis of some of the most successful makerspace projects at both academic and public libraries. It provides useful information which readers can apply to their own institutions.

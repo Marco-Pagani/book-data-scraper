@@ -1,7 +1,11 @@
 ---
-title: Understanding Design in Film Production Using Art, Light and Locations to Tell Your Story
+title: Understanding Design in Film Production: Using Art, Light and Locations to Tell Your Story
 taxonomy:
 	author: Barbara Freedman Doyle
 	pubdate: 2019
+	isbn: 1138058696
+	subjects: Photography & Video, Performing Arts
+	audience: General
+	expertise: Intermediate, Beginner, Advanced
 ---
-Great visual storytelling is possible on a minimal budget, but you have to spend a lot of energy thinking and planning.In Understanding Design in Film Production, author Barbara Freedman Doyle demonstrates how to use production design, cinematography, lighting, and locations to create an effective and compelling visual story, even on the tightest of budgets. Featuring in-depth interviews with production designers, set decorators, construction coordinators, cinematographers, costumers, and location managers talking about the techniques of their craft, it provides you with a feel for what everyone on the visual team does, how they think and plan, and how best to utilize the knowledge and skills they offer. This book guides you through how to find, secure, and manage the best locations, how to create and dress a set, and how to make old look new and new look old--all on a tight budget. With insights from experts at the top of their field, sharing how they plan for the real-world application of large-scale ideas, you'll be able to see ways to apply their techniques to your own smaller-scale productions. Understanding Design in Film Productionis a practical, hands-on guide for any aspiring filmmaker who wants to understand the basic principles of visual design in order to create exceptional looking films. ts at the top of their field, sharing how they plan for the real-world application of large-scale ideas, you'll be able to see ways to apply their techniques to your own smaller-scale productions. Understanding Design in Film Productionis a practical, hands-on guide for any aspiring filmmaker who wants to understand the basic principles of visual design in order to create exceptional looking films.
+Understanding design in film production is for anyone interested in beginning their journey in filmmaking and film production.  Including examples from famous films, it leads you through the process of preparing for your films success, including exploring themes, intentional use of colors, finding or constructing your perfect setting, and more.

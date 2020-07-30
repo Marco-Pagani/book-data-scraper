@@ -1,7 +1,0 @@
----
-title: Food Photography ABeginnersGuide to Creating Appetizing Images
-taxonomy:
-	author: Corinna Gissemann
-	pubdate: 2016-06-21
----
-Anyone who has been inspired to take a picture of a great-looking meal knows that creating a successful food photograph is not easy. Though the food may look amazing, the resulting image can often end up mediocre and unappealing. Whether you want to create great food images for your blog or break into the world of commercial food photography, Food Photography is the perfect place to start your journey. Corinna Gissemann, a professional food photographer, walks you through everything you need to know, starting with a primer on equipment and exposure, followed by a detailed explanation of the extremely important roles that light, composition, and styling play in food photography. In these chapters, you'll learn all about hard vs. soft light, how to use reflectors and flash, how to frame your image so that your subject matter truly pops, the food styling techniques that will have your viewers getting hungry, and much more! Additionally, entire chapters are devoted to editing and managing your images in Lightroom, the props you need to have in order to create great food photos, and all the tips and tricks that will save you time and help make getting "the shot" that much easier.

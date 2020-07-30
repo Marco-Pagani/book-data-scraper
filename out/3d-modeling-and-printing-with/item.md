@@ -1,7 +1,11 @@
 ---
-title: 3D Modeling and Printing with Tinkercad Create and Print Your Own 3D Models
+title: 3D Modeling and Printing with Tinkercad: Create and Print Your Own 3D Models
 taxonomy:
 	author: James Floyd Kelly
 	pubdate: 2014-05-29
+	isbn: 9780133798111
+	subjects: 3D Modeling, Technology & Engineering
+	audience: General
+	expertise: Beginner
 ---
-The First Complete Guide to Tinkercad: 3D Modeling That’s Powerful, Friendly, & Free! Want to master 3D modeling and printing? Tinkercad is the perfect software for you: It’s friendly, web-based, and free. Even better, you don’t have to rely on Tinkercad’s technical documentation to use it. This easy, full-color guide is packed with photos and projects that bring 3D modeling to life! No 3D or CAD experience? No problem: Best-selling author James Floyd Kelly teaches you step-by-step through simple examples and hands-on activities. You’ll learn all the concepts and techniques you need...build your skills, comfort, and confidence...and create exciting projects that show off Tinkercad’s full power. Learning 3D with your kids? You’ll even find projects you can work on together! Quickly master the basic 3D concepts you need to understand Navigate Tinkercad’s Dashboard and tool set Create your first 3D model and control its properties Save time by incorporating publicly available elements Import hand sketches or SVG graphics into your models Use the Shape Generator to create custom shapes Add raised text and other embellishments Assemble multiple pieces into a more sophisticated model Make realistic prototypes Output molds for creating items from soft materials Transform models into STL files for printing Get great results from an online 3D printing service Move your 3D objects into the Minecraft virtual world Find answers to your most important Tinkercad questions Discover tools for tasks Tinkercad can’t handle Learn from others! Explore projects at Thingiverse and the Gallery
+This book is perfect for a beginner in Tinkercad looking to learn how create and use a 3D model.  It Includes basic skills in 3D modeling using a model rocket ship as an example.After developing basic skills, it moves the project creation process, how to print your project, and other applications for your 3D models.

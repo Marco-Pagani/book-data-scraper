@@ -3,5 +3,9 @@ title: Embroidery
 taxonomy:
 	author: DK Publishing
 	pubdate: 2015-06-02
+	isbn: 1465436030
+	subjects: Sewing, Crafts & Hobbies
+	audience: General
+	expertise: Beginner, Advanced, Intermediate
 ---
-Embroidery is the ultimate stitch dictionary and the ideal guide to embroidery, whatever your level of expertise. The perfect reference guide to needlework, Embroidery is a comprehensive guide to inspire and inform sewers of all levels. Find advice on which thread, needles, or fabrics work with which techniques, and take a look at an incredible 200 stitches — with levels of difficulty, step-by-step instructions, and ideas on where and how to use them. This practical guide covers sewing tips for dressmaking, needlepoint, and embroidery stitches, with detailed information simply presented in illustration-rich pages. WithEmbroidery it's easy to find exactly which stitch is right for your next sewing project.
+This book starts by introducing the tools you will need to create beautiful embroidery.  It follows with illustrated instructions of over 200 stitches. There is a photo index to quickly identify and locate a stitch you'd like to learn.

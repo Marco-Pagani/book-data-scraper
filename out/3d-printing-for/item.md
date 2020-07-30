@@ -1,7 +1,0 @@
----
-title: 3D Printing For Dummies
-taxonomy:
-	author: Kalani Kirk Hausman, Richard Horne
-	pubdate: 2014-01-08
----
-Get started printing out 3D objects quickly and inexpensively! 3D printing is no longer just a figment of your imagination. This remarkable technology is coming to the masses with the growing availability of 3D printers. 3D printers create 3-dimensional layered models and they allow users to create prototypes that use multiple materials and colors. This friendly-but-straightforward guide examines each type of 3D printing technology available today and gives artists, entrepreneurs, engineers, and hobbyists insight into the amazing things 3D printing has to offer. You’ll discover methods for the creation of 3D printable objects using software, 3D scanners, and even photographs with the help of this timely For Dummies guide. Includes information on stereolithography, selective sintering, fused deposition, and granular binding techniques Covers the potential for the transformation of production and manufacturing, reuse and recycling, intellectual property design controls, and the commoditization of traditional products from magazines to material goods Walks you through the process of creating a RepRap printer using open-source designs, software, and hardware Addresses the limitations of current 3D printing technologies and provides strategies for improved success 3D Printing For Dummies is the must-have guide to make manufacturing your own dynamic designs a dream come true!

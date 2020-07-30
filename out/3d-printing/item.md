@@ -1,7 +1,0 @@
----
-title: 3D Printing Projects
-taxonomy:
-	author: Dorling Kindersley
-	pubdate: 2017-10-02
----
-Fourteen incredible 3D printing projects for kids to design and print their own toys, gadgets, models, and ornaments without the need for a 3D printer at home. Using freely available online 3D modelling/CAD programmes, 3D Printing Projects has inspiration and instructions for a wide range of thrilling projects, from simple models you can print and assemble at home to more elaborate builds you can design on screen and then order online. Taking children 9 years old+ through how a 3D printer works and what type of 3D printers there are to 3D scanning and preparing files, this is the perfect introduction to this exciting and ever-expanding technology. Each project has a print time, details of filament needed and a difficulty rating from easy for beginners to difficult for those looking for a new challenge. Step-by-step instructions walk you through the 3D design process, from digital modelling and sculpting to slicing, printing, and painting so that children can make their own shark-shaped phone stand or chess set! Join the 3D printing revolution today with DK's 3D Printing Projects book. Projects in the book: desk tidy, impossible box, dinosaur stamp, coat hook, photo frame, treasure box, phone stands, star lantern, plant pot, fridge magnet, racing car, troll family, chess set and castle

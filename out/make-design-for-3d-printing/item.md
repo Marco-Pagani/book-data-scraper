@@ -1,7 +1,11 @@
 ---
-title: Make: Design for 3D Printing Scanning, Creating, Editing, Remixing, and Making in Three Dimensions
+title: Make: Design for 3D Printing: Scanning, Creating, Editing, Remixing, and Making in Three Dimensions
 taxonomy:
 	author: Samuel N. Bernier, Bertier Luyt, Tatiana Reinhard
 	pubdate: 2015-10-11
+	isbn: 1457187361
+	subjects: 3D Scanning, 3D Modeling
+	audience: General
+	expertise: Beginner
 ---
-France's Le FabShop has extensive experience testing 3D printers and creating digital models for them. From an articulated Makey Robot to a posable elephant model, Samuel N. Bernier and the rest of Le FabShop's team have created some of the most-printed designs in the 3D printing world. This book uses their work to teach you how to get professional results out of a desktop 3D printer without needing to be trained in design. Through a series of tutorials and case studies, this book gives you the techniques to turn a product idea into a 3D model and a prototype. Focusing on free design software and affordable technologies, the exercises in this book are the perfect boost to any beginner looking to start designing for 3D printing. Designing for the tool and finding a good tool to fit the design--these are at the core of the product designer's job, and these are the tools this book will help you master. Foreword by Carl Bass, Autodesk's CEO, a passionate and prolific Maker. In Design For 3D Printing, you'll: Learn the different 3D printing technologies Choose the best desktop 3D printer Discover free 3D modeling software Become familiar with 3D scanning solutions Find out how to go from a bad to a good 3D source file, one that's ready-to-print
+Designed for the everyday consumer, this book will guide you through the emerging world of 3D printing and give you information on techniques, machines accessible to anyone wanting to start 3D printing.  You will learn the basics of various softwares for editing projects or modeling them yourself.  It includes a downloadable projects that you can work on as you follow instructions detailed to build each skill.

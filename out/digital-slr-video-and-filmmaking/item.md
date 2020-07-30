@@ -1,7 +1,0 @@
----
-title: Digital SLR Video and Filmmaking For Dummies
-taxonomy:
-	author: John Carucci
-	pubdate: 2013-02-18
----
-Step-by-step guide for using your digital SLR to make quality video With digital SLR cameras becoming more and more popular as replacements for standalone video cameras, this book helps photographers become better videographers and shows videographers how to incorporate DSLRs into their work. The book includes an overview of the DSLR video tools and process and shows how to establish camera settings for effective capture, light a scene, get sound, and achieve the film look. The book also offers the basics on editing footage into a final product using common video editing tools. Offers everything needed to shoot, produce, and edit a professional looking videos using DSLR video equipment Written for both professional photographers and videographers and those just starting out Includes the steps for applying information to a film project, including developing a screenplay, approaching shooting like a cinematographer, and directing Contains a walkthrough of common video projects including making a music video, a wedding video, and video greeting card Digital SLR Video and Filmmaking for Dummies is designed to help photographers ramp up their video skills, videographers add DSLRs to their toolkits, and amateurs begin shooting their own short films and videos.
