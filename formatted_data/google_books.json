@@ -2704,6 +2704,90 @@
 		"canonicalVolumeLink": "https://books.google.com/books/about/Food_Photography.html?hl=&id=Xj9ZjwEACAAJ"
 	},
 	{
+		"title": "Make: Getting Started with Arduino",
+		"subtitle": "The Open Source Electronics Prototyping Platform",
+		"authors": [
+			"Massimo Banzi",
+			"Michael Shiloh"
+		],
+		"publisher": "Maker Media",
+		"publishedDate": "2014-12-28",
+		"description": "Presents an introduction to the open-source electronics prototyping platform.",
+		"industryIdentifiers": [
+			{
+				"type": "ISBN_10",
+				"identifier": "1449363334"
+			},
+			{
+				"type": "ISBN_13",
+				"identifier": "9781449363338"
+			}
+		],
+		"readingModes": {
+			"text": false,
+			"image": false
+		},
+		"pageCount": 245,
+		"printType": "BOOK",
+		"categories": [
+			"Computers"
+		],
+		"maturityRating": "NOT_MATURE",
+		"allowAnonLogging": false,
+		"contentVersion": "preview-1.0.0",
+		"imageLinks": {
+			"smallThumbnail": "http://books.google.com/books/content?id=nYLmoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+			"thumbnail": "http://books.google.com/books/content?id=nYLmoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		},
+		"language": "en",
+		"previewLink": "http://books.google.com/books?id=nYLmoAEACAAJ&dq=isbn:9781449363338&hl=&cd=1&source=gbs_api",
+		"infoLink": "http://books.google.com/books?id=nYLmoAEACAAJ&dq=isbn:9781449363338&hl=&source=gbs_api",
+		"canonicalVolumeLink": "https://books.google.com/books/about/Make_Getting_Started_with_Arduino.html?hl=&id=nYLmoAEACAAJ"
+	},
+	{
+		"title": "Getting the Most Out of Makerspaces to Create with 3-D Printers",
+		"authors": [
+			"Nicki Peter Petrikowski"
+		],
+		"publisher": "The Rosen Publishing Group, Inc",
+		"publishedDate": "2014-07-15",
+		"description": "3-D printing allows for the creation of nearly any type of object, from an entire house to a human organ. Now with makerspaces, collaborative engineering workspaces, virtually anyone can utilize these printers to make anything they can dream up. This title shows young people just how. With information on where to find makerspaces in their local community to the latest types of 3-D printers available, this resource grabs the interest of engineering-minded students and sets them on course to excel in STEM classes. This book also includes examples of interesting beginner projects to create and print at a makerspace.",
+		"industryIdentifiers": [
+			{
+				"type": "ISBN_13",
+				"identifier": "9781477777763"
+			},
+			{
+				"type": "ISBN_10",
+				"identifier": "1477777768"
+			}
+		],
+		"readingModes": {
+			"text": true,
+			"image": true
+		},
+		"pageCount": 64,
+		"printType": "BOOK",
+		"categories": [
+			"Juvenile Nonfiction"
+		],
+		"maturityRating": "NOT_MATURE",
+		"allowAnonLogging": false,
+		"contentVersion": "0.5.3.0.preview.3",
+		"panelizationSummary": {
+			"containsEpubBubbles": false,
+			"containsImageBubbles": false
+		},
+		"imageLinks": {
+			"smallThumbnail": "http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+			"thumbnail": "http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		},
+		"language": "en",
+		"previewLink": "http://books.google.com/books?id=pca2BQAAQBAJ&printsec=frontcover&dq=intitle:getting+the+most+out+of+makerspaces+to+create+with+d+printers&hl=&cd=1&source=gbs_api",
+		"infoLink": "https://play.google.com/store/books/details?id=pca2BQAAQBAJ&source=gbs_api",
+		"canonicalVolumeLink": "https://play.google.com/store/books/details?id=pca2BQAAQBAJ"
+	},
+	{
 		"title": "Fundamentals of Wearable Computers and Augmented Reality",
 		"authors": [
 			"Woodrow Barfield"
@@ -2787,49 +2871,6 @@
 		"previewLink": "http://books.google.com/books?id=qKQcXBpWXPAC&printsec=frontcover&dq=isbn:9781449344214&hl=&cd=1&source=gbs_api",
 		"infoLink": "http://books.google.com/books?id=qKQcXBpWXPAC&dq=isbn:9781449344214&hl=&source=gbs_api",
 		"canonicalVolumeLink": "https://books.google.com/books/about/Getting_Started_with_Raspberry_Pi.html?hl=&id=qKQcXBpWXPAC"
-	},
-	{
-		"title": "Getting the Most Out of Makerspaces to Create with 3-D Printers",
-		"authors": [
-			"Nicki Peter Petrikowski"
-		],
-		"publisher": "The Rosen Publishing Group, Inc",
-		"publishedDate": "2014-07-15",
-		"description": "3-D printing allows for the creation of nearly any type of object, from an entire house to a human organ. Now with makerspaces, collaborative engineering workspaces, virtually anyone can utilize these printers to make anything they can dream up. This title shows young people just how. With information on where to find makerspaces in their local community to the latest types of 3-D printers available, this resource grabs the interest of engineering-minded students and sets them on course to excel in STEM classes. This book also includes examples of interesting beginner projects to create and print at a makerspace.",
-		"industryIdentifiers": [
-			{
-				"type": "ISBN_13",
-				"identifier": "9781477777763"
-			},
-			{
-				"type": "ISBN_10",
-				"identifier": "1477777768"
-			}
-		],
-		"readingModes": {
-			"text": true,
-			"image": true
-		},
-		"pageCount": 64,
-		"printType": "BOOK",
-		"categories": [
-			"Juvenile Nonfiction"
-		],
-		"maturityRating": "NOT_MATURE",
-		"allowAnonLogging": false,
-		"contentVersion": "0.5.3.0.preview.3",
-		"panelizationSummary": {
-			"containsEpubBubbles": false,
-			"containsImageBubbles": false
-		},
-		"imageLinks": {
-			"smallThumbnail": "http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-			"thumbnail": "http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-		},
-		"language": "en",
-		"previewLink": "http://books.google.com/books?id=pca2BQAAQBAJ&printsec=frontcover&dq=intitle:getting+the+most+out+of+makerspaces+to+create+with+d+printers&hl=&cd=1&source=gbs_api",
-		"infoLink": "https://play.google.com/store/books/details?id=pca2BQAAQBAJ&source=gbs_api",
-		"canonicalVolumeLink": "https://play.google.com/store/books/details?id=pca2BQAAQBAJ"
 	},
 	{
 		"title": "Girl with a Sewing Machine",
@@ -4024,47 +4065,6 @@
 		"canonicalVolumeLink": "https://books.google.com/books/about/Make_It_Wear_It_Wearable_Electronics_for.html?hl=&id=5uqzswEACAAJ"
 	},
 	{
-		"title": "Make: Getting Started with Arduino",
-		"subtitle": "The Open Source Electronics Prototyping Platform",
-		"authors": [
-			"Massimo Banzi",
-			"Michael Shiloh"
-		],
-		"publisher": "Maker Media",
-		"publishedDate": "2014-12-28",
-		"description": "Presents an introduction to the open-source electronics prototyping platform.",
-		"industryIdentifiers": [
-			{
-				"type": "ISBN_10",
-				"identifier": "1449363334"
-			},
-			{
-				"type": "ISBN_13",
-				"identifier": "9781449363338"
-			}
-		],
-		"readingModes": {
-			"text": false,
-			"image": false
-		},
-		"pageCount": 245,
-		"printType": "BOOK",
-		"categories": [
-			"Computers"
-		],
-		"maturityRating": "NOT_MATURE",
-		"allowAnonLogging": false,
-		"contentVersion": "preview-1.0.0",
-		"imageLinks": {
-			"smallThumbnail": "http://books.google.com/books/content?id=nYLmoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-			"thumbnail": "http://books.google.com/books/content?id=nYLmoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-		},
-		"language": "en",
-		"previewLink": "http://books.google.com/books?id=nYLmoAEACAAJ&dq=isbn:9781449363338&hl=&cd=1&source=gbs_api",
-		"infoLink": "http://books.google.com/books?id=nYLmoAEACAAJ&dq=isbn:9781449363338&hl=&source=gbs_api",
-		"canonicalVolumeLink": "https://books.google.com/books/about/Make_Getting_Started_with_Arduino.html?hl=&id=nYLmoAEACAAJ"
-	},
-	{
 		"title": "Make: Wearable Electronics",
 		"subtitle": "Design, Prototype, and Wear Your Own Interactive Garments",
 		"authors": [
@@ -4450,50 +4450,7 @@
 		"infoLink": "http://books.google.com/books?id=vXQ1oAEACAAJ&dq=isbn:1484200268&hl=&source=gbs_api",
 		"canonicalVolumeLink": "https://books.google.com/books/about/Mastering_3D_Printing.html?hl=&id=vXQ1oAEACAAJ"
 	},
-	{
-		"title": "Mastering 3D Printing",
-		"authors": [
-			"Joan Horvath"
-		],
-		"publisher": "Apress",
-		"publishedDate": "2014-09-18",
-		"description": "Mastering 3D Printing shows you how to get the most out of your printer, including how to design models, choose materials, work with different printers, and integrate 3D printing with traditional prototyping to make techniques like sand casting more efficient. You've printed key chains. You've printed simple toys. Now you're ready to innovate with your 3D printer to start a business or teach and inspire others. Joan Horvath has been an educator, engineer, author, and startup 3D printing company team member. She shows you all of the technical details you need to know to go beyond simple model printing to make your 3D printer work for you as a prototyping device, a teaching tool, or a business machine.",
-		"industryIdentifiers": [
-			{
-				"type": "ISBN_13",
-				"identifier": "9781484200254"
-			},
-			{
-				"type": "ISBN_10",
-				"identifier": "148420025X"
-			}
-		],
-		"readingModes": {
-			"text": true,
-			"image": true
-		},
-		"pageCount": 224,
-		"printType": "BOOK",
-		"categories": [
-			"Computers"
-		],
-		"maturityRating": "NOT_MATURE",
-		"allowAnonLogging": true,
-		"contentVersion": "1.5.4.0.preview.3",
-		"panelizationSummary": {
-			"containsEpubBubbles": false,
-			"containsImageBubbles": false
-		},
-		"imageLinks": {
-			"smallThumbnail": "http://books.google.com/books/content?id=XFInCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-			"thumbnail": "http://books.google.com/books/content?id=XFInCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-		},
-		"language": "en",
-		"previewLink": "http://books.google.com/books?id=XFInCgAAQBAJ&printsec=frontcover&dq=isbn:9781484200254&hl=&cd=1&source=gbs_api",
-		"infoLink": "https://play.google.com/store/books/details?id=XFInCgAAQBAJ&source=gbs_api",
-		"canonicalVolumeLink": "https://play.google.com/store/books/details?id=XFInCgAAQBAJ"
-	},
-	{
+{
 		"title": "Mastering Adobe Premiere Pro CS6 Hotshot",
 		"authors": [
 			"Paul Ekert"
@@ -5480,47 +5437,6 @@
 		"canonicalVolumeLink": "https://books.google.com/books/about/Sew_Electric.html?hl=&id=78OSngEACAAJ"
 	},
 	{
-		"title": "Sewing Techniques and Patterns",
-		"authors": [
-			"Marie-Noëlle Bayard"
-		],
-		"publisher": "Sterling Publishing Company, Inc.",
-		"publishedDate": "2007",
-		"description": "A practical guide to sewing techniques includes patterns for a variety of items including cushions, children's clothing, a kimono, a jersey shawl, and cradle blankets.",
-		"industryIdentifiers": [
-			{
-				"type": "ISBN_13",
-				"identifier": "9781402737718"
-			},
-			{
-				"type": "ISBN_10",
-				"identifier": "1402737718"
-			}
-		],
-		"readingModes": {
-			"text": false,
-			"image": true
-		},
-		"pageCount": 256,
-		"printType": "BOOK",
-		"categories": [
-			"Crafts & Hobbies"
-		],
-		"averageRating": 5,
-		"ratingsCount": 1,
-		"maturityRating": "NOT_MATURE",
-		"allowAnonLogging": false,
-		"contentVersion": "preview-1.0.0",
-		"imageLinks": {
-			"smallThumbnail": "http://books.google.com/books/content?id=YOpre4kMZvoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-			"thumbnail": "http://books.google.com/books/content?id=YOpre4kMZvoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-		},
-		"language": "en",
-		"previewLink": "http://books.google.com/books?id=YOpre4kMZvoC&printsec=frontcover&dq=intitle:sewing&hl=&cd=1&source=gbs_api",
-		"infoLink": "http://books.google.com/books?id=YOpre4kMZvoC&dq=intitle:sewing&hl=&source=gbs_api",
-		"canonicalVolumeLink": "https://books.google.com/books/about/Sewing_Techniques_and_Patterns.html?hl=&id=YOpre4kMZvoC"
-	},
-	{
 		"title": "Smart Textiles for Designers",
 		"subtitle": "Inventing the Future of Fabrics",
 		"authors": [
@@ -5939,6 +5855,92 @@
 		"previewLink": "http://books.google.com/books?id=D15gBwAAQBAJ&printsec=frontcover&dq=intitle:the+art+science+and+craft+of+great+landscape+photography&hl=&cd=1&source=gbs_api",
 		"infoLink": "https://play.google.com/store/books/details?id=D15gBwAAQBAJ&source=gbs_api",
 		"canonicalVolumeLink": "https://play.google.com/store/books/details?id=D15gBwAAQBAJ"
+    },
+    {
+		"title": "The Invent to Learn Guide to 3D Printing in the Classroom",
+		"subtitle": "Recipes for Success",
+		"authors": [
+			"David D. Thornburg",
+			"David Thornburg Ph D",
+			"Norma Thornburg MA",
+			"Sara Armstrong",
+			"Sara Armstrong Ph D"
+		],
+		"publishedDate": "2014-06-01",
+		"description": "\"3D printing will be bigger than the Web.\" Chris Anderson, former editor-in-chief of Wired magazine This book is an essential guide for educators interested in bringing the amazing world of 3D printing to their classrooms. Learn about the technology, exciting powerful new design software, and even advice for purchasing your first 3D printer. The real power of the book comes from a variety of teacher-tested step-by-step classroom projects. Eighteen fun and challenging projects explore science, technology, engineering, and mathematics, along with forays into the visual arts and design. The Invent To Learn Guide to 3D Printing in the Classroom is written in an engaging style by authors with decades of educational technology experience.",
+		"industryIdentifiers": [
+			{
+				"type": "ISBN_10",
+				"identifier": "098915114X"
+			},
+			{
+				"type": "ISBN_13",
+				"identifier": "9780989151146"
+			}
+		],
+		"readingModes": {
+			"text": false,
+			"image": false
+		},
+		"pageCount": 163,
+		"printType": "BOOK",
+		"categories": [
+			"Educational technology"
+		],
+		"maturityRating": "NOT_MATURE",
+		"allowAnonLogging": false,
+		"contentVersion": "preview-1.0.0",
+		"imageLinks": {
+			"smallThumbnail": "http://books.google.com/books/content?id=c46roAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+			"thumbnail": "http://books.google.com/books/content?id=c46roAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		},
+		"language": "en",
+		"previewLink": "http://books.google.com/books?id=c46roAEACAAJ&dq=isbn:9780989151146&hl=&cd=1&source=gbs_api",
+		"infoLink": "http://books.google.com/books?id=c46roAEACAAJ&dq=isbn:9780989151146&hl=&source=gbs_api",
+		"canonicalVolumeLink": "https://books.google.com/books/about/The_Invent_to_Learn_Guide_to_3D_Printing.html?hl=&id=c46roAEACAAJ"
+	},
+	{
+		"title": "The Makerspace Librarian's Sourcebook",
+		"authors": [
+			"Ellyssa Kroski"
+		],
+		"publisher": "American Library Association",
+		"publishedDate": "2017",
+		"industryIdentifiers": [
+			{
+				"type": "ISBN_10",
+				"identifier": "0838915043"
+			},
+			{
+				"type": "ISBN_13",
+				"identifier": "9780838915042"
+			}
+		],
+		"readingModes": {
+			"text": false,
+			"image": false
+		},
+		"printType": "BOOK",
+		"categories": [
+			"Language Arts & Disciplines"
+		],
+		"averageRating": 5,
+		"ratingsCount": 1,
+		"maturityRating": "NOT_MATURE",
+		"allowAnonLogging": false,
+		"contentVersion": "preview-1.0.0",
+		"panelizationSummary": {
+			"containsEpubBubbles": false,
+			"containsImageBubbles": false
+		},
+		"imageLinks": {
+			"smallThumbnail": "http://books.google.com/books/content?id=6IhHvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+			"thumbnail": "http://books.google.com/books/content?id=6IhHvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		},
+		"language": "en",
+		"previewLink": "http://books.google.com/books?id=6IhHvgAACAAJ&dq=isbn:9780838915042&hl=&cd=1&source=gbs_api",
+		"infoLink": "http://books.google.com/books?id=6IhHvgAACAAJ&dq=isbn:9780838915042&hl=&source=gbs_api",
+		"canonicalVolumeLink": "https://books.google.com/books/about/The_Makerspace_Librarian_s_Sourcebook.html?hl=&id=6IhHvgAACAAJ"
 	},
 	{
 		"title": "The Big Book of Maker Skills",
@@ -6071,49 +6073,6 @@
 		"canonicalVolumeLink": "https://books.google.com/books/about/The_Essential_Guide_to_HTML5.html?hl=&id=tAthuwEACAAJ"
 	},
 	{
-		"title": "The Invent to Learn Guide to 3D Printing in the Classroom",
-		"subtitle": "Recipes for Success",
-		"authors": [
-			"David D. Thornburg",
-			"David Thornburg Ph D",
-			"Norma Thornburg MA",
-			"Sara Armstrong",
-			"Sara Armstrong Ph D"
-		],
-		"publishedDate": "2014-06-01",
-		"description": "\"3D printing will be bigger than the Web.\" Chris Anderson, former editor-in-chief of Wired magazine This book is an essential guide for educators interested in bringing the amazing world of 3D printing to their classrooms. Learn about the technology, exciting powerful new design software, and even advice for purchasing your first 3D printer. The real power of the book comes from a variety of teacher-tested step-by-step classroom projects. Eighteen fun and challenging projects explore science, technology, engineering, and mathematics, along with forays into the visual arts and design. The Invent To Learn Guide to 3D Printing in the Classroom is written in an engaging style by authors with decades of educational technology experience.",
-		"industryIdentifiers": [
-			{
-				"type": "ISBN_10",
-				"identifier": "098915114X"
-			},
-			{
-				"type": "ISBN_13",
-				"identifier": "9780989151146"
-			}
-		],
-		"readingModes": {
-			"text": false,
-			"image": false
-		},
-		"pageCount": 163,
-		"printType": "BOOK",
-		"categories": [
-			"Educational technology"
-		],
-		"maturityRating": "NOT_MATURE",
-		"allowAnonLogging": false,
-		"contentVersion": "preview-1.0.0",
-		"imageLinks": {
-			"smallThumbnail": "http://books.google.com/books/content?id=c46roAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-			"thumbnail": "http://books.google.com/books/content?id=c46roAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-		},
-		"language": "en",
-		"previewLink": "http://books.google.com/books?id=c46roAEACAAJ&dq=isbn:9780989151146&hl=&cd=1&source=gbs_api",
-		"infoLink": "http://books.google.com/books?id=c46roAEACAAJ&dq=isbn:9780989151146&hl=&source=gbs_api",
-		"canonicalVolumeLink": "https://books.google.com/books/about/The_Invent_to_Learn_Guide_to_3D_Printing.html?hl=&id=c46roAEACAAJ"
-	},
-	{
 		"title": "The Maker's Field Guide",
 		"subtitle": "The Art and Science of Making Anything Imaginable",
 		"authors": [
@@ -6154,49 +6113,6 @@
 		"previewLink": "http://books.google.com/books?id=7Ps7xQEACAAJ&dq=isbn:9781732545533&hl=&cd=1&source=gbs_api",
 		"infoLink": "http://books.google.com/books?id=7Ps7xQEACAAJ&dq=isbn:9781732545533&hl=&source=gbs_api",
 		"canonicalVolumeLink": "https://books.google.com/books/about/The_Maker_s_Field_Guide.html?hl=&id=7Ps7xQEACAAJ"
-	},
-	{
-		"title": "The Makerspace Librarian's Sourcebook",
-		"authors": [
-			"Ellyssa Kroski"
-		],
-		"publisher": "American Library Association",
-		"publishedDate": "2017",
-		"industryIdentifiers": [
-			{
-				"type": "ISBN_10",
-				"identifier": "0838915043"
-			},
-			{
-				"type": "ISBN_13",
-				"identifier": "9780838915042"
-			}
-		],
-		"readingModes": {
-			"text": false,
-			"image": false
-		},
-		"printType": "BOOK",
-		"categories": [
-			"Language Arts & Disciplines"
-		],
-		"averageRating": 5,
-		"ratingsCount": 1,
-		"maturityRating": "NOT_MATURE",
-		"allowAnonLogging": false,
-		"contentVersion": "preview-1.0.0",
-		"panelizationSummary": {
-			"containsEpubBubbles": false,
-			"containsImageBubbles": false
-		},
-		"imageLinks": {
-			"smallThumbnail": "http://books.google.com/books/content?id=6IhHvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-			"thumbnail": "http://books.google.com/books/content?id=6IhHvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-		},
-		"language": "en",
-		"previewLink": "http://books.google.com/books?id=6IhHvgAACAAJ&dq=isbn:9780838915042&hl=&cd=1&source=gbs_api",
-		"infoLink": "http://books.google.com/books?id=6IhHvgAACAAJ&dq=isbn:9780838915042&hl=&source=gbs_api",
-		"canonicalVolumeLink": "https://books.google.com/books/about/The_Makerspace_Librarian_s_Sourcebook.html?hl=&id=6IhHvgAACAAJ"
 	},
 	{
 		"title": "The Ultimate Brush Lettering Guide",

@@ -324,7 +324,6 @@
 		"Worldcat Link": "",
 		"Annotation": "UF Library Catalog - TJ223.P76L36 2015"
 	},
-	
 	{
 		"Title": "Arduino wearables",
 		"Author": "Tony Olsson",
@@ -846,6 +845,32 @@
 		"Annotation": "This is a short and easy to read crash course in 3D Printing that covers the basics of 3D printing and how to incorporate 3D printing into your makerspace."
 	},
 	{
+		"Title": "Wearable Computers and Augmented Reality",
+		"Author": "Woodrow Barfield",
+		"Year": 2016,
+		"ISBN": 9781138749313,
+		"Target Users": "General,College/University",
+		"Expertise Level": "Intermediate,Advanced",
+		"Lesson Plans or Projects": "",
+		"Subjects": "Wearables",
+		"Amazon Link": "https://www.amazon.com/Fundamentals-Wearable-Computers-Augmented-Reality-ebook/dp/B011NH3DB6/ref=sr_1_1?ie=UTF8&qid=1543370188&sr=8-1&keywords=wearable+computers+and+augmented+reality",
+		"Worldcat Link": "",
+		"Annotation": "The text details more of the applications and history of wearables and augmented reality, as well as a few other haptic and visual displays. Fundamentals of Wearable Computers and Augmented Reality goes beyond smart clothing to explore user interface design issues specific to wearable tech and areas in which it can be applied."
+	},
+	{
+		"Title": "Make: Getting Started with Raspberry Pi",
+		"Author": "Matt Richardson,Shawn P. Wallace",
+		"Year": 2016,
+		"ISBN": 9781449344214,
+		"Target Users": "",
+		"Expertise Level": "",
+		"Lesson Plans or Projects": "",
+		"Subjects": "Raspberry Pi's",
+		"Amazon Link": "",
+		"Worldcat Link": "http://www.worldcat.org/oclc/967651253",
+		"Annotation": "3rd edition."
+	},
+	{
 		"Title": "Girl with a sewing machine : the no-fuss guide to making and adapting your own clothes",
 		"Author": "Jenniffer,Taylor",
 		"Year": 2017,
@@ -1041,6 +1066,19 @@
 		"Annotation": "In this book you will learn how to make apps with the App Inventor from Google.  The unctions require an Android device or Android emulator, which can be downloaded onto a computer.  The book teaches basic coding inputs and guides you through the steps of designing 6 simple app projects like a translator and a photo painter. The book also offers advice for sharing your app with your loved ones."
 	},
 	{
+		"Title": "Internet of things",
+		"Author": "Lisa J.,Amstutz",
+		"Year": 2020,
+		"ISBN": "9781644930045 1644930048 9781641859189 1641859180",
+		"Target Users": "",
+		"Expertise Level": "",
+		"Lesson Plans or Projects": "",
+		"Subjects": "",
+		"Amazon Link": "",
+		"Worldcat Link": "",
+		"Annotation": ""
+	},
+	{
 		"Title": "Internet of Things (IoT): Technologies, Applications, Challenges, and Solutions",
 		"Author": "BK Tripathy,J Anuradha",
 		"Year": 2017,
@@ -1065,19 +1103,6 @@
 		"Amazon Link": "https://www.amazon.com/Internet-Things-IoT-Technologies-Applications/dp/1138035009/ref=sr_1_1?ie=UTF8&qid=1543368706&sr=8-1&keywords=internet+of+things+technologies+applications+challenges+and+solutions",
 		"Worldcat Link": "https://www.worldcat.org/title/internet-of-things-programming-with-javascript-learn-the-art-of-bringing-the-internet-of-things-into-your-projects-with-the-power-of-javascript/oclc/1078360287&referer=brief_results",
 		"Annotation": "This book explores the combination of Raspberry Pis and Arduinos to create personalized smart-home projects like safety sensors, webcam monitoring, and developing an iPhone app to control your devices.  It includes a list of required materials and step by step instructions and code commands for your convenience."
-	},
-	{
-		"Title": "Internet of things",
-		"Author": "Lisa J.,Amstutz",
-		"Year": 2020,
-		"ISBN": "9781644930045 1644930048 9781641859189 1641859180",
-		"Target Users": "",
-		"Expertise Level": "",
-		"Lesson Plans or Projects": "",
-		"Subjects": "",
-		"Amazon Link": "",
-		"Worldcat Link": "",
-		"Annotation": ""
 	},
 	{
 		"Title": "Knit, Hook, and Spin: A Kid's Activity Guide to Fiber Arts and Crafts",
@@ -1145,19 +1170,6 @@
 		"Annotation": "In this book, Laura Berens Baker provides 14 inspirational projects that demonstrate how to use laser cutting equipment to produce original designs for garments and accessories. The book explores how to engineer designs and harness laser technology to upcycle fabrics, replicating traditional finishes as well as developing new ones.  Each project is created in Adobe Illustrator and includes step-by-step instructions for creating the design for the laser cutter, followed by instructions for cutting and sewing. Extra material available to download from the Laurence King website includes patterns and templates for the designs."
 	},
 	{
-		"Title": "Laser Designs and Projects: DIY Projects in Corel Draw to cut out and decorate with a laser",
-		"Author": "William F Nelson Jr",
-		"Year": 2018,
-		"ISBN": 9780692140130,
-		"Target Users": "College/University,General",
-		"Expertise Level": "Intermediate,Advanced",
-		"Lesson Plans or Projects": "checked",
-		"Subjects": "Laser Cutting",
-		"Amazon Link": "https://www.amazon.com/Laser-Designs-Projects-decorate-machine/dp/0692140131/ref=sr_1_18?s=books&ie=UTF8&qid=1543380840&sr=1-18&keywords=Laser+Cutting",
-		"Worldcat Link": "",
-		"Annotation": "Book of projects and designs - very little instruction - for more advanced users or people looking for patterns"
-	},
-	{
 		"Title": "Learn Autodesk Inventor 2018 basics : 3D modeling, 2D graphics, and assembly design",
 		"Author": "T.,Kishore",
 		"Year": 2017,
@@ -1221,19 +1233,6 @@
 		"Amazon Link": "https://www.amazon.com/Make-Wear-Wearable-Electronics-Cosplayers/dp/1260116158/ref=sr_1_1?keywords=Make+it%2C+wear+it+%3A+wearable+electronics+for+makers%2C+crafters%2C+and+cosplayers&qid=1572884762&sr=8-1",
 		"Worldcat Link": "https://www.worldcat.org/title/make-it-wear-it-wearable-electronics-for-makers-crafters-and-cosplayers/oclc/1101209079&referer=brief_results",
 		"Annotation": "For those interested in combining sewing, programing, 3D printing, and laser cutting into breathtaking wearable technology, this book provides projects that do just that.  After providing a brief overview of the above skills, this book dives into 7 detailed projects with clear written and photographic instructions, including a backpack that will charge your devices using solar energy, a light up scarf, and more."
-	},
-	{
-		"Title": "Make: Getting Started with Raspberry Pi",
-		"Author": "Matt Richardson,Shawn P. Wallace",
-		"Year": 2016,
-		"ISBN": 9781449344214,
-		"Target Users": "",
-		"Expertise Level": "",
-		"Lesson Plans or Projects": "",
-		"Subjects": "Raspberry Pi's",
-		"Amazon Link": "",
-		"Worldcat Link": "http://www.worldcat.org/oclc/967651253",
-		"Annotation": "3rd edition."
 	},
 	{
 		"Title": "Make: Wearable Electronics: Design, prototype, and wear your own interactive garments",
@@ -1301,19 +1300,6 @@
 		"Annotation": "This book is dedicated  to answering the leading questions faced by Makers and those who wish to spread knowledge of making, and would be of interest to anyone running or teaching through makerspaces.  The author discusses the ideas leaders and educators in making have about how maker-centered education is shaping the world, under what conditions does maker centered-learning work optimally, and what are the best ways to implement maker centered learning to foster empowerment and deeper thought about the world we live in."
 	},
 	{
-		"Title": "Makerspaces : a practical guide for librarians",
-		"Author": "Ellyssa,John; Kroski,Burke",
-		"Year": 2018,
-		"ISBN": "9781538108185 1538108186",
-		"Target Users": "College/University,Libraries",
-		"Expertise Level": "",
-		"Lesson Plans or Projects": "",
-		"Subjects": "Makerspaces - Operating",
-		"Amazon Link": "https://www.amazon.com/Makerspaces-Practical-Guide-Librarians-Guides/dp/1538108186/ref=sr_1_1?keywords=Makerspaces+%3A+a+practical+guide+for+librarians&qid=1570114084&s=gateway&sr=8-1",
-		"Worldcat Link": "https://www.worldcat.org/title/makerspaces-a-practical-guide-for-librarians/oclc/1053841142&referer=brief_results",
-		"Annotation": "The book provides guidance, information and resources for librarians to create their makerspaces. The book provides information on technologies, equipments and case studies so that librarians can estimate their own projects and create their own makerspaces. At the end of each chapter, there is a list of references which indicates other texts that the reader can consult. The illustrations provide vivid portrayal of tool and practices. A list of grant and funding sources is included for creating makerspaces."
-	},
-	{
 		"Title": "Makerspaces : top trailblazing projects",
 		"Author": "Caitlin A.,Bagley",
 		"Year": 2014,
@@ -1325,6 +1311,19 @@
 		"Amazon Link": "https://www.amazon.com/Makerspaces-Trailblazing-Projects-LITA-Guide-ebook/dp/B00JLQTIHK/ref=sr_1_1?keywords=Makerspaces+%3A+top+trailblazing+projects&qid=1569877251&s=gateway&sr=8-1",
 		"Worldcat Link": "https://www.worldcat.org/title/makerspaces-top-trailblazing-projects/oclc/937883152&referer=brief_results",
 		"Annotation": "The book provides information on Makerspace and its different uses and applications. It then provides a detailed description and analysis of some of the most successful makerspace projects at both academic and public libraries. It provides useful information which readers can apply to their own institutions."
+	},
+	{
+		"Title": "Makerspaces : a practical guide for librarians",
+		"Author": "Ellyssa,John; Kroski,Burke",
+		"Year": 2018,
+		"ISBN": "9781538108185 1538108186",
+		"Target Users": "College/University,Libraries",
+		"Expertise Level": "",
+		"Lesson Plans or Projects": "",
+		"Subjects": "Makerspaces - Operating",
+		"Amazon Link": "https://www.amazon.com/Makerspaces-Practical-Guide-Librarians-Guides/dp/1538108186/ref=sr_1_1?keywords=Makerspaces+%3A+a+practical+guide+for+librarians&qid=1570114084&s=gateway&sr=8-1",
+		"Worldcat Link": "https://www.worldcat.org/title/makerspaces-a-practical-guide-for-librarians/oclc/1053841142&referer=brief_results",
+		"Annotation": "The book provides guidance, information and resources for librarians to create their makerspaces. The book provides information on technologies, equipments and case studies so that librarians can estimate their own projects and create their own makerspaces. At the end of each chapter, there is a list of references which indicates other texts that the reader can consult. The illustrations provide vivid portrayal of tool and practices. A list of grant and funding sources is included for creating makerspaces."
 	},
 	{
 		"Title": "Master your craft : strategies for designing, making, and selling artisan work",
@@ -1351,19 +1350,6 @@
 		"Amazon Link": "https://www.amazon.com/Mastering-3D-Printing-Technology-Action/dp/1484200268/ref=sr_1_4?keywords=Mastering+3D+printing&qid=1569590845&s=gateway&sr=8-4",
 		"Worldcat Link": "https://www.worldcat.org/title/3d-printing-designs-fun-and-functional-projects-get-to-grips-with-3d-printing-and-learn-to-model-designs-using-blender/oclc/953616405&referer=brief_results",
 		"Annotation": "Mastering 3D Printing covers basic skills like how to create a printable file for your 3D printer, how to choose your materials, etc.  It also discusses the applications pf 3D printing in education and science, and the potential of 3D printing in the future."
-	},
-	{
-		"Title": "Mastering 3D printing : modeling, printing, and prototyping with reprap-style 3D printers",
-		"Author": "Joan C.,Horvath",
-		"Year": 2014,
-		"ISBN": 1484200268,
-		"Target Users": "",
-		"Expertise Level": "",
-		"Lesson Plans or Projects": "",
-		"Subjects": "",
-		"Amazon Link": "",
-		"Worldcat Link": "",
-		"Annotation": ""
 	},
 	{
 		"Title": "Mastering Adobe Premier Pro CS6 Hotshot : take your video editing skills to new and exciting levels with eight fantastic projects",
@@ -1470,19 +1456,6 @@
 		"Annotation": "The book provides detailed illustrated instructions on 13 different types of paper crafts projects. It gives information on the toolkit or materials required to accomplish each task and a step-by-step guide for each project. It includes projects like making colorful stationary and pop-up paintings and other assorted decorations."
 	},
 	{
-		"Title": "Photoshop Elements 2018 Tips, Tricks & Shortcuts in Easy Steps",
-		"Author": "Nick,Vandome",
-		"Year": 2018,
-		"ISBN": 1840788038,
-		"Target Users": "General",
-		"Expertise Level": "Beginner",
-		"Lesson Plans or Projects": "",
-		"Subjects": "Photography & Video",
-		"Amazon Link": "https://www.amazon.com/Photoshop-Elements-Tricks-Shortcuts-steps/dp/1840788038/ref=sr_1_1?keywords=Photoshop+Elements+2018+Tips%2C+Tricks+%26+Shortcuts+in+Easy+Steps&qid=1571082055&sr=8-1",
-		"Worldcat Link": "https://www.worldcat.org/title/photoshop-elements-2018-tips-tricks-shortcuts-for-windows-and-mac/oclc/1035516524&referer=brief_results",
-		"Annotation": "Designed for a beginner to photoshop, this book contains tips and tricks that would be useful to even a seasoned photoshop user.  It includes instructions and tricks regarding color editing, layers, and more."
-	},
-	{
 		"Title": "Photoshop elements 2018",
 		"Author": "Ted,Barbara; Padova,Obermeier",
 		"Year": 2018,
@@ -1494,6 +1467,19 @@
 		"Amazon Link": "https://www.amazon.com/Photoshop-Elements-2018-Dummies-Computer/dp/1119418089/ref=sr_1_2?keywords=photoshop+elements+2018+book&qid=1571321987&sr=8-2",
 		"Worldcat Link": "https://www.worldcat.org/title/photoshop-elements-2018/oclc/1006502644&referer=brief_results",
 		"Annotation": "This book is perfect for a complete beginner to photoshop and can even be used by more seasoned photo editors to learn shortcuts and new operations you can perform in Photoshop Elements.  It covers basic skills like launching the program and saving photos before diving into more complex tasks.  These include working with layers, color correction, painting with Photoshop, and more."
+	},
+	{
+		"Title": "Photoshop Elements 2018 Tips, Tricks & Shortcuts in Easy Steps",
+		"Author": "Nick,Vandome",
+		"Year": 2018,
+		"ISBN": 1840788038,
+		"Target Users": "General",
+		"Expertise Level": "Beginner",
+		"Lesson Plans or Projects": "",
+		"Subjects": "Photography & Video",
+		"Amazon Link": "https://www.amazon.com/Photoshop-Elements-Tricks-Shortcuts-steps/dp/1840788038/ref=sr_1_1?keywords=Photoshop+Elements+2018+Tips%2C+Tricks+%26+Shortcuts+in+Easy+Steps&qid=1571082055&sr=8-1",
+		"Worldcat Link": "https://www.worldcat.org/title/photoshop-elements-2018-tips-tricks-shortcuts-for-windows-and-mac/oclc/1035516524&referer=brief_results",
+		"Annotation": "Designed for a beginner to photoshop, this book contains tips and tricks that would be useful to even a seasoned photoshop user.  It includes instructions and tricks regarding color editing, layers, and more."
 	},
 	{
 		"Title": "Practical Arduino",
@@ -1639,6 +1625,19 @@
 		"Annotation": ""
 	},
 	{
+		"Title": "Smart homes",
+		"Author": "John,; Haslam,Max,Wainewright",
+		"Year": 2019,
+		"ISBN": "9781526308757 1526308754",
+		"Target Users": "K-12",
+		"Expertise Level": "Beginner",
+		"Lesson Plans or Projects": "checked",
+		"Subjects": "Internet of Things",
+		"Amazon Link": "https://www.amazon.com/Scratch-Code-Smart-Homes-Challenge/dp/0778765687/ref=sr_1_1?keywords=smart+homes+wainewright+max&qid=1575245907&sr=8-1",
+		"Worldcat Link": "https://www.worldcat.org/title/scratch-code-smart-homes/oclc/1090700944&referer=brief_results",
+		"Annotation": "Using Scratch 3, a free online program for coding, this book explains some of the technologies used in smart home technologies, like cameras, voice control, and alarms using colorful diagrams and step by step projects."
+	},
+	{
 		"Title": "Sew Electric",
 		"Author": "Leah Buechley,Kanjun Qiu",
 		"Year": 2014,
@@ -1663,19 +1662,6 @@
 		"Amazon Link": "https://www.amazon.com/Smart-Textiles-Designers-Inventing-Fabrics/dp/1780677324/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1780677324&pd_rd_r=8daddcc2-f2c9-11e8-a029-3b664630e258&pd_rd_w=QLTK9&pd_rd_wg=b7EIQ&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=T1HXS3N5X9ESSMWG0ZDV&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T1HXS3N5X9ESSMWG0ZDV",
 		"Worldcat Link": "",
 		"Annotation": "Approaches centered on design and designers. Smart Textiles for Designers introduces the different qualities and properties that can be embedded in, integrated with, and applied to fabrics, and looks at the different contexts in which these smart textiles can be used. The first book to look at smart textiles through the eyes of a designer, this is both a core reference work and an inspirational guide for students and professionals alike."
-	},
-	{
-		"Title": "Smart homes",
-		"Author": "John,; Haslam,Max,Wainewright",
-		"Year": 2019,
-		"ISBN": "9781526308757 1526308754",
-		"Target Users": "K-12",
-		"Expertise Level": "Beginner",
-		"Lesson Plans or Projects": "checked",
-		"Subjects": "Internet of Things",
-		"Amazon Link": "https://www.amazon.com/Scratch-Code-Smart-Homes-Challenge/dp/0778765687/ref=sr_1_1?keywords=smart+homes+wainewright+max&qid=1575245907&sr=8-1",
-		"Worldcat Link": "https://www.worldcat.org/title/scratch-code-smart-homes/oclc/1090700944&referer=brief_results",
-		"Annotation": "Using Scratch 3, a free online program for coding, this book explains some of the technologies used in smart home technologies, like cameras, voice control, and alarms using colorful diagrams and step by step projects."
 	},
 	{
 		"Title": "Soft Circuits: Crafting e-Fashion with DIY Electronics",
@@ -1769,32 +1755,6 @@
 		"Annotation": ""
 	},
 	{
-		"Title": "The Invent to Learn guide to 3D printing in the classroom : recipes for success",
-		"Author": "Norma,Sara; Thornburg,David D.; Armstrong,Thornburg",
-		"Year": 2014,
-		"ISBN": 9780989151146,
-		"Target Users": "",
-		"Expertise Level": "",
-		"Lesson Plans or Projects": "",
-		"Subjects": "",
-		"Amazon Link": "",
-		"Worldcat Link": "",
-		"Annotation": ""
-	},
-	{
-		"Title": "The Makerspace Librarian's Sourcebook",
-		"Author": "Allyssa Kroski",
-		"Year": 2017,
-		"ISBN": 9780838915042,
-		"Target Users": "Libraries",
-		"Expertise Level": "Beginner",
-		"Lesson Plans or Projects": "",
-		"Subjects": "Makerspaces (General),Makerspaces - Operating",
-		"Amazon Link": "https://www.amazon.com/Makerspace-Librarians-Sourcebook-Ellyssa-Kroski/dp/0838915043/ref=sr_1_1?keywords=The+Makerspace+Librarian%27s+Sourcebook&qid=1572882714&sr=8-1",
-		"Worldcat Link": "https://www.worldcat.org/title/makerspace-librarians-sourcebook/oclc/1018399356&referer=brief_results",
-		"Annotation": "This book is your go-to guide for starting and running a makerspace in your library.  It includes starter kits and estimated cost for your maker spaces goals (including focus and target users), guides to interactive forms of learning, and how to run your space safely. It then covers the skills makerspace librarians should be familiar with, like Raspberry Pi, 3D Printing, and Robotics."
-	},
-	{
 		"Title": "The art of soldering for jewelry makers : techniques and projects",
 		"Author": "Wing Mun,Devenney",
 		"Year": 2013,
@@ -1819,6 +1779,32 @@
 		"Amazon Link": "https://www.amazon.com/Science-Craft-Great-Landscape-Photography/dp/1937538478/ref=sr_1_1?keywords=The+art%2C+science%2C+and+craft+of+great+landscape+photography&qid=1570467444&sr=8-1",
 		"Worldcat Link": "https://www.worldcat.org/title/art-science-and-craft-of-great-landscape-photography/oclc/942537414&referer=brief_results",
 		"Annotation": "The art, science, and craft of great landscape photography explores the techniques and concepts one needs to understand to create riveting images of the natural world.  It assumes prior knowledge about basic photography and the use of a DSLR camera."
+	},
+	{
+		"Title": "The Invent to Learn guide to 3D printing in the classroom : recipes for success",
+		"Author": "Norma,Sara; Thornburg,David D.; Armstrong,Thornburg",
+		"Year": 2014,
+		"ISBN": 9780989151146,
+		"Target Users": "",
+		"Expertise Level": "",
+		"Lesson Plans or Projects": "",
+		"Subjects": "",
+		"Amazon Link": "",
+		"Worldcat Link": "",
+		"Annotation": ""
+	},
+	{
+		"Title": "The Makerspace Librarian's Sourcebook",
+		"Author": "Allyssa Kroski",
+		"Year": 2017,
+		"ISBN": 9780838915042,
+		"Target Users": "Libraries",
+		"Expertise Level": "Beginner",
+		"Lesson Plans or Projects": "",
+		"Subjects": "Makerspaces (General),Makerspaces - Operating",
+		"Amazon Link": "https://www.amazon.com/Makerspace-Librarians-Sourcebook-Ellyssa-Kroski/dp/0838915043/ref=sr_1_1?keywords=The+Makerspace+Librarian%27s+Sourcebook&qid=1572882714&sr=8-1",
+		"Worldcat Link": "https://www.worldcat.org/title/makerspace-librarians-sourcebook/oclc/1018399356&referer=brief_results",
+		"Annotation": "This book is your go-to guide for starting and running a makerspace in your library.  It includes starter kits and estimated cost for your maker spaces goals (including focus and target users), guides to interactive forms of learning, and how to run your space safely. It then covers the skills makerspace librarians should be familiar with, like Raspberry Pi, 3D Printing, and Robotics."
 	},
 	{
 		"Title": "The big book of maker skills : tools & techniques for building great tech projects",
@@ -1873,19 +1859,6 @@
 		"Annotation": ""
 	},
 	{
-		"Title": "The weaving explorer : ingenious techniques, accessible tools & creative projects with yarn, paper, wire & more",
-		"Author": "Gwen,; Steege,Deborah,Jarchow",
-		"Year": 2019,
-		"ISBN": "9781635860283 1635860288",
-		"Target Users": "",
-		"Expertise Level": "",
-		"Lesson Plans or Projects": "",
-		"Subjects": "",
-		"Amazon Link": "https://www.amazon.com/Weaving-Explorer-Ingenious-Techniques-Accessible/dp/1635860288/ref=sr_1_1?keywords=The+weaving+explorer+%3A+ingenious+techniques%2C+accessible+tools+%26+creative+projects+with+yarn%2C+paper%2C+wire+%26+more&qid=1570112226&s=gateway&sr=8-1",
-		"Worldcat Link": "https://www.worldcat.org/title/weaving-explorer-ingenious-techniques-accessible-tools-creative-projects-with-yarn-paper-wire-more/oclc/1113055234&referer=brief_results",
-		"Annotation": ""
-	},
-	{
 		"Title": "Ultimate Brush Lettering Guide : a Complete Step-By-Step Creative Workbook to Jumpstart Modern Calligraphy Skills.",
 		"Author": "Peggy.,Dean",
 		"Year": 2018,
@@ -1897,6 +1870,19 @@
 		"Amazon Link": "https://www.amazon.com/Ultimate-Brush-Lettering-Guide-Step/dp/0399582177/ref=sr_1_1?keywords=Ultimate+Brush+Lettering+Guide+%3A+a+Complete+Step-By-Step+Creative+Workbook+to+Jumpstart+Modern+Calligraphy+Skills.&qid=1570113053&s=gateway&sr=8-1",
 		"Worldcat Link": "https://www.worldcat.org/title/ultimate-brush-lettering-guide-a-complete-step-by-step-creative-workbook-to-jumpstart-modern-calligraphy-skills/oclc/1050794842&referer=brief_results",
 		"Annotation": "The book offers a detailed guide to brush lettering, as an art form. It provides information on how to use the book as well as the key differences between lettering, calligraphy and typography. It gives detailed lists of the materials required, that is, different kinds of pens and papers. The book contains worksheets for readers to practice different aspects of lettering like lettering, basic strokes, bounce and flourish. It also contains detailed instructions on DIY projects. The book is aimed for a general audience who would like to learn brush lettering."
+	},
+	{
+		"Title": "The weaving explorer : ingenious techniques, accessible tools & creative projects with yarn, paper, wire & more",
+		"Author": "Gwen,; Steege,Deborah,Jarchow",
+		"Year": 2019,
+		"ISBN": "9781635860283 1635860288",
+		"Target Users": "",
+		"Expertise Level": "",
+		"Lesson Plans or Projects": "",
+		"Subjects": "",
+		"Amazon Link": "https://www.amazon.com/Weaving-Explorer-Ingenious-Techniques-Accessible/dp/1635860288/ref=sr_1_1?keywords=The+weaving+explorer+%3A+ingenious+techniques%2C+accessible+tools+%26+creative+projects+with+yarn%2C+paper%2C+wire+%26+more&qid=1570112226&s=gateway&sr=8-1",
+		"Worldcat Link": "https://www.worldcat.org/title/weaving-explorer-ingenious-techniques-accessible-tools-creative-projects-with-yarn-paper-wire-more/oclc/1113055234&referer=brief_results",
+		"Annotation": ""
 	},
 	{
 		"Title": "Ultimate guide home repair and improvement",
@@ -1949,19 +1935,6 @@
 		"Amazon Link": "https://www.amazon.com/Wearable-Android-Wear-Google-Development-ebook/dp/B015ZLIEPQ/ref=sr_1_1?s=books&ie=UTF8&qid=1543370896&sr=1-1&keywords=Wearable+Android%3A+Android+wear+and+Google+Fit",
 		"Worldcat Link": "",
 		"Annotation": "This book covers wearable computing and wearable application development particularly for Android Wear (smartwatches) and Google Fit (fitness sensors). It provides relevant history, background and core concepts of wearable computing and ubiquitous computing, as a foundation for designing/developing applications for the Android Wear and Google Fit platforms. This book is intended for Android wearable enthusiasts, technologists and software developers."
-	},
-	{
-		"Title": "Wearable Computers and Augmented Reality",
-		"Author": "Woodrow Barfield",
-		"Year": 2016,
-		"ISBN": 9781138749313,
-		"Target Users": "General,College/University",
-		"Expertise Level": "Intermediate,Advanced",
-		"Lesson Plans or Projects": "",
-		"Subjects": "Wearables",
-		"Amazon Link": "https://www.amazon.com/Fundamentals-Wearable-Computers-Augmented-Reality-ebook/dp/B011NH3DB6/ref=sr_1_1?ie=UTF8&qid=1543370188&sr=8-1&keywords=wearable+computers+and+augmented+reality",
-		"Worldcat Link": "",
-		"Annotation": "The text details more of the applications and history of wearables and augmented reality, as well as a few other haptic and visual displays. Fundamentals of Wearable Computers and Augmented Reality goes beyond smart clothing to explore user interface design issues specific to wearable tech and areas in which it can be applied."
 	},
 	{
 		"Title": "Wearable Computing: From Modeling to Implementation of Wearable Systems Based on Body Sensor Networks",
