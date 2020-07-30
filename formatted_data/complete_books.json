@@ -6,8 +6,10 @@
         ],
         "isbn": "9781499438505",
         "published": "2017-07-15",
+        "description": "This book beings with explaining what social studies is and how it connects to the Maker Revolution.  It includes 10 projects that use making to teach about humans and history.  All of the projects include detailed instructions, estimated time commitment, materials and skill level.  Some projects include making Egyptian papyrus, laser cutting a jigsaw puzzle, photo editing yourself into history.",
         "subjects": [
-            null,
+            "General Crafts/ Making",
+            "Makerspaces (General)",
             "Juvenile Nonfiction"
         ],
         "audience": [
@@ -15,7 +17,9 @@
             "Libraries",
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=y8xhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Makerspace-Projects-Social-Studies-Makerspaces/dp/1499438508/ref=sr_1_1?keywords=10+great+makerspace+projects+using+social+studies+Hinton+Kerry&qid=1572276323&sr=8-1",
@@ -29,14 +33,17 @@
         ],
         "isbn": "0838917399",
         "published": "2018",
+        "description": "The book provides instructions on different art projects using a variety of materials and techniques. Each project is presented through an example of a picture book. Children see how it is used in the text. It is then followed by a list of materials required and instructions. The illustrations are imaginative and allow children to think of art as an imaginative and applied process.",
         "subjects": [
-            null,
+            "General Crafting/Making",
             "Art"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=W8tCuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Projects-Art-Explorers-Christine-Kirker/dp/0838917399/ref=sr_1_1?keywords=25+projects+for+art+explorers&qid=1570114504&s=gateway&sr=8-1",
@@ -50,14 +57,12 @@
         ],
         "isbn": "9781351172660",
         "published": "2019-02-07",
+        "description": "3D Animation for the Raw Beginner Using Autodesk Maya is a hands-on academic textbook as well as a do-it-yourself training manual for the individual animator. This second edition has been completely rewritten to take into account updates to Autodesk Maya, including Autodesk’s renderer, Arnold. It contains entirely new examples and tutorial lessons. All 612 images are in full color. The book directs the reader to the parts of Maya that must be mastered in order to create complete 3D projects, and thus it simplifies the process of taking on Maya’s vast and intricate interface, while giving the reader a firm foundation on which to build future knowledge of Maya. It also presents brief examples of other popular 3D applications and rendering engines. This principles-based, yet pragmatic book: Introduces the basic steps of the 3D modeling, materials, animation, lighting, and rendering processes. Presents clear and concise tutorials that link key concepts to practical techniques. Includes access to a webpage for the book: https://buzzking.com/AnimationTextbook/AnimationTextbook.html. On this webpage are videos that cover many of the lessons in the book, as well as video tutorials that present bonus material not included in the book. Frees instructors from the painstaking task of developing step-by-step examples to present Maya’s complex interface and basic capabilities. Boasts an easy-to-follow, tutorial-based learning style ideal for individual study by aspiring animators and do-it yourselfers. Roger \"Buzz\" King is a Professor Emeritus at the University of Colorado at Boulder, where he teaches 3D Animation for the Computer Science Department and the Alliance for Technology, Learning, and Society (ATLAS), an institute dedicated to the application of technology to the arts. Buzz is an independent 3D animator who serves on the board of directors of a 3D animation startup. Buzz has a B.A. in Mathematics from Occidental College, an M.S. and Ph.D. in Computer Science from the University of Southern California, and an M.Div. from the Iliff School of Theology. Key Features Introduces critical aspects of the 3D animation process Presents clear and concise tutorials that link key concepts to practical techniques Includes access to a dedicated Web site, http://3dbybuzz.com, featuring useful videos, lessons, and updates Frees instructors from developing step-by-step examples to present Maya’s complex interface and basic Boasts an easy-to-follow, hands-on learning style ideal for individual study by aspiring animators and do-ityourselfers",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=4f-GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -71,14 +76,17 @@
         ],
         "isbn": "9781631378126",
         "published": "2014-08-01",
+        "description": "This book explores the basics of 3D modeling using the free SketchUp software.  It also suggests ways to  further develop your 3D modeling skills once you finish the book.",
         "subjects": [
-            null,
+            "3D Modeling",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=o1-8BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Modeling-Century-Skills-Innovation-Library/dp/1631377922/ref=sr_1_1?keywords=3D+Modeling+%3A+21st+Century+Skills+Innovation+Library&qid=1575300157&sr=8-1",
@@ -92,14 +100,17 @@
         ],
         "isbn": "9780133798111",
         "published": "2014-05-29",
+        "description": "This book is perfect for a beginner in Tinkercad looking to learn how create and use a 3D model.  It Includes basic skills in 3D modeling using a model rocket ship as an example.After developing basic skills, it moves the project creation process, how to print your project, and other applications for your 3D models.",
         "subjects": [
-            null,
+            "3D Modeling",
             "Technology & Engineering"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=-y2tAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/3D-Modeling-Printing-Tinkercad-Create-ebook/dp/B00KMWVOZQ/ref=sr_1_1?keywords=3D+Modeling+and+Printing+with+Tinkercad%3A+Create+and+Print+Your+Own+3D+Models&qid=1575491004&sr=8-1",
@@ -113,14 +124,17 @@
         ],
         "isbn": "1530799627",
         "published": "2016-03-27",
+        "description": "This concise and practical book covers the basics of 3D modeling as well as the author's personal tips for more efficient project creation.  It includes projects to help you practice the modeling in 3D such as creating a model of a face, a landscape, and more.",
         "subjects": [
-            null,
-            null
+            "3D Modeling"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=M_DJDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/3D-Modeling-Beginners-Learn-everything-ebook/dp/B01DJ2I930/ref=sr_1_1?keywords=3D+modeling+for+beginners+%3A+learn+everything+you+need+to+know+about+3D+modeling%21&qid=1575758323&sr=8-1",
@@ -134,15 +148,18 @@
         ],
         "isbn": "9781474248679",
         "published": "2018-02-08",
+        "description": "This book dives into the applications of 3D printing and analyzes how people have adapted this technology to enhance their fields of art.  This book is perfect for anyone interested in learning about the implications of 3D printing on how products are being made and how artisans are adapting.",
         "subjects": [
-            null,
+            "Making Scholarship",
             "Technology & Engineering"
         ],
         "audience": [
             "Libraries",
             "College/University"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=ErY7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/s?k=3D+printing+for+artists%2C+designers+and+makers&ref=nb_sb_noss",
@@ -157,14 +174,17 @@
         ],
         "isbn": "9781118660683",
         "published": "2014-01-08",
+        "description": "This book is designed to teach you the basics of 3D Printing and is perfect for beginners.  It discusses the basics of 3D Printing, deciding what materials and printer to use, and the applications of 3D Printing.  These include art, manufacturing, and even food production.",
         "subjects": [
-            null,
+            "3D Printing",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=fJmOAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Printing-Dummies-Kalani-Kirk-Hausman/dp/1118660757/ref=sr_1_5?keywords=3D+printing+for+dummies&qid=1569256815&s=gateway&sr=8-5",
@@ -178,14 +198,17 @@
         ],
         "isbn": "0241302218",
         "published": "2017-10-02",
+        "description": "This book starts with an introduction to 3D printing and 3D modeling before diving into projects designed for curious junior makers.  Projects you will find include a dinosaur stamp, a colorful photo frame, a fridge magnet, and many more.  Each project includes detailed instructions on modeling and printing the projects, as well as any finishing touches after printing.",
         "subjects": [
-            null,
+            "3D Printing",
             "JUVENILE NONFICTION"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=4iM8tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/3D-Printing-Projects-DK/dp/146546476X/ref=sr_1_1?keywords=3D+printing+projects+DK&qid=1575760202&sr=8-1",
@@ -200,9 +223,9 @@
         ],
         "isbn": "144225548X",
         "published": "2016-03-16",
+        "description": "This all encompassing book is aimed at Librarians looking to incorporate 3D printing into their library. Some of the many topics covered in \"3D Printing: A practical Guide for Librarians\" include choosing a 3D printer, addressing technical problems and faculty concerns that may arise, creating an effective outreach program using your 3D printer.",
         "subjects": [
-            null,
-            null
+            "3D Printing"
         ],
         "audience": [
             "K-12",
@@ -210,7 +233,10 @@
             "Libraries",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=t3eHjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/3D-Printing-Practical-Librarians-Guides/dp/1442255471",
@@ -224,14 +250,17 @@
         ],
         "isbn": "1315155494",
         "published": "2017",
+        "description": "3D printing : technology, applications, and selection covers how 3D printers are made, how they work, and what they can be used for.  This is a great book for anyone who wants to learn more about 3D printing as a tool.",
         "subjects": [
-            null,
+            "3D Printing",
             "Electronic books"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "",
         "amazon": "https://www.amazon.com/3D-Printing-Technology-Applications-Selection/dp/1498783759/ref=sr_1_2?keywords=3D+printing+%3A+technology%2C+applications%2C+and+selection&qid=1569590604&s=gateway&sr=8-2",
@@ -245,14 +274,18 @@
         ],
         "isbn": "1138844330",
         "published": "2015-08-24",
+        "description": "3D Technology in Fine Art and Craft covers the basics of 3D printing and provides tutorials for creating art with a variety of 3D technologies.  There is also a section dedicated to professional artists who have created artwork using 3D technology and what techniques they employ in their creative process.",
         "subjects": [
-            null,
+            "3D Printing",
+            "3D Scanning",
             "Art"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=pRI6vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Technology-Fine-Art-Craft-Exploring/dp/1138844330/ref=sr_1_1?keywords=3D+technology+in+fine+art+and+craft+%3A+exploring+3D+printing%2C+scanning%2C+sculpting+and+milling&qid=1569855462&s=gateway&sr=8-1",
@@ -266,15 +299,25 @@
         ],
         "isbn": "9780838916629",
         "published": "2017-10-10",
+        "description": "This expansive book includes projects from makers instructing a variety of mediums (paper, programming, wearables, 3D printing and more.  This book is a perfect catalogue of maker projects to utilize in your makerspace, whether you are running a program pr just looking for ways to build your own skills.",
         "subjects": [
-            null,
+            "3D Modeling",
+            "Sewing",
+            "Paper Crafts",
+            "Soldering",
+            "Laser Cutting",
+            "Robotics",
+            "Photography & Video",
             "Language Arts & Disciplines"
         ],
         "audience": [
             "Libraries",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=G6PUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/63-Ready-Use-Maker-Projects/dp/0838915914/ref=sr_1_1?keywords=63+ready-to-use+maker+projects&qid=1575490363&sr=8-1",
@@ -288,14 +331,12 @@
         ],
         "isbn": "1593279264",
         "published": "2019",
+        "description": "The rise of enthusiast 3D printing and CNC machining has created a need for 3D CAD modelling skills, but CAD has traditionally been associated with a steep learning curve. With CAD for Beginners, you'll learn the basics of 3D CAD modelling all the way to advanced modelling using Autodesk Fusion 360, the cloud powered 3D CAD/CAM tool. In this practical guide, you'll start by learning the principles of parametric modelling and basic modelling and assembly methods. Then, you'll move into advanced modelling concepts like 3D sketching and splines, helixes and ribs, technical drawing, and rendering.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=9crSswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -309,14 +350,12 @@
         ],
         "isbn": "9781351188296",
         "published": "2018-02-19",
+        "description": "A Hands-On Course in Sensors using the Arduino and Raspberry Pi is the first book to give a practical and wide-ranging account of how to interface sensors and actuators with micro-controllers, Raspberry Pi and other control systems. The author describes the progression of raw signals through conditioning stages, digitization, data storage and presentation. The collection, processing, and understanding of sensor data plays a central role in industrial and scientific activities. This book builds simplified models of large industrial or scientific installations that contain hardware and other building blocks, including services for databases, web servers, control systems, and messaging brokers. A range of case studies are included within the book, including a weather station, geophones, a water-colour monitor, capacitance measurement, the profile of laser beam, and a remote-controlled and fire-seeking robot This book is suitable for advanced undergraduate and graduate students taking hands-on laboratory courses in physics and engineering. Hobbyists in robotics clubs and other enthusiasts will also find this book of interest.",
         "subjects": [
-            null,
             "Science"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=9NJMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -330,14 +369,18 @@
         ],
         "isbn": "9781484239483",
         "published": "2018-10-24",
+        "description": "Advanced Raspberry Pi: Raspbian Linux and GPIO Integration introduces you to Raspberry Pi and provides detailed explanations of the functions of your Raspberry Pi, simple and advanced.",
         "subjects": [
-            null,
+            "Raspberry Pi's",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=Ks10DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Advanced-Raspberry-Pi-Raspbian-Integration/dp/1484239474/ref=sr_1_3?keywords=Advanced+Raspberry+Pi%3A+Raspbian+Linux+and+GPIO+Integration&qid=1570651464&sr=8-3",
@@ -351,14 +394,17 @@
         ],
         "isbn": "9781118948477",
         "published": "2015-05-04",
+        "description": "Adventures in Arduino is the beginner's guide to Arduino programming, designed specifically for readers who want to learn about Arduino, but don't know where to begin.",
         "subjects": [
-            null,
+            "Arduinos",
             "Computers"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=HEjjBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Adventures-Arduino-Becky-Stewart/dp/1118948475/ref=sr_1_1?ie=UTF8&qid=1541632403&sr=8-1&keywords=adventures+in+arduino&dpID=51kUEtA7W4L&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch",
@@ -372,14 +418,17 @@
         ],
         "isbn": "9781119565819",
         "published": "2018-11-27",
+        "description": "Alexa for Dummies is your guide to understanding and using your Alexa to enhance your home.  It covers the basic functions of Alexa as well as adding to her skills and connecting her to smart home devices.",
         "subjects": [
-            null,
+            "Internet of Things",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=yGd-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Alexa-Dummies-Paul-McFedries/dp/1119565863/ref=sr_1_1?keywords=Alexa+for+Dummies.&qid=1575492538&sr=8-1",
@@ -393,14 +442,10 @@
         ],
         "isbn": "1541542800",
         "published": "2019-03",
-        "subjects": [
-            null,
-            null
-        ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "description": "\"Create handmade origami gifts for your friends and family, such as a pencil case, gift boxes, and a paper flower bouquet. Step-by-step instructions and photographs guide readers through projects of varied difficulty to increase visual-spatial reasoning skills --",
+        "subjects": [],
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "",
         "amazon": "https://www.amazon.com/Amazing-Origami-Gifts-Rob-Ives/dp/1541501241/ref=sr_1_1?crid=QNMU4RZO6NRX&keywords=amazing+origami+gifts+rob+ives&qid=1570113542&s=gateway&sprefix=Amazing+origami+gifts+r%2Caps%2C168&sr=8-1",
@@ -414,8 +459,9 @@
         ],
         "isbn": "9781118446430",
         "published": "2013-04-29",
+        "description": "The quick, easy way to leap into the fascinating world ofphysical computing This is no ordinary circuit board. Arduino allows anyone,whether you're an artist, designer, programmer or hobbyist, tolearn about and play with electronics. Through this book you learnhow to build a variety of circuits that can sense or control thingsin the real world. Maybe you'll prototype your own product orcreate a piece of interactive artwork? This book equips you witheverything you'll need to build your own Arduino project, but whatyou make is up to you! If you're ready to bring your ideas into thereal world or are curious about the possibilities, this book is foryou. ? Learn by doing ? start building circuits and programmingyour Arduino with a few easy to follow examples - rightaway! ? Easy does it ? work through Arduino sketches line by linein plain English, to learn of how a they work and how to write yourown ? Solder on! ? Only ever used a breadboard in the kitchen?Don't know your soldering iron from a curling iron? No problem,you'll be prototyping in no time ? Kitted out ? discover new and interesting hardware to makeyour Arduino into anything from a mobile phone to a geigercounter! ? Become an Arduino savant ? learn all about functions,arrays, libraries, shields and other tools of the trade to takeyour Arduino project to the next level. ? Get social ? teach your Arduino to communicate withsoftware running on a computer to link the physical world with thevirtual world It's hardware, it's software, it's fun! Start building the nextcool gizmo with Arduino and Arduino For Dummies.",
         "subjects": [
-            null,
+            "Arduinos",
             "Computers"
         ],
         "audience": [
@@ -423,7 +469,10 @@
             "College/University",
             "Libraries"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=LRWcJH5SPokC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Dummies-John-Nussey/dp/1118446372/ref=sr_1_1?s=books&ie=UTF8&qid=1541655908&sr=1-1&keywords=arduino+for+dummies&dpID=51nLOVNuP%252BL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch",
@@ -437,8 +486,9 @@
         ],
         "isbn": "9781627052542",
         "published": "2013-08-01",
+        "description": "This book is about the Arduino microcontroller and the Arduino concept. The visionary Arduino team of Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, and David Mellis launched a new innovation in microcontroller hardware in 2005, the concept of open source hardware. Their approach was to openly share details of microcontroller-based hardware design platforms to stimulate the sharing of ideas and promote innovation. This concept has been popular in the software world for many years. This book is intended for a wide variety of audiences including students of the fine arts, middle and senior high school students, engineering design students, and practicing scientists and engineers. To meet this wide audience, the book has been divided into sections to satisfy the need of each reader. The book contains many software and hardware examples to assist the reader in developing a wide variety of systems. The book covers two different Arduino products: the Arduino UNO R3 equipped with the Atmel ATmega328 and the Arduino Mega 2560 equipped with the Atmel ATmega2560. The third edition has been updated with the latest on these two processing boards, changes to the Arduino Development Environment and multiple extended examples.",
         "subjects": [
-            null,
+            "Arduinos",
             "Technology & Engineering"
         ],
         "audience": [
@@ -447,7 +497,10 @@
             "Libraries",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=TbldAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Microcontroller-Processing-Everyone-Synthesis/dp/1627052534/ref=sr_1_2?s=books&ie=UTF8&qid=1541656853&sr=1-2&keywords=arduino+microcontroller",
@@ -461,8 +514,9 @@
         ],
         "isbn": "9781593277444",
         "published": "2017-04-05",
+        "description": "You’ve mastered the basics, conquered the soldering iron, and programmed a robot or two; now you’ve got a set of skills and tools to take your Arduino exploits further. But what do you do once you’ve exhausted your to-build list? Arduino Playground will show you how to keep your hardware hands busy with a variety of intermediate builds, both practical and just-for-fun. Advance your engineering and electronics know-how as you work your way through these 10 complex projects: *A reaction-time game that leverages the Arduino’s real-time capabilities *A tool for etching your own printed circuit boards *A regulated, variable-voltage power supply *A kinetic wristwatch winder decked out with LEDs *A garage parking assistant that blinks when your vehicle is perfectly parked *A practical and colorful pH meter *A ballistic chronograph that can measure the muzzle velocity of BB, *Airsoft, and pellet guns *A battery saver that prevents accidental discharge *A square-wave generator *A thermometer that tells the temperature using a sequence of colored LEDs Each project begins with a list of required tools and components, followed by the instructions, full sketch, and circuit board templates for the build, as well as directions for building a permanent enclosure. You’ll even find the author’s design notes, which are sure to provide inspiration for your own inventions. Gather your parts, break out the soldering iron, and get ready to take your Arduino skills to the next level with Arduino Playground. Uses the Arduino Nano and Pro Mini boards",
         "subjects": [
-            null,
+            "Arduinos",
             "Technology & Engineering"
         ],
         "audience": [
@@ -470,7 +524,10 @@
             "General",
             "Libraries"
         ],
-        "expertise": "Advanced,Intermediate",
+        "expertise": [
+            "Advanced",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=IdOaDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Playground-Geeky-Projects-Experienced/dp/159327744X/ref=sr_1_1?s=books&ie=UTF8&qid=1541655140&sr=1-1&keywords=Arduino+Playground&dpID=51HyAc8oCoL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch",
@@ -484,8 +541,9 @@
         ],
         "isbn": "9781593276904",
         "published": "2016-12-16",
+        "description": "Arduino Project Handbook is a beginner-friendly collection of electronics projects using the low-cost Arduino board. With just a handful of components, an ­Arduino, and a computer, you’ll learn to build and program everything from light shows to arcade games to an ultrasonic security system. First you’ll get set up with an introduction to the Arduino and valuable advice on tools and components. Then you can work through the book in order or just jump to projects that catch your eye. Each project includes simple instructions, colorful photos and ­circuit diagrams, and all necessary code. Arduino Project Handbook is a fast and fun way to get started with micro­controllers that’s perfect for beginners, hobbyists, parents, and educators.",
         "subjects": [
-            null,
+            "Arduinos",
             "Technology & Engineering"
         ],
         "audience": [
@@ -493,7 +551,9 @@
             "Libraries",
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=Zni7DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Project-Handbook-Practical-Projects/dp/1593276907/ref=sr_1_1?s=books&ie=UTF8&qid=1541656366&sr=1-1&keywords=arduino+project+handbook&dpID=51sLZyL00IL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch",
@@ -507,15 +567,19 @@
         ],
         "isbn": "9781118919606",
         "published": "2015-01-12",
+        "description": "A guide to programming the popular microcontroller covers the various Arduino boards, offers detailed explanations of each standard library and guidance on creating libraries from scratch, with hands-on practice to improve programming skills.",
         "subjects": [
-            null,
+            "Arduinos",
             "Computers"
         ],
         "audience": [
             "College/University",
             "Libraries"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=bxFqBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Sketches-Techniques-Programming-Wizardry/dp/1118919602",
@@ -529,8 +593,10 @@
         ],
         "isbn": "1430243597",
         "published": "2012-07-12",
+        "description": "You've probably seen LED-decorated t-shirts and hats, and maybe even other electronic gadgets embedded in clothing, but with Arduino Wearables you can learn to make your own wearable electronic creations. This book is an introduction to wearable computing, prototyping, and smart materials using the Arduino platform. Every chapter takes you all the way from idea to finished project. Even if you have no experience with Arduino, this book will get you set up with all the materials, software, and hardware you need; you'll complete simple projects first, and then build on your growing expertise to make more complex projects. By the end of the book, you'll have learned: Electronics basics How to prototype successfully Arduino programming How to design and build your own wearable Arduino creations Along the way you'll create fun and inspiring wearables, such as: An LED bracelet: learn the basics of wearable electronics A synthesizer tie: accept user input and create output in response A solar-powered glow in the dark bag: create self-sufficient wearables A shape memory flower: store state and manipulate your wearables An EL wire dress: add designer touches to your wearables A beatbox hoodie: use a voice-activated sequencer and skin resistance to create the coolest of urban wearables Arduino Wearables is the complete guide to getting started with Arduino and wearable computing. The 10 inspiring projects to make, learn from, and build upon will equip you for creating your own projects; the only limit is your imagination.",
         "subjects": [
-            null,
+            "Arduinos",
+            "Wearables",
             "Computers"
         ],
         "audience": [
@@ -539,7 +605,10 @@
             "College/University",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=LkrVwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Wearables-Technology-Action-Olsson/dp/1430243597",
@@ -553,8 +622,9 @@
         ],
         "isbn": "9781593274481",
         "published": "2013",
+        "description": "Arduino workshop\" briefly discusses the basics of Arduino and then covers many applications and additions that enhance your use of your Arduino.  This would be helpful for someone who has already tried using an Arduino who is interested in advancing their knowledge.",
         "subjects": [
-            null,
+            "Arduinos",
             "Technology & Engineering"
         ],
         "audience": [
@@ -562,7 +632,10 @@
             "College/University",
             "Libraries"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=PUm8tCA6L-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Workshop-Hands-Introduction-Projects/dp/1593274483/ref=sr_1_1?keywords=Arduino+workshop%3A+a+hands-on+introduction+with+65+projects&qid=1569591579&s=gateway&sr=8-1",
@@ -576,15 +649,18 @@
         ],
         "isbn": "9781683921776",
         "published": "2018-05-14",
+        "description": "AutoCAD 2019: 3D Modeling covers everything from the basics of AutoCAD like how to view a design in a 3 dimensional plain to designing different kinds of surfaces to assigning materials to your design to animating or printing your design.",
         "subjects": [
-            null,
+            "3D Modeling",
             "Computers"
         ],
         "audience": [
             "College/University",
             "Libraries"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=qzFfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/AutoCAD-2019-Modeling-Munir-Hamad-ebook/dp/B07FKQSFJ6/ref=sr_1_9?keywords=AutoCAD+2019%3A+3D+Modeling&qid=1569589687&s=gateway&sr=8-9",
@@ -598,14 +674,18 @@
         ],
         "isbn": "9781788291293",
         "published": "2017-06-13",
+        "description": "Each chapter of this book guides you through a project aimed to get you comfortable with the BeagleBone board.  As you progress through the chapters you learn more advanced skills with the BeagleBone, like connecting a remote control and a GPS.  These projects will help you build some of the skills necessary to create whatever your heart desires with BeagleBone.",
         "subjects": [
-            null,
+            "Robotics",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Beginner",
+        "expertise": [
+            "Intermediate",
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=9Hc5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/BeagleBone-Robotic-Projects-Richard-Grimmett/dp/1783559322/ref=sr_1_2?keywords=BeagleBone+Robotic+Projects.&qid=1570650412&sr=8-2",
@@ -620,15 +700,19 @@
         ],
         "isbn": "3319157612",
         "published": "2016-06-02",
+        "description": "By using the body's surface as an interactive platform, the integration of technology into beauty products is explored and can be applied directly to ones skin, fingernails, and hair adding new functionality to beauty products using technology in a personal, seamless and fashionable way. An interdisciplinary approach is taken, exploring the design of Beauty Technologies such as Conductive Makeup, Tech Nails, Hairware and FX e-makeup in order to create novel interfaces for Human Computer Interaction and Cyborg Fashion.",
         "subjects": [
-            null,
+            "Wearables",
             "Computers"
         ],
         "audience": [
             "General",
             "College/University"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=jtodrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Beauty-Technology-Interfaces-Human-Computer-Interaction-ebook/dp/B01G4XEUE8/ref=sr_1_1?ie=UTF8&qid=1543369392&sr=8-1&keywords=beauty+technology+designing+seamless+interfaces+for+wearable+computing",
@@ -642,8 +726,9 @@
         ],
         "isbn": "9781430250166",
         "published": "2013-09-17",
+        "description": "Presents an introduction to the open-source electronics prototyping platform.",
         "subjects": [
-            null,
+            "Arduinos",
             "Technology & Engineering"
         ],
         "audience": [
@@ -652,7 +737,10 @@
             "General",
             "K-12"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=QTbyAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Beginning-Arduino-Technology-Michael-McRoberts/dp/143025016X",
@@ -666,14 +754,18 @@
         ],
         "isbn": "9781484234624",
         "published": "2018-04-23",
+        "description": "Beginning robotics with Raspberry Pi and Arduino : using Python and OpenCV is intended for beginners to robotics who would like to start their robotics journey.  It covers the basics of robotics, assembly, soldering.  It also introduces you to two coding languages.",
         "subjects": [
-            null,
+            "Raspberry Pi's",
+            "Robotics",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=OYlXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Beginning-Robotics-Raspberry-Pi-Arduino/dp/1484234618/ref=sr_1_1?keywords=Beginning+robotics+with+Raspberry+Pi+and+Arduino+%3A+using+Python+and+OpenCV&qid=1570651362&sr=8-1",
@@ -688,14 +780,19 @@
         ],
         "isbn": "9781446376683",
         "published": "2018-08-29",
+        "description": "If you have been looking for a way to breathe creativity into your home decor, here is your answer.  It boasts 20 paper projects integrating elements of origami and general crafting, ranging in difficulty and complexity, easy to follow diagrams, instructions, and photographs.",
         "subjects": [
-            null,
+            "Paper Crafts",
             "Crafts & Hobbies"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate,Advanced",
+        "expertise": [
+            "Beginner",
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=smnIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Better-Living-Through-Origami-Beautiful/dp/1446307123/ref=sr_1_1?keywords=Better+living+through+origami+%3A+20+creative+paper+projects+for+a+beautiful+home&qid=1572463464&sr=8-1",
@@ -709,14 +806,12 @@
         ],
         "isbn": "9781789612936",
         "published": "2018-09-29",
+        "description": "Learn the new Blender 2.8 user interface and make 3D models Key Features Find your way round the new user interface and tools of Blender 2.8 Create materials, apply textures and render scenes Use the new cutting-edge real-time render EEVEE in your projects Book Description Blender is open source 3D creation software. With a long history and an enthusiastic community of users, it is the ideal choice for almost any kind of work with 3D modeling or animation. However, for new users, its power and flexibillity can sometimes be daunting, and that’s when you need this book! The book starts by showing you round the all-new Blender 2.8 user interface. You'll look at the most commonly-used options and tools, such as navigating in 3D and selecting objects. You will then use and manipulate one of the most important windows of the interface, the 3D View. You'll learn how to use essential tools for working with 3D modeling. To give your models the feel of real-world objects, you'll learn how to create materials and set up surfaces. You'll see how to use Physically-Based Rendering (PBR), which allows you to craft realistic surfaces such as wood, stone, and metal. You will also work with Eevee, a new real-time render engine in Blender. You will see how to add motion to objects, making use of Blender's impressive 3D animation features. Finally, you'll learn how to create scenes and organize them for rendering, and later add titles and effects using built-in Blender tools. By the end of the book, you will be able to use Blender 2.8 new UI, Create 3D Models with textures, Animations, and Render them in real-time using Eevee. What you will learn Manipulate and visualize your 3D objects in Blender Use polygon modeling tools such as extrude, loop cut, and more Apply precision modeling tools like snapping and the 3D Cursor Render a scene using the real-time engine Eevee Create materials for Eevee and Cycles Render a scene with the Eevee real-time engine Use PBR textures to craft realistic surfaces such as wood with the Shader Editor Add motion and animation using keyframes Create animation loops using curves and modifiers Who this book is for This book is for anyone interested in taking their steps with Blender. If you're an experienced 3D artists or hobbyist, this book will help you with its features.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=ZP1wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -730,14 +825,17 @@
         ],
         "isbn": "9781512459708",
         "published": "2018",
+        "description": "This book is perfect for a junior beginner to robotics who needs some fun projects to learn the basics.  It includes projects like a \"Terminator Hand\" made of straws and popsicle sticks, and  a \"Tightrope Trickster\" made of a cork and cardboard. The projects are made from household items and do require knowledge of coding or soldering.  There are plenty of pictures along with the step by step written instructions to follow.",
         "subjects": [
-            null,
+            "Robotics",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=fcs1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Build-Your-Robots-Makerspace-Models-ebook/dp/B076DSW1P9/ref=sr_1_1?keywords=Build+your+own+robots+Ives&qid=1573770087&s=books&sr=1-1",
@@ -751,14 +849,18 @@
         ],
         "isbn": "9781484219409",
         "published": "2016-06-11",
+        "description": "This book introduces you to the Internet of Things and how Arduinos can help you create smarter objects.  It covers the basics of Arduinos and different patterns (input to response) that you can use to optimize your IoT project.  Most chapters include examples to guide you through the development if its specific pattern.",
         "subjects": [
-            null,
+            "Arduinos",
+            "Internet of Things",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=1PdjDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Building-Arduino-Projects-Internet-Things-ebook/dp/B01HUOW60K/ref=sr_1_1?keywords=Building+Arduino+projects+for+the+internet+of+things+%3A+experiments+with+real-world+applications&qid=1571080037&sr=8-1",
@@ -772,14 +874,18 @@
         ],
         "isbn": "9781610597630",
         "published": "2011-10-01",
+        "description": "This book explores using old materials to create new and beautiful spaces.  It covers using reclaimed wood, old plumbing fixtures, glass, hardware, and more.  It also includes step-by-step instructions and photographs for some repurposing projects, like doors, floors, and cabinets.",
         "subjects": [
-            null,
+            "Hand Tools",
             "House & Home"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=gXAe4LKqMV8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Building-Secondhand-Stuff-2nd-Repurpose/dp/1591866812/ref=sr_1_1?keywords=Building+with+secondhand+stuff+%3A+how+to+reclaim%2C+repurpose%2C+re-use+%26+upcycle+salvaged+%26+leftover+materials&qid=1575492999&sr=8-1",
@@ -794,14 +900,17 @@
         ],
         "isbn": "0500294305",
         "published": "2019-04-25",
+        "description": "The book is a detailed, illustrated guide to the art of  calligraphy and lettering and covers a range of styles and patterns. It provides detailed instructions on the materials required and how to start with basic which could then be applied to complex projects. It provides some historical context with classic calligraphy like  Roman capitals, Gothic script and Italic script. It gives instructions on applying the skills to decorated letters, illuminated letters, embossing and monograms. It provides information and instruction on decorative projects like pen flourishes and chalkboard lettering.",
         "subjects": [
-            null,
+            "General Crafting/Making",
             "Calligraphy"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=LovOuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Calligraphy-Lettering-Maker-s-Guide/dp/0500294305/ref=sr_1_fkmr0_1?keywords=Calligraphy+%26+lettering+%3A+a+maker%27s+guide+eleanor+crow&qid=1570112963&s=gateway&sr=8-1-fkmr0",
@@ -815,14 +924,12 @@
         ],
         "isbn": "9780399542558",
         "published": "2017-10-30",
+        "description": "Girls can design the perfect coding-powered project for themselves in this informative, interactive book published in partnership with the nonprofit organization Girls Who Code that guides readers through the brainstorming process, provides inspiration, and teaches basic coding concepts. Illustrations. Consumable.",
         "subjects": [
-            null,
             "Computer programming"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=7-U3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -836,14 +943,12 @@
         ],
         "isbn": "9781118940327",
         "published": "2014-11-17",
+        "description": "Provides step-by-step instructions for fifteen projects designed to teach the basics of writing computer programs, including an art toy, a miniature golf game, and an animated winter wonderland scene.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=X6jCBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -857,14 +962,18 @@
         ],
         "isbn": "9780321929662",
         "published": "2013",
+        "description": "Despite being designed for professional colorists color correcting video for a living, the information shared in this book can be used by anyone who wants to enhance their video editing through purposeful and powerful color correction.  It is an intensive overveiw o fthe skills necessary to master color correction for cinema and contains detailed explanations of a number of processes, including how to set up your camera settings and shots for color correction and  adjusting contrast, colors, curves, shapes, and more.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=mFkXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Color-Correction-Handbook-Professional-Techniques/dp/0321929667/ref=sr_1_1?keywords=Color+correction+handbook+%3A+professional+techniques+for+video+and+cinema&qid=1572275239&sr=8-1",
@@ -878,14 +987,17 @@
         ],
         "isbn": "1445141752",
         "published": "2019-01-10",
+        "description": "This easy-to-read book features colorful illustrations and clear instructions teaching basic sewing. It also includes 7 projects perfect to complete in a classroom or at home.",
         "subjects": [
-            null,
+            "Sewing",
             "Sewing"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=uv2qtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Sewing-Try-This-Stephanie-Turnbull/dp/1625883757/ref=sr_1_1?keywords=sewing+turnbull&qid=1571174703&sr=8-1",
@@ -899,14 +1011,17 @@
         ],
         "isbn": "9781680775501",
         "published": "2017",
+        "description": "This book is designed for teaching junior makers about wood working, using simple language and colorful images.  It includes an introduction to woodworking and 5 projects to build your new skills.",
         "subjects": [
-            null,
+            "Hand Tools",
             "Woodwork"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=QBzPDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Cool-Woodworking-Projects-Activities-Industrial/dp/1680781308/ref=sr_1_1?keywords=Cool+woodworking+projects+felix&qid=1575758811&sr=8-1",
@@ -920,14 +1035,17 @@
         ],
         "isbn": "9781683352150",
         "published": "2018-04-24",
+        "description": "This beautifully designed book includes step by step instructions in numerous paper crafts, including but not limited to floral wreaths, shoe clips,  a curtain tassels, tissue paper rugs, and more.  The main focus of this book is the celebration of each color of the rainbow through the crafts included.  The techniques range from simple folding and glueing to more complex projects, paper crafters seasoned and novice can enjoy the crafts offered in this book.",
         "subjects": [
-            null,
+            "Paper Crafts",
             "Crafts & Hobbies"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=JM1FDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/s?k=Craft+the+rainbow+%3A+40+colorful+paper+projects+from+\"The+house+that+Lars+built\"&ref=nb_sb_noss",
@@ -943,8 +1061,9 @@
         ],
         "isbn": "9781484218082",
         "published": "2016-08-13",
+        "description": "Crafting Wearables begins with the history of the field, then covers current practices and future trends. Crafting Wearables is intended to impart comprehensive general knowledge of the state of wearables in different industries while providing a well-curated list of example projects and resources by which to begin your personal journey into e-textiles. It is a wonderful read for those who are looking to expand their understanding of fashion and technology from both a hands-on and research-based perspective.",
         "subjects": [
-            null,
+            "Wearables",
             "Computers"
         ],
         "audience": [
@@ -952,7 +1071,10 @@
             "General",
             "Libraries"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=_wLWDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Crafting-Wearables-Blending-Technology-Fashion/dp/1484218078",
@@ -966,14 +1088,17 @@
         ],
         "isbn": "9781317597964",
         "published": "2016-11-25",
+        "description": "Whether you want to design an  unforgettable halloween costume or you are designing a character costume for a play or convention, \"Creating the character costume : tools, tips, and talks with top costumers and cosplayers\" is here to help.  It walks you through the thought processes every costume designer must go through: what kind of fabric should you use, how will you fit your costume to the model, how long does your costume need to last.  It includes tips from costumers to help you make your costume goals a reality.",
         "subjects": [
-            null,
+            "Sewing",
             "Performing Arts"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=qC8lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Creating-Character-Costume-Costumers-Cosplayers/dp/1138472921/ref=sr_1_1?keywords=Creating+the+character+costume+%3A+tools%2C+tips%2C+and+talks+with+top+costumers+and+cosplayers&qid=1570650158&sr=8-1",
@@ -987,8 +1112,9 @@
         ],
         "isbn": "9781499465044",
         "published": "2016-12-15",
+        "description": "This text provides readers with an exploratory lens into the general world of the Fab Lab with an in-depth focus on two specific types of machinery: laser cutters and engravers. These machines give users the unique opportunity to create through the removal of material from its source. Included for readers are hands-on tips and tricks for operating laser cutters and engravers, providing a variety of projects for every experience level, all the while connecting these skills to real-world business models and careers. This title tackles the arts and design element of STEAM more than any other Fab Lab machines do.",
         "subjects": [
-            null,
+            "Laser Cutting",
             "Juvenile Nonfiction"
         ],
         "audience": [
@@ -996,7 +1122,10 @@
             "General",
             "Libraries"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=Q9dhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Creating-Cutters-Engravers-Getting-Creative/dp/1499465041/ref=sr_1_11?s=books&ie=UTF8&qid=1543380732&sr=1-11&keywords=Laser+Cutting",
@@ -1010,14 +1139,17 @@
         ],
         "isbn": "9781351719940",
         "published": "2018-11-16",
+        "description": "This book covers how to take and edit photos of the night sky. It discusses techniques for capturing all kinds of phenomena in the night sky: constellations, eclipses, satellites, etc and it outlines both single image compositions and time lapse videos.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Photography"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=POZ3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Creative-Nightscapes-Time-Lapses-Conceptualizing-Composite/dp/1138745456/ref=sr_1_1?keywords=Creative+nightscapes+and+time-lapses+%3A+your+complete+guide+to+conceptualizing%2C+planning+and+creating+composite+nightscapes+and+time-lapses&qid=1570468318&sr=8-1",
@@ -1031,15 +1163,18 @@
         ],
         "isbn": "1780678614",
         "published": "2017-01-24",
+        "description": "This book outlines a unique kind of paper craft: textures. It covers 12 texture styles that range in level of difficulty. It includes tips for teachers in implementing these textures as art projects for students.",
         "subjects": [
-            null,
+            "Paper Crafts",
             "Design"
         ],
         "audience": [
             "K-12",
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=io_xjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Cut-Fold-Paper-Textures-Techniques/dp/1780678614/ref=sr_1_1?keywords=Cut+and+fold+paper+textures+%3A+techniques+for+surface+design&qid=1569856356&s=gateway&sr=8-1",
@@ -1053,14 +1188,12 @@
         ],
         "isbn": "9781317202837",
         "published": "2018-10-25",
+        "description": "Design thinking is a powerful process that facilitates understanding and framing of problems, enables creative solutions, and may provide fresh perspectives on our physical and social landscapes. Not just for architects or product developers, design thinking can be applied across many disciplines to solve real-world problems and reconcile dilemmas. It is a tool that may trigger inspiration and the imagination, and lead to innovative ideas that are responsive to the needs and issues of stakeholders. Design Thinking: A Guide to Creative Problem Solving for Everyone will assist in addressing a full spectrum of challenges from the most vexing to the everyday. It renders accessible the creative problem-solving abilities that we all possess by providing a dynamic framework and practical tools for thinking imaginatively and critically. Every aspect of design thinking is explained and analyzed together with insights on navigating through the process. Application of design thinking to help solve myriad problems that are not typically associated with design is illuminated through vignettes drawn from such diverse realms as politics and society, business, health and science, law, and writing. A combination of theory and application makes this volume immediately useful and personally relevant.",
         "subjects": [
-            null,
             "Architecture"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=I_h1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1074,14 +1207,19 @@
         ],
         "isbn": "9781484231869",
         "published": "2017-12-20",
+        "description": "For those seasoned in DSLR photography and those who have only ever used their phone's camera, this book will provide tips in how to take your iPhone camera skills to the next level.  It explores basic and advanced photography techniques, from color correction to double exposure.  It suggests IOS apps and specific functions that can enhance your photography even further.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Advanced,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Advanced",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=kAxEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Developing-Professional-iPhone-Photography-Photoshop/dp/1484231856/ref=sr_1_1?keywords=Developing+Professional+iPhone+Photography%3A+Using+Photoshop%2C+Lightroom%2C+and+other+iOS+and+Desktop+Apps+to+Create+and+Edit+Photos&qid=1571673091&sr=8-1",
@@ -1095,14 +1233,10 @@
         ],
         "isbn": "0081022662",
         "published": "2018-03",
-        "subjects": [
-            null,
-            null
-        ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "description": "As a \"third space\" on campus, the library is poised to be the location where researchers and students will come for help with creative endeavors, such as multimedia projects, data visualization, 3D printing and more. Libraries worldwide are coming up with innovative ways to engage students in this dialog, including by setting aside high-tech spaces for creativity. Five models of library creative spaces are explored in this book: digital media labs, Digital Humanities labs, makerspaces, data visualization labs, and knowledge markets. Digital media labs can assist students with audio and video projects for multimodal assignments and their own artistic work. Digital Humanities labs assist faculty and students to envision new scholarship on historical and artistic topics, with librarians and technical staff to instruct and guide them. Makerspaces are problem solving spaces that allow people to tinker, invent, or create 3D models. A visualization lab is a high-tech space used for simulations and data analysis, and may include a visualization wall or other interactive components. A knowledge market is a collaboration between the library (research help), the speech center (presentation skills), the writing center (writing and citation help), along with a data visualization and/or multimedia instruction component. This book explores creative spaces being offered currently in libraries, with a focus on academic libraries. It goes on to give real-world advice for the process of crafting a new space in the library, including finding campus partners, conducting a needs analysis, and answering important questions. Case studies of innovators of library creativity will further highlight the successes-and pitfalls-of embarking on the process of developing a new service or space in the library.",
+        "subjects": [],
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=tLavtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Development-Creative-Spaces-Academic-Libraries/dp/0081022662/ref=sr_1_1?keywords=Development+of+creative+spaces+in+academic+libraries+%3A+a+decision+maker%27s+guide&qid=1570113871&s=gateway&sr=8-1",
@@ -1116,14 +1250,17 @@
         ],
         "isbn": "1118365984",
         "published": "2013-02-18",
+        "description": "Divided into 5 distinct sections, this book covers DSLR video techniques, audio capture techniques, editing, and the business side of filmmaking.  The last section is dedicated to 10 ways to improve your filmmaking, including techniques you could use for specific occasions, such as a documentary or wedding.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Photography"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=Q-DduQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Digital-SLR-Video-Filmmaking-Dummies/dp/1118365984/ref=sr_1_3?keywords=Digital+SLR+video+and+filmmaking+for+dummies&qid=1571941215&sr=8-3",
@@ -1138,15 +1275,19 @@
         ],
         "isbn": "1780670028",
         "published": "2012-10-10",
+        "description": "Digital Textile Design, Second Edition covers everything students and practitioners of textile design will need to learn about designing and printing digitally. The book examines how designers can access this technique, looking at the work of those currently exploring its possibilities, and provides an insight into the technology involved in digital textile printing.",
         "subjects": [
-            null,
+            "Fiber Arts",
             "Design"
         ],
         "audience": [
             "College/University",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=W8HruAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Digital-Textile-Design-Second-Melanie/dp/1780670028/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1780670028&pd_rd_r=dfeda8d0-f2ca-11e8-bd66-f7675945ae46&pd_rd_w=1JeJE&pd_rd_wg=MR1X3&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=23AY9252X85P0YXCW6PG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=23AY9252X85P0YXCW6PG",
@@ -1160,14 +1301,17 @@
         ],
         "isbn": "9781515794950",
         "published": "2018",
+        "description": "This book is a catalog of electronic projects perfect for a novice looking to learn more about how electronics work.  Some of examples of projects you will find in this book are a light up greeting card, a miniature fan, and a buzzer game.  All of the projects include step by step instructions and a detailed materials list.",
         "subjects": [
-            null,
+            "Robotics",
             "Electronic apparatus and appliances"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=3D07DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Electronics-Projects-Beginners-Dabble-Hands/dp/1474751903/ref=sr_1_1?keywords=Electronics+Projects+for+Beginners+enz&qid=1574640744&sr=8-1",
@@ -1181,14 +1325,17 @@
         ],
         "isbn": "9781474775403",
         "published": "2019-03-07",
+        "description": "This book is a great source of projects to begin developing skills in LED lighting, circuits, breadboards, and tilt switches.  Each subject is a multistep project designed to break up the skills to be more easily absorbed.  The pages also contain colorful pictures and graphics to help guide you through the projects.",
         "subjects": [
-            null,
-            null
+            "Soldering",
+            "Robotics"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=Det3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Electronics-Projects-Build-Dabble-Lab/dp/1474775403/ref=sr_1_1?keywords=Electronic+Projects+to+Build+On+enz&qid=1574641230&sr=8-1",
@@ -1204,14 +1351,12 @@
         ],
         "isbn": "0071761128",
         "published": "2014-01-07",
+        "description": "The definitive guide to photogrammetry--fully updated Thoroughly revised to cover the latest technological advances in the field, Elements of Photogrammetry with Applications in GIS, Fourth Edition, provides complete details on the foundational principles of photogrammetry as well as important advanced concepts. Significant changes in the instruments and procedures used in modern photogrammetry, including laser scanning, are discussed. Example problems clarify computational procedures and extensive photographs and diagrams illustrate the material presented in this comprehensive resource. Coverage includes: Principles of photography and imaging Cameras and other imaging devices Image measurements and refinements Object space coordinate systems Vertical photographs Stereoscopic viewing Stereoscopic parallax Stereoscopic plotting instruments Laser scanning systems Elementary methods of planimetric mapping for GIS Titled and oblique photographs Introduction to analytical photogrammetry Topographic mapping and spatial data collection Fundamental principles of digital image processing Photogrammetric applications in GIS Control for aerial photogrammetry Aerotriangulation Project planning Terrestrial and close-range photogrammetry",
         "subjects": [
-            null,
             "Technology & Engineering"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=741SXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -1225,14 +1370,19 @@
         ],
         "isbn": "1465436030",
         "published": "2015-06-02",
+        "description": "This book starts by introducing the tools you will need to create beautiful embroidery.  It follows with illustrated instructions of over 200 stitches. There is a photo index to quickly identify and locate a stitch you'd like to learn.",
         "subjects": [
-            null,
+            "Sewing",
             "Crafts & Hobbies"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Advanced,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Advanced",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=3qjAoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Embroidery-Step-Step-Guide-Stiches/dp/1465436030/ref=sr_1_1?keywords=embroidery+lucinda+ganderton&qid=1571939665&sr=8-1",
@@ -1246,14 +1396,12 @@
         ],
         "isbn": "1787282627",
         "published": "2017-11-28",
+        "description": "Unleash the power of the ESP8266 and build a complete home automation system with it.About This Book* Harness the power of the ESP8266 Wi-Fi chip to build an effective Home Automation System* Learn about the various ESP8266 modules* Configuring the ESP8266 and making interesting home automation projects* A step-by-step guide on the ESP8266 chip and how to convert your home into a smart home.Who This Book Is ForThis book is targeted at people who want to build connected and inexpensive home automation projects using the ESP8266 Wi-Fi chip, and to completely automate their homes. A basic understanding of the board would be an added advantageWhat You Will Learn* Get, compile, install, and configure an MQTT server* Use the Wi-Fi connectivity feature to control appliances remotely* Control several home appliances using the ESP8266 Wi-Fi chip* Control and monitor your home from the cloud using ESP8266 modules* Stream real-time data from the ESP8266 to a server over WebSockets* Create an Android mobile application for your projectIn DetailThe ESP8266 is a low-cost yet powerful Wi-Fi chip that is becoming more popular at an alarming rate, and people have adopted it to create interesting projects.With this book, you will learn to create and program home automation projects using the ESP8266 Wi-Fi chip. You will learn how to build a thermostat to measure and adjust the temperature accordingly and how to build a security system using the ESP8266. Furthermore, you will design a complete home automation system from sensor to your own cloud. You will touch base on data monitoring, controlling appliances, and security aspects.By the end of the book, you will understand how to completely control and monitor your home from the cloud and from a mobile application. You will be familiar with the capabilities of the ESP8266 and will have successfully designed a complete ready-to-sell home automated system.Style and approachA practical book that will cover independent home automation projects.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=SmpMtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -1267,14 +1415,12 @@
         ],
         "isbn": "9781119188704",
         "published": "2016-06-09",
+        "description": "Expand Raspberry Pi capabilities with fundamental engineering principles Exploring Raspberry Pi is the innovators guide to bringing Raspberry Pi to life. This book favors engineering principles over a 'recipe' approach to give you the skills you need to design and build your own projects. You'll understand the fundamental principles in a way that transfers to any type of electronics, electronic modules, or external peripherals, using a \"learning by doing\" approach that caters to both beginners and experts. The book begins with basic Linux and programming skills, and helps you stock your inventory with common parts and supplies. Next, you'll learn how to make parts work together to achieve the goals of your project, no matter what type of components you use. The companion website provides a full repository that structures all of the code and scripts, along with links to video tutorials and supplementary content that takes you deeper into your project. The Raspberry Pi's most famous feature is its adaptability. It can be used for thousands of electronic applications, and using the Linux OS expands the functionality even more. This book helps you get the most from your Raspberry Pi, but it also gives you the fundamental engineering skills you need to incorporate any electronics into any project. Develop the Linux and programming skills you need to build basic applications Build your inventory of parts so you can always \"make it work\" Understand interfacing, controlling, and communicating with almost any component Explore advanced applications with video, audio, real-world interactions, and more Be free to adapt and create with Exploring Raspberry Pi.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=iftUDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1288,14 +1434,17 @@
         ],
         "isbn": "1681981017",
         "published": "2016-06-21",
+        "description": "Food photography : a beginners guide to creating appetizing images covers the basics like choosing your camera and using the right settings.  It also teaches you more advanced aspects of food photography, like staging, angles, props, and editing your pictures.  This book is for those who want to show off their food with high quality photos.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Photography"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=Xj9ZjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Food-Photography-Beginners-Guide-Creating-Appetizing/dp/1681981017/ref=sr_1_1?keywords=Food+Photography%3A+A+Beginner%27s+Guide+to+Creating+Appetizing+Images&qid=1570465667&sr=8-1",
@@ -1309,15 +1458,19 @@
         ],
         "isbn": "1138749311",
         "published": "2017-07-26",
+        "description": "The text details more of the applications and history of wearables and augmented reality, as well as a few other haptic and visual displays. Fundamentals of Wearable Computers and Augmented Reality goes beyond smart clothing to explore user interface design issues specific to wearable tech and areas in which it can be applied.",
         "subjects": [
-            null,
+            "Wearables",
             "Augmented reality"
         ],
         "audience": [
             "General",
             "College/University"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=46BrtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Fundamentals-Wearable-Computers-Augmented-Reality-ebook/dp/B011NH3DB6/ref=sr_1_1?ie=UTF8&qid=1543370188&sr=8-1&keywords=wearable+computers+and+augmented+reality",
@@ -1332,14 +1485,13 @@
         ],
         "isbn": "9781449344214",
         "published": "2012-12-24",
+        "description": "Helps readers get acquainted with hardware features on the Pi's board; learn enough Linux to move around the operating system; pick up the basics of Python; and use the Pi's input and output pins to do some hardware hacking.",
         "subjects": [
-            null,
+            "Raspberry Pi's",
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=qKQcXBpWXPAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1353,14 +1505,17 @@
         ],
         "isbn": "9781477777763",
         "published": "2014-07-15",
+        "description": "This is a short and easy to read crash course in 3D Printing that covers the basics of 3D printing and how to incorporate 3D printing into your makerspace.",
         "subjects": [
-            null,
+            "3D Printing",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "Libraries"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Getting-Most-Makerspaces-Create-Printers/dp/1477786023/ref=sr_1_1?keywords=Getting+the+most+out+of+makerspaces+to+create+with+3-D+printers&qid=1569857195&s=gateway&sr=8-1",
@@ -1374,14 +1529,19 @@
         ],
         "isbn": "1782214569",
         "published": "2017-06-19",
+        "description": "The book provides detailed and illustrated instruction on sewing and making one's own clothes. It begins with an overview and detailed list of things that are required for tailoring, such as a sewing kit and fabricology. It includes basic projects like vintage pincushions, scarf tops etc. It advances to somewhat intermediate level projects like customizing clothes with doily details, embroidery, block printing etc. It then provides instructions on making clothes from scratch including how to make dresses, skirts, tops and trousers.",
         "subjects": [
-            null,
+            "Sewing",
             "CRAFTS & HOBBIES"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Beginner,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Beginner",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=aSEnvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Girl-Sewing-Machine-no-fuss-adapting/dp/1782214569/ref=sr_1_3?keywords=Girl+with+a+sewing+machine+%3A+the+no-fuss+guide+to+making+and+adapting+your+own+clothes&qid=1570113579&s=gateway&sr=8-3",
@@ -1395,15 +1555,18 @@
         ],
         "isbn": "9780425287538",
         "published": "2017",
+        "description": "This book is dedicated to empowering girls and women to code, but it can be used by anyone who wishes to develop coding skills.  It is simple and accessible, with illustrations and easy to follow explanations of coding. It also includes stories with five girls who have created websites, games and more by learning to code.",
         "subjects": [
-            null,
+            "Programming",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "General",
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=ANwtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Girls-Who-Code-Learn-Change/dp/042528753X/ref=sr_1_1?keywords=Girls+who+code+%3A+learn+to+code+and+change+the+world&qid=1573573933&sr=8-1",
@@ -1417,14 +1580,19 @@
         ],
         "isbn": "9781260012217",
         "published": "2017-09-29",
+        "description": "Hacking electronics is a step by step guide to experimenting with electronics projects using Raspberry Pi's and Arduinos.  Using these platforms, the book guides you with easy-to-follow visuals and do-it-yourself projects.",
         "subjects": [
-            null,
+            "Arduinos",
+            "Raspberry Pi's",
+            "Soldering",
             "Technology & Engineering"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=CikvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Hacking-Electronics-Learning-Arduino-Raspberry/dp/1260012204/ref=sr_1_1?keywords=Hacking+electronics+%3A+learning+electronics+with+Arduino+and+Raspberry+Pi&qid=1571080867&s=sporting-goods&sr=8-1",
@@ -1438,14 +1606,17 @@
         ],
         "isbn": "9781607654667",
         "published": "2016-03-29",
+        "description": "The book provides instruction on hemp bracelet projects with detailed, illustrated instructions on overhand knots, half-hitch knot, half knot, square knot and josephine knot. It starts with different ideas for bracelets and strategies for projects and knitting.",
         "subjects": [
-            null,
+            "General Crafts/ Making",
             "Crafts & Hobbies"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=PqV8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Tandy-Leather-Hemp-Bracelets-61964-00/dp/1497200571/ref=sr_1_1?keywords=Hemp+bracelets+and+more+%3A+easy+instructions+for+more+than+20+designs&qid=1570112789&s=gateway&sr=8-1",
@@ -1459,14 +1630,17 @@
         ],
         "isbn": "9781681882604",
         "published": "2017-10-17",
+        "description": "This festive book is full of crafts for decorations sure to get you in the holiday spirit.  You will find intractions to make  paper lanterns, paper ornaments, a paper holiday village, and more.  The skills developed in this book include paper cutting, kirigami and origami.",
         "subjects": [
-            null,
+            "Paper Crafts",
             "Crafts & Hobbies"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=LmZADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Holiday-Paper-Crafts-Beautifully-Decorations/dp/1681882604/ref=sr_1_1?keywords=Holiday+Paper+Crafts%3A+Create+Over+25+Beautifully+Designed+Holiday+Craft+Decorations+for+Your+Home&qid=1575301946&sr=8-1",
@@ -1480,14 +1654,12 @@
         ],
         "isbn": "9781118949269",
         "published": "2015-02-23",
+        "description": "Ready to control you house with your smartphone or tablet? Spivey shows you how to control thermostats, home security systems, and much more! Best of all, with these plain-English instructions, you can do it yourself!",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=PwthBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1501,14 +1673,19 @@
         ],
         "isbn": "9781781317686",
         "published": "2018-01-18",
+        "description": "This book is a treasure trove of robotics projects.  It aims to build your robotics skills as you progress through each set of projects, starting with basic projects and moving to simple robots before finishing with \"smart makes\" or more complicated robots.  Projects include lists of materials and tools you need, as well as detailed instructions and pictures for each step to guide you through the process.",
         "subjects": [
-            null,
+            "Robotics",
+            "Programming",
             "Technology & Engineering"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=DPZcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Home-Robotics-Maker-Inspired-Projects-Building/dp/1781317003/ref=sr_1_1?keywords=Home+robotics+%3A+Maker-Inspired+Projects+For+Building+Your+Own+Robots&qid=1575759594&sr=8-1",
@@ -1522,14 +1699,19 @@
         ],
         "isbn": "9781591865797",
         "published": "2013-08",
+        "description": "This book offers expansive instructions on carpentry for the home.  It covers necessary tools and materials and instructions on crafting your home's skeleton.",
         "subjects": [
-            null,
+            "Hand Tools",
             "House & Home"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate,Advanced",
+        "expertise": [
+            "Beginner",
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=JrtsgfQSG7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/HomeSkills-Carpentry-Introduction-Drilling-Shaping/dp/1591865794/ref=sr_1_1?keywords=Carpentry%3A+An+Introduction+To+Sawing%2C+Drilling%2C+Shaping+%26+Joining+Wood&qid=1575491667&sr=8-1",
@@ -1543,14 +1725,12 @@
         ],
         "isbn": "9781591865797",
         "published": "2013-08",
+        "description": "HomeSkills: Carpentry provides all the information you need to learn the essential skill of woodworking, from choosing and using tools to making joints and applying finishes.",
         "subjects": [
-            null,
             "House & Home"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=JrtsgfQSG7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1564,14 +1744,13 @@
         ],
         "isbn": "1592281923",
         "published": "2003",
+        "description": "Finally, a practical guide to building castles in the air.",
         "subjects": [
-            null,
+            "Hand Tools",
             "Architecture"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=3900od2rKbsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -1585,14 +1764,12 @@
         ],
         "isbn": "9781250044723",
         "published": "2014-02-11",
+        "description": "Filled with visual, step-by-step tutorials, this excellent resource for readers who want to take their craft business to the next level provides branding, selling and merchandising tips along with profiles of some of the world's most successful crafters. Original.",
         "subjects": [
-            null,
             "Business & Economics"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=KfyKAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1606,14 +1783,17 @@
         ],
         "isbn": "1138280666",
         "published": "2018-11-15",
+        "description": "The book comprises detailed and illustrated instructions on interior design using techniques like freehand drawing and digital artwork. Each chapter is arranged thematically focusing on aspects of design such as working with furniture, hard and soft surfaces, light and shadow, floor plans and elevation, and external landscape and architecture. Through specific examples of items, the book provides detailed instructions on applying design software like Photoshop and Sketchbook along with freehand sketching.",
         "subjects": [
-            null,
+            "Interior Design",
             "Architectural drawing"
         ],
         "audience": [
             "College/University"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=T3cwtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Hybrid-Drawing-Techniques-Interior-Design/dp/1138280674/ref=sr_1_1?keywords=Hybrid+drawing+techniques+for+interior+design&qid=1569875258&s=gateway&sr=8-1",
@@ -1628,14 +1808,17 @@
         ],
         "isbn": "0531234118",
         "published": "2017-09",
+        "description": "This is the perfect book to introduce your youngsters to electronics.  It contains three simple and fun projects to teach about electric currents, lights and the types of circuits.  It wraps up with some interesting history about electricity.",
         "subjects": [
-            null,
+            "General Crafting/Making",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=CmtOAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Exciting-Electronics-Rookie-Makerspace-Projects/dp/0531238806/ref=sr_1_1?keywords=I+can+make+exciting+electronics&qid=1574640340&sr=8-1",
@@ -1650,14 +1833,17 @@
         ],
         "isbn": "053123410X",
         "published": "2017-09",
+        "description": "This fun and colorful book contains 3 projects to teach your child the basics of robotics.  Each project includes a materials list, background information, and step by step instructions and pictures to guide you and your child to the finished product.",
         "subjects": [
-            null,
+            "Robotics",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=q0R4AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -1671,14 +1857,17 @@
         ],
         "isbn": "9781477756454",
         "published": "2015-07-15",
+        "description": "This book is full of simple and fun crafts using your recyclables and other household materials to make toys.  Projects you will find include a sock puppet a kite, and a board game.  Each project includes a materials list and colorful instructions, as well as how to use the toy once it's finished.",
         "subjects": [
-            null,
+            "General Crafts/ Making",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=FoVhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Can-Make-Toys-Makerspace-Projects/dp/1477756450/ref=sr_1_1?keywords=I+can+make+toys+Reid&qid=1575300987&sr=8-1",
@@ -1692,14 +1881,16 @@
         ],
         "isbn": "1526301075",
         "published": "2018-04-26",
+        "description": "In this book you will learn how to make apps with the App Inventor from Google.  The unctions require an Android device or Android emulator, which can be downloaded onto a computer.  The book teaches basic coding inputs and guides you through the steps of designing 6 simple app projects like a translator and a photo painter. The book also offers advice for sharing your app with your loved ones.",
         "subjects": [
-            null,
-            null
+            "Programming"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=qgA_swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Im-App-Developer-Programs-Generation/dp/0778735281/ref=sr_1_1?keywords=I%27m+an+app+developer&qid=1573770757&s=books&sr=1-1",
@@ -1713,14 +1904,12 @@
         ],
         "isbn": "9781644930045",
         "published": "2019-08-01",
+        "description": "Explores how the Internet of Things works, focusing on its history, current developments, and potential for future discoveries. Clear text, vibrant photos, and helpful infographics make this book an accessible and engaging read. Plus, two \"Scientist Bio\" features highlight people who helped make this amazing technology possible.",
         "subjects": [
-            null,
             "Juvenile Nonfiction"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=OAOqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1734,15 +1923,20 @@
         ],
         "isbn": "1138035009",
         "published": "2017-10-04",
+        "description": "The text is more of a collection about Wearables and the Internet of Things rather than an instructional text. The book covers a diverse range of technologies and the social implications.",
         "subjects": [
-            null,
+            "Wearables",
+            "Internet of Things",
             "Internet of things"
         ],
         "audience": [
             "College/University",
             "General"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=fQuKAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Internet-Things-IoT-Technologies-Applications/dp/1138035009/ref=sr_1_1?ie=UTF8&qid=1543368706&sr=8-1&keywords=internet+of+things+technologies+applications+challenges+and+solutions",
@@ -1756,14 +1950,20 @@
         ],
         "isbn": "1785888560",
         "published": "2017-02-17",
+        "description": "This book explores the combination of Raspberry Pis and Arduinos to create personalized smart-home projects like safety sensors, webcam monitoring, and developing an iPhone app to control your devices.  It includes a list of required materials and step by step instructions and code commands for your convenience.",
         "subjects": [
-            null,
-            null
+            "Internet of Things",
+            "Programming",
+            "Raspberry Pi's",
+            "Arduinos"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=EF9dAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Internet-Things-IoT-Technologies-Applications/dp/1138035009/ref=sr_1_1?ie=UTF8&qid=1543368706&sr=8-1&keywords=internet+of+things+technologies+applications+challenges+and+solutions",
@@ -1777,14 +1977,12 @@
         ],
         "isbn": "9781613734032",
         "published": "2016-06-01",
+        "description": "This easy-to-follow activity book is packed with over 70 projects across a variety of fiber arts including knitting, felting, knotting and braiding, spinning, weaving, crocheting, and dyeing. Kids will learn to felt a bag, braid a rug, weave a tapestry, knit comfy slippers, crochet a belt, make and use natural dyes, and make dozens of other projects. Along the way they'll learn about Viking ships' woolen sails, the history of rope bridges, Japan's yearly Straw Festival, the invention of the spinning machine, and much more.",
         "subjects": [
-            null,
             "Juvenile Nonfiction"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=TW0fDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1798,15 +1996,19 @@
         ],
         "isbn": "1780670583",
         "published": "2013-09-10",
+        "description": "Packed with diagrams, knitwear samples and images from a wide range of contemporary designers, the book offers a practical approach to designing garments from initial research, finding sources of inspiration and developing the design, through an exploration of color, texture, and knitting techniques to constructing a garment and creating and writing a pattern. Knitwear Design also showcases the techniques that are transforming knitted textiles, such as heat treatments and painting and printing knit, and profiles the fusing of knitting, art, and craft.",
         "subjects": [
-            null,
+            "Sewing",
             "Design"
         ],
         "audience": [
             "College/University",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=GuFFmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Knitwear-Design-Carol-Brown/dp/1780670583/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1780670583&pd_rd_r=8daddcc2-f2c9-11e8-a029-3b664630e258&pd_rd_w=QLTK9&pd_rd_wg=b7EIQ&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=T1HXS3N5X9ESSMWG0ZDV&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T1HXS3N5X9ESSMWG0ZDV",
@@ -1820,14 +2022,12 @@
         ],
         "isbn": "9781785002274",
         "published": "2016-11-30",
+        "description": "Although most people have heard of laser-cut and 3-D printed model railway parts and kits, most modellers have little knowledge or experience of them. This fascinating and well-illustrated book describes in non-technical language how these machines work and how railway modellers can use them to produce remarkable models for their layouts. With reference to the different modelling scales, the author discusses in detail the advantages and disadvantages of different types of machines, and the materials they employ. He also shows how beginners can install and use 'Sketchup Make', a free CAD (Computer Aided Design) program from the Internet. With step-by-step instructions and accompanying photographs, the author takes the modeller through the early stages of using this program before providing many examples of how to design model railway related items such as laser-cut roofing tiles, palisade fencing, brickwork, and the detailed elements of station awning. In addition, he demonstrates how to create 3-D printed furniture, barrels, packing crates, guttering and down pipes, rivet heads, and a workman's hut.The CAD skills learnt whilst following the clear instructions on how to draw these examples will enable modellers to design their own model railway parts, which can either be produced on their own machines or be sent away to be created by one of the many 'bureau' companies. Clear step-by-step instructions are given along with over 430 superb colour images.",
         "subjects": [
-            null,
             "Crafts & Hobbies"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=CVZwDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -1841,14 +2041,12 @@
         ],
         "isbn": "1780676174",
         "published": "2016-01-12",
+        "description": "Laser cutting is the latest embellishment technique to appear on the runway. In this book, Laura Berens Baker provides 14 inspirational projects that demonstrate how to use laser cutting equipment to produce original designs for garments and accessories. The book explores how to engineer designs and harness laser technology to upcycle fabrics, replicating traditional finishes as well as developing new ones. Each project is created in Adobe Illustrator and includes step-by-step instructions for creating the design for the laser cutter, followed by instructions for cutting and sewing. Extra material available to download from the Laurence King website includes patterns and templates for the designs. Illustrated with specially commissioned photography, Laser Cutting for Fashion and Textiles offers a unique insight for fashion, textile, and accessory designers into how to use this latest technology and provides the skills to develop their own original designs.",
         "subjects": [
-            null,
             "Design"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=4TfurQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -1862,15 +2060,20 @@
         ],
         "isbn": "1780676174",
         "published": "2016-01-12",
+        "description": "In this book, Laura Berens Baker provides 14 inspirational projects that demonstrate how to use laser cutting equipment to produce original designs for garments and accessories. The book explores how to engineer designs and harness laser technology to upcycle fabrics, replicating traditional finishes as well as developing new ones.  Each project is created in Adobe Illustrator and includes step-by-step instructions for creating the design for the laser cutter, followed by instructions for cutting and sewing. Extra material available to download from the Laurence King website includes patterns and templates for the designs.",
         "subjects": [
-            null,
+            "Laser Cutting",
+            "Fiber Arts",
             "Design"
         ],
         "audience": [
             "General",
             "College/University"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=4TfurQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Laser-Cutting-Fashion-Textiles-Berens/dp/1780676174/ref=sr_1_7?s=books&ie=UTF8&qid=1543380732&sr=1-7&keywords=Laser+Cutting",
@@ -1884,14 +2087,17 @@
         ],
         "isbn": "9781484232255",
         "published": "2017-11-20",
+        "description": "This book is perfect for someone new to Autodesk.  It helps you build basic skills in the program by guiding you through step by step tutorials in basic part modeling, sheet metal modeling, top-down assembly and joints, and more.  It starts with basic skills and builds to intermediate skills as you progress through the tutorials.",
         "subjects": [
-            null,
+            "3D Modeling",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=jbE_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Learn-Autodesk-Inventor-2018-Basics/dp/1484232240/ref=sr_1_1?keywords=Learn+Autodesk+Inventor+2018+basics+%3A+3D+modeling%2C+2D+graphics%2C+and+assembly+design&qid=1569590145&s=gateway&sr=8-1",
@@ -1905,14 +2111,12 @@
         ],
         "isbn": "1449343015",
         "published": "2013-04-15",
+        "description": "Design and create real-world objects with 3D printers, laser cutters, or common materials that you assemble yourself. It’s easy with Autodesk’s free 123D tools. In this full-color book, Jesse Harrington Au—Autodesk’s Maker Advocate—shows you how to design objects from scratch, work with existing models, or scan real-world objects. You’ll learn how to use tools in the entire Autodesk 123D suite—including the 123D CAD program, 123D Catch, 123D Sculpt, and 123D Make—to design, sculpt, scan, and print 3D objects with an easy-to-learn CAD interface. It’s ideal for makers, hobbyists, students, artists, and designers, including beginners. Jump right into the world personal fabrication without costly or complicated software tools Create amazing 3D objects out of common materials, even if you don't have a laser cutter or 3D printer Make 3D scans of objects using an iPad or a camera Get clear, full-color images of the 123D suite’s user interface, as well as views of 3D models",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=mGXUMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -1926,14 +2130,17 @@
         ],
         "isbn": "1783553537",
         "published": "2015-01-27",
+        "description": "This book is covers a variety of ways to use your Raspberry Pi for Internet of Things projects and includes instructions on multiple protocols including HTTP and CoAP.  The projects assume prior proficiency in Raspberry Pi and are targeted for more experienced Makers.",
         "subjects": [
-            null,
+            "Internet of Things",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=YgggrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Learning-Internet-Things-Peter-Waher/dp/1783553537/ref=sr_1_3?keywords=Learning+Internet+of+things+Waher&qid=1570043570&s=gateway&sr=8-3",
@@ -1948,14 +2155,17 @@
         ],
         "isbn": "1565239512",
         "published": "2019",
+        "description": "The book starts with basic lessons on macrame and the basic toolkit and extends to 40 projects of varying complexity. Each project has detailed and illustrated step-by-step instructions. Each project is both decorative and useful for household and domestic purposes. Projects include many different types of home decor, plant hangers, wall hangings and mats",
         "subjects": [
-            null,
+            "Fiber Arts",
             "Interior decoration"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=bkFmtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Macrame-Home-Decor-Step-Step/dp/1565239512/ref=sr_1_1?keywords=Macram%C3%A9+for+home+decor+%3A+40+stunning+projects+for+stylish+decorating&qid=1570112480&s=gateway&sr=8-1",
@@ -1970,14 +2180,18 @@
         ],
         "isbn": "1260116158",
         "published": "2018-08-29",
+        "description": "For those interested in combining sewing, programing, 3D printing, and laser cutting into breathtaking wearable technology, this book provides projects that do just that.  After providing a brief overview of the above skills, this book dives into 7 detailed projects with clear written and photographic instructions, including a backpack that will charge your devices using solar energy, a light up scarf, and more.",
         "subjects": [
-            null,
+            "Wearables",
             "Technology & Engineering"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=5uqzswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Make-Wear-Wearable-Electronics-Cosplayers/dp/1260116158/ref=sr_1_1?keywords=Make+it%2C+wear+it+%3A+wearable+electronics+for+makers%2C+crafters%2C+and+cosplayers&qid=1572884762&sr=8-1",
@@ -1991,14 +2205,12 @@
         ],
         "isbn": "1457182939",
         "published": "2013",
+        "description": "Provides a guide to three-dimensional printers, covering such topics as how to choose the right printer, finding the appropriate software, and includes a showcase of printed projects.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=K5MlnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2014,14 +2226,17 @@
         ],
         "isbn": "1457187361",
         "published": "2015-10-11",
+        "description": "Designed for the everyday consumer, this book will guide you through the emerging world of 3D printing and give you information on techniques, machines accessible to anyone wanting to start 3D printing.  You will learn the basics of various softwares for editing projects or modeling them yourself.  It includes a downloadable projects that you can work on as you follow instructions detailed to build each skill.",
         "subjects": [
-            null,
-            null
+            "3D Scanning",
+            "3D Modeling"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=AeHxsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Design-3D-Printing-Scanning-Dimensions/dp/1457187361",
@@ -2036,14 +2251,13 @@
         ],
         "isbn": "1449363334",
         "published": "2014-12-28",
+        "description": "Presents an introduction to the open-source electronics prototyping platform.",
         "subjects": [
-            null,
+            "Arduinos",
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=nYLmoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2057,8 +2271,9 @@
         ],
         "isbn": "1449336515",
         "published": "2014-09-05",
+        "description": "Make: Wearable Electronics is intended for those with an interest in physical computing who are looking to create interfaces or systems that live on the body. Perfect for makers new to wearable tech, this book introduces you to the tools, materials, and techniques for creating interactive electronic circuits and embedding them in clothing and other things you can wear.   Each chapter features experiments to get you comfortable with the technology and then invites you to build upon that knowledge with your own projects. Fully illustrated with step-by-step instructions and images of amazing creations made by artists and professional designers, this book offers a concrete understanding of electronic circuits and how you can use them to bring your wearable projects from concept to prototype.",
         "subjects": [
-            null,
+            "Wearables",
             "Computers"
         ],
         "audience": [
@@ -2066,7 +2281,10 @@
             "College/University",
             "Libraries"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=tX3UmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Make-Wearable-Electronics-prototype-interactive-ebook/dp/B00MNTH1H6",
@@ -2080,14 +2298,17 @@
         ],
         "isbn": "077872574X",
         "published": "2016-08",
+        "description": "The book has project lessons on items that create space. It allows for an imaginative use of space. It provides a list of items required for each project. It provides lessons to make idea boards, unique furniture with recycled products and model rooms. It provides instructions on how to use colors and space in harmony.",
         "subjects": [
-            null,
+            "Interior Design",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=E3K3DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Maker-Projects-Kids-Designing-Spaces/dp/0778725804/ref=sr_1_1?keywords=Maker+projects+for+kids+who+love+designing+spaces&qid=1569877328&s=gateway&sr=8-1",
@@ -2101,14 +2322,18 @@
         ],
         "isbn": "0778725758",
         "published": "2016-08",
+        "description": "This book includes electronics information covering circuits, diodes, breadboards and more.  It includes three projects: Squishy Circuits, Electronic Circuits, and a Three-Penny Radio.  Each project includes a materials list, detailed instructions, and pictures of each step.  At the end of each project it also suggests ways to use your new skills in other projects.",
         "subjects": [
-            null,
+            "Programming",
+            "Robotics",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=KvXdjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Maker-Projects-Kids-Love-Electronics/dp/0778725758/ref=sr_1_1?keywords=Maker+projects+for+kids+who+love+electronics&qid=1573771413&s=books&sr=1-1",
@@ -2122,14 +2347,17 @@
         ],
         "isbn": "0778725766",
         "published": "2016-08-25",
+        "description": "The book provides information for K-12 readers about surviving in nature through observation and creativity. The book provides basic and crucial information on wildlife, plants, insects and night and day in the forest. This information is accompanied by practical projects that will help people survive in wildlife such as building a sundial or a bug house or a shelter. It is heavily illustrated with attractive layout that makes for easy reading and detailed project instructions.",
         "subjects": [
-            null,
+            "General Crafting/Making",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=ERf-jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Maker-Projects-Kids-Exploring-Outdoors/dp/0778725766/ref=sr_1_1?keywords=Maker+projects+for+kids+who+love+exploring+the+outdoors&qid=1569876862&s=gateway&sr=8-1",
@@ -2146,8 +2374,9 @@
         ],
         "isbn": "9781119259701",
         "published": "2016-12-05",
+        "description": "This book is dedicated  to answering the leading questions faced by Makers and those who wish to spread knowledge of making, and would be of interest to anyone running or teaching through makerspaces.  The author discusses the ideas leaders and educators in making have about how maker-centered education is shaping the world, under what conditions does maker centered-learning work optimally, and what are the best ways to implement maker centered learning to foster empowerment and deeper thought about the world we live in.",
         "subjects": [
-            null,
+            "Makerspaces - Operating",
             "Education"
         ],
         "audience": [
@@ -2155,7 +2384,7 @@
             "K-12",
             "College/University"
         ],
-        "expertise": "",
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=DjBrDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Maker-Centered-Learning-Empowering-People-Worlds/dp/1119259703/ref=sr_1_1?keywords=Maker-centered+learning+%3A+empowering+young+people+to+shape+their+worlds&qid=1572277104&sr=8-1",
@@ -2169,15 +2398,16 @@
         ],
         "isbn": "9781538108192",
         "published": "2018-01-23",
+        "description": "The book provides guidance, information and resources for librarians to create their makerspaces. The book provides information on technologies, equipments and case studies so that librarians can estimate their own projects and create their own makerspaces. At the end of each chapter, there is a list of references which indicates other texts that the reader can consult. The illustrations provide vivid portrayal of tool and practices. A list of grant and funding sources is included for creating makerspaces.",
         "subjects": [
-            null,
+            "Makerspaces - Operating",
             "Language Arts & Disciplines"
         ],
         "audience": [
             "College/University",
             "Libraries"
         ],
-        "expertise": "",
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=0txBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Makerspaces-Practical-Guide-Librarians-Guides/dp/1538108186/ref=sr_1_1?keywords=Makerspaces+%3A+a+practical+guide+for+librarians&qid=1570114084&s=gateway&sr=8-1",
@@ -2191,15 +2421,19 @@
         ],
         "isbn": "9781555709907",
         "published": "2014",
+        "description": "The book provides information on Makerspace and its different uses and applications. It then provides a detailed description and analysis of some of the most successful makerspace projects at both academic and public libraries. It provides useful information which readers can apply to their own institutions.",
         "subjects": [
-            null,
+            "Making Scholarship",
+            "Makerspaces - Operating",
             "House & Home"
         ],
         "audience": [
             "College/University",
             "Libraries"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=UumkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Makerspaces-Trailblazing-Projects-LITA-Guide-ebook/dp/B00JLQTIHK/ref=sr_1_1?keywords=Makerspaces+%3A+top+trailblazing+projects&qid=1569877251&s=gateway&sr=8-1",
@@ -2213,14 +2447,17 @@
         ],
         "isbn": "0764351451",
         "published": "2016",
+        "description": "Master your craft\" is designed for those who want to share their art with the world and make a profit doing so.  It guides you through the process of brainstorming your designs and self evaluating your work, and includes tips from artisans from a variety of crafts who have created businesses from their artwork.",
         "subjects": [
-            null,
+            "General Crafting/Making",
             "Decorative arts"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=81aRjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Master-Your-Craft-Strategies-Designing/dp/0764351451/ref=sr_1_1?keywords=Master+your+craft+%3A+strategies+for+designing%2C+making%2C+and+selling+artisan+work&qid=1569856741&s=gateway&sr=8-1",
@@ -2234,14 +2471,17 @@
         ],
         "isbn": "1484200268",
         "published": "2014-08-27",
+        "description": "Mastering 3D Printing covers basic skills like how to create a printable file for your 3D printer, how to choose your materials, etc.  It also discusses the applications pf 3D printing in education and science, and the potential of 3D printing in the future.",
         "subjects": [
-            null,
+            "3D Printing",
             "Technology & Engineering"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=vXQ1oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Mastering-3D-Printing-Technology-Action/dp/1484200268/ref=sr_1_4?keywords=Mastering+3D+printing&qid=1569590845&s=gateway&sr=8-4",
@@ -2255,14 +2495,17 @@
         ],
         "isbn": "9781849694797",
         "published": "2013-01-01",
+        "description": "Straight forward and easy to follow, this book will guide you through video projects designed to teach you tips and techniques on the popular video editing software, Premiere Pro CS6.  Some of the skills the projects focus on include video and audio correction, visual effects, editing techniques for specific kinds of videos, like documentaries and video montages.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=rbiuLFrfT04C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Mastering-Adobe-Premiere-Pro-Hotshot/dp/1849694788/ref=sr_1_fkmr0_1?keywords=Mastering+Adobe+Premier+Pro+CS6+Hotshot+%3A+take+your+video+editing+skills+to+new+and+exciting+levels+with+eight+fantastic+projects&qid=1571940446&sr=8-1-fkmr0",
@@ -2277,15 +2520,18 @@
         ],
         "isbn": "0838988792",
         "published": "2017",
+        "description": "The evolution of technology presents both risks and opportunities for academic librarians. In this collection of essays, the authors explore their responses as they need to adapt their spaces, collections, teaching, and services to the new possibilities. By understanding how mobile technology changes the behavior of our users, we can improve our services to better contribute to their research and learning needs.",
         "subjects": [
-            null,
             "Academic libraries"
         ],
         "audience": [
             "Libraries",
             "College/University"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=yimlswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Mobile-Technology-Academic-Libraries-Innovative/dp/0838988792/ref=sr_1_1?ie=UTF8&qid=1543369094&sr=8-1&keywords=mobile+technology+and+academic+libraries",
@@ -2299,14 +2545,17 @@
         ],
         "isbn": "9781634722568",
         "published": "2017-01-01",
+        "description": "This book is meant to inform children about what Makerfests are and how they can help organize and run a Makerfest with the help of trusted adults.  It includes setting up, finding volunteers to help run maker stations and more.",
         "subjects": [
-            null,
+            "Makerspaces - Operating",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=4_JKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Organizing-Makerfest-Makers-as-Innovators/dp/1634723228",
@@ -2321,14 +2570,12 @@
         ],
         "isbn": "9781250230089",
         "published": "2018-10-23",
+        "description": "Have you ever had the urge to create a frog out of a plain sheet of paper? How about a sea serpent, an elephant, an angel fish, or even a chess set? With this fun and easy-to-use primer, you can make such origami animals and projects come magically to life. Renowned paperfolder Robert Neale and his coauthor, Thomas Hull, present thirty original models, perfect for absolute beginners as well as more seasoned paperfolders looking for fresh, fun projects. Each model is explained in simple terms, with supportive step-by-step instructions accompanied by intuitively clear diagrams that show each stage of the process. Projects begin with the basics and slowly progress in difficulty, ranging from simple folds (Frog with a Big Mouth, Owlet and Family, Scottie Dog); action folds (Talking Bird, Funky Swan, Somersaulting Frog); and modular folds (Sunburst, Three Wise Men, Chess Set); to trickier projects (Elephant Minor, Angel Fish, Bald Eagle). The authors also provide basic tips on how to fold as the masters do and make projects that come out looking the way you want them to. Whether you're just starting out or you're a confirmed origami enthusiast for life, Origami, Plain and Simple will provide a repertoire of folding feats that's sure to entertain and challenge as it teaches the ins and outs of this captivating art.",
         "subjects": [
-            null,
             "Crafts & Hobbies"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=0U9wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -2343,14 +2590,12 @@
         ],
         "isbn": "1621138089",
         "published": "2014",
+        "description": "This is a collection of 24 easy-to-build wood projects for your garden and backyard, each of which can be constructed in a single weekend. Outdoor Wood Projects features 24 projects for the backyard and garden that can be completed with basic DIY tooling,",
         "subjects": [
-            null,
             "Gardening"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=ibP2nQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2364,14 +2609,18 @@
         ],
         "isbn": "9781465449658",
         "published": "2015-10-06",
+        "description": "After a brief introduction of the materials and equipment you need, this book dives right in to a variety of paper projects, including three different kinds of gift boxes, quilled earrings, twelve floral projects, and more.  Each project includes a list of necessary materials and tools as well as step by step instructions and images to make following along a breeze.",
         "subjects": [
-            null,
+            "Paper Crafts",
             "Crafts & Hobbies"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=zgdkCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Paper-Craft-Including-Scrapbooking-Beautiful/dp/1465439439/ref=sr_1_1?keywords=Paper+Craft%3A+50+Projects+Including+Card+Making%2C+Gift+Wrapping%2C+Scrapbooking%2C+and+Beautiful+Paper+Flowers&qid=1573574407&sr=8-1",
@@ -2385,14 +2634,17 @@
         ],
         "isbn": "9781482402124",
         "published": "2013-12-15",
+        "description": "The book provides detailed illustrated instructions on 13 different types of paper crafts projects. It gives information on the toolkit or materials required to accomplish each task and a step-by-step guide for each project. It includes projects like making colorful stationary and pop-up paintings and other assorted decorations.",
         "subjects": [
-            null,
+            "Paper Crafts",
             "JUVENILE NONFICTION"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=Wa7nAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Paper-Crafts-Craft-Attack-Annalees/dp/1482402130/ref=sr_1_2?keywords=Paper+crafts+by+annalees+lim&qid=1570113460&s=gateway&sr=8-2",
@@ -2407,14 +2659,18 @@
         ],
         "isbn": "0500294186",
         "published": "2018-08-16",
+        "description": "Paper crafts: a makers guide begins with an overview of various paper styles, sizes, and widths, as well as tools needed for paper crafting.  It then moves on to explore 4 techniques: folding, cutting, sticking, and forming.  Each section starts with an explanation of the history of the technique and includes projects utilizing that technique. There are also plenty of photographs to help you along the way.  Some projects delineated in this book include making a bag out of paper, a paper silhouette, and an origami vase.",
         "subjects": [
-            null,
+            "Paper Crafts",
             "CRAFTS & HOBBIES"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=zGmWswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Paper-Crafts-Victoria-Albert-Museum/dp/0500294186/ref=sr_1_3?keywords=Paper+Crafts%3A+A+Maker%27s+Guide&qid=1572463275&sr=8-3",
@@ -2429,14 +2685,17 @@
         ],
         "isbn": "9781119418108",
         "published": "2017-10-13",
+        "description": "This book is perfect for a complete beginner to photoshop and can even be used by more seasoned photo editors to learn shortcuts and new operations you can perform in Photoshop Elements.  It covers basic skills like launching the program and saving photos before diving into more complex tasks.  These include working with layers, color correction, painting with Photoshop, and more.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=Q-k5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Photoshop-Elements-2018-Dummies-Computer/dp/1119418089/ref=sr_1_2?keywords=photoshop+elements+2018+book&qid=1571321987&sr=8-2",
@@ -2450,14 +2709,17 @@
         ],
         "isbn": "1840788038",
         "published": "2018-02-23",
+        "description": "Designed for a beginner to photoshop, this book contains tips and tricks that would be useful to even a seasoned photoshop user.  It includes instructions and tricks regarding color editing, layers, and more.",
         "subjects": [
-            null,
+            "Photography & Video",
             "COMPUTERS"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=pCOhtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Photoshop-Elements-Tricks-Shortcuts-steps/dp/1840788038/ref=sr_1_1?keywords=Photoshop+Elements+2018+Tips%2C+Tricks+%26+Shortcuts+in+Easy+Steps&qid=1571082055&sr=8-1",
@@ -2472,8 +2734,9 @@
         ],
         "isbn": "9781430224778",
         "published": "2009-12-28",
+        "description": "Create your own Arduino-based designs, gain in-depth knowledge of the architecture of Arduino, and learn the user-friendly Arduino language all in the context of practical projects that you can build yourself at home. Get hands-on experience using a variety of projects and recipes for everything from home automation to test equipment. Arduino has taken off as an incredibly popular building block among ubicomp (ubiquitous computing) enthusiasts, robotics hobbyists, and DIY home automation developers. Authors Jonathan Oxer and Hugh Blemings provide detailed instructions for building a wide range of both practical and fun Arduino-related projects, covering areas such as hobbies, automotive, communications, home automation, and instrumentation. Take Arduino beyond \"blink\" to a wide variety of projects from simple to challenging Hands-on recipes for everything from home automation to interfacing with your car engine management system Explanations of techniques and references to handy resources for ubiquitous computing projects Supplementary material includes a circuit schematic reference, introductions to a range of electronic engineering principles and general hints & tips. These combine with the projects themselves to make Practical Arduino: Cool Projects for Open Source Hardware an invaluable reference for Arduino users of all levels. You'll learn a wide variety of techniques that can be applied to your own projects. What you’ll learn Communication with serial devices including RFID readers, temperature sensors, and GPS modules Connecting Arduino to Ethernet and WiFi networks Adding synthesized speech to Arduino Linking Arduino to web services Decoding data streams from commercial wireless devices How to make DIY prototyping shields for only a couple of dollars Who this book is for This book is for hobbyists and developers interested in physical computing using a low-cost, easy-to-learn platform. Table of Contents Introduction Appliance Remote Control Time-Lapse Camera Controller Virtual USB Keyboard PS/2 Keyboard or Mouse Input Security/Automation Sensors Online Thermometer Touch Control Panel Speech Synthesizer Water Flow Gauge Oscilloscope/Logic Analyzer Water Tank Depth Sensor Weather Station Receiver RFID Access Control System Vehicle Telemetry Platform Resources",
         "subjects": [
-            null,
+            "Arduinos",
             "Computers"
         ],
         "audience": [
@@ -2481,7 +2744,10 @@
             "General",
             "Libraries"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=HsTxON1L6D4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Practical-Arduino-Projects-Hardware-Technology/dp/1430224770",
@@ -2496,15 +2762,18 @@
         ],
         "isbn": "9781430239390",
         "published": "2012-12-12",
+        "description": "So, you've created a few incredible projects with Arduino, and now it's time to kick it up a notch. Where do you go next? With Pro Arduino, you'll learn about new tools, techniques, and frameworks to make even more ground-breaking, eye-popping projects. You'll discover how to make Arduino-based gadgets and robots interact with your mobile phone and with Unity3D. You'll learn all about the changes in Arduino 1.0, you'll create amazing output with OpenFrameworks, and you'll learn how to make games with the Gameduino. You'll also learn advanced topics, like modifying the Arduino to work with non-standard Atmel chips and Microchip's PIC32. Rick Anderson, an experienced Arduino developer and instructor, and Dan Cervo, an experienced Arduino gadgeteer, will give you a guided tour of advanced Arduino capabilities. If it can be done with an Arduino, you'll learn about it here. What you’ll learn How to modify the Arduino to work with other chips How to get started with the Android accessory development kit The changes in Arduino 1.0 How to create games with Gameduino How to use Unity3D with Arduino to control virtual objects How to connect your iPhone or Android phone to an Arduino sensor network Who this book is for Arduino fans, technogeeks, and electronic artists who want to take their skills to the next level.",
         "subjects": [
-            null,
+            "Arduinos",
             "Computers"
         ],
         "audience": [
             "College/University",
             "Libraries"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=5RVv0-ucWikC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Arduino-Technology-Action-Rick-Anderson/dp/1430239395/ref=sr_1_2?s=books&ie=UTF8&qid=1541654520&sr=1-2&keywords=Pro+Arduino&dpID=51h3K8dlXoL&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch",
@@ -2518,14 +2787,14 @@
         ],
         "isbn": "1259587401",
         "published": "2015-10-05",
+        "description": "An updated guide to programming your own Raspberry Pi projectsLearn to create inventive programs and fun games on your powerful Raspberry Pi—with no programming experience required. This practical book has been revised to fully cover the new Raspberry Pi 2, including upgrades to the Raspbian operating system. Discover how to configure hardware and software, write Python scripts, create user-friendly GUIs, and control external electronics. DIY projects include a hangman game, RGB LED controller, digital clock, and RasPiRobot complete with an ultrasonic rangefinder. Updated for Raspberry Pi 2 Set up your Raspberry Pi and explore its features Navigate files, folders, and menus Write Python programs using the IDLE editor Use strings, lists, functions, and dictionaries Work with modules, classes, and methods Create user-friendly games using Pygame Build intuitive user interfaces with Tkinter Attach external electronics through the GPIO port Add powerful Web features to your projects",
         "subjects": [
-            null,
+            "Raspberry Pi's",
+            "Programming",
             "Technology & Engineering"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=wj4KrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2540,14 +2809,18 @@
         ],
         "isbn": "9781119557593",
         "published": "2019-05-07",
+        "description": "This easy-to-read book is a great introduction to the Python coding language and covers many of the skills you will need to use Python, like entering commends, sidestepping errors, and managing your python files.  It also dives into artificial intelligence and robotics, two important applications of python.",
         "subjects": [
-            null,
+            "Programming",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=BDmRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Python-All-One-Dummies-Shovic/dp/1119557593/ref=sr_1_1?keywords=Python+all-in-one&qid=1575492272&sr=8-1",
@@ -2561,14 +2834,12 @@
         ],
         "isbn": "9781593274078",
         "published": "2013",
+        "description": "Introduces the basics of the Python programming language, covering how to use data structures, organize and reuse code, draw shapes and patterns with turtle, and create games and animations with tkinter.",
         "subjects": [
-            null,
             "Juvenile Nonfiction"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -2582,14 +2853,12 @@
         ],
         "isbn": "1454709014",
         "published": "2016-10-18",
+        "description": "",
         "subjects": [
-            null,
             "Crafts & Hobbies"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=fnI4jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2603,14 +2872,17 @@
         ],
         "isbn": "9781541548497",
         "published": "2019-01-01",
+        "description": "The book contains craft projects made from recycled easily available household material. Each project contains detailed instructions and a list of materials required. The goal of every project is to develop something that could be used in everyday life and also looks colorful and quirky.",
         "subjects": [
-            null,
+            "General Crafting/Making",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=dsJ9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Rad-Recycled-Art-Wild-Projects-ebook/dp/B07JK6HQMQ/ref=sr_1_1?keywords=Rad+recycled+art&qid=1570114220&s=gateway&sr=8-1",
@@ -2624,14 +2896,20 @@
         ],
         "isbn": "1484234138",
         "published": "2018-06-20",
+        "description": "This book builds off of your Arduino skills to show you how to use Raspberry Pi's to create even cooler electronics.  You will learn some C++ coding, connecting your applications to the internet, and more.",
         "subjects": [
-            null,
+            "Arduinos",
+            "Raspberry Pi's",
+            "Programming",
             "Computers"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=hWXEtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Raspberry-Pi-Arduino-Users-Applications/dp/1484234138/ref=sr_1_1?keywords=Raspberry+Pi+for+Arduino+users+%3A+building+IoT+and+network+applications+and+devices&qid=1574352197&sr=8-1",
@@ -2646,14 +2924,12 @@
         ],
         "isbn": "1118554213",
         "published": "2013-04-01",
+        "description": "Embrace the exciting new technology of Raspberry Pi! With the invention of the unique credit-card sized single-board computer, the Raspberry Pi, comes a new wave of hardware geeks, hackers, and hobbyists who are excited about the possibilities of the Raspberry Pi, and this is the perfect guide to get you started in this exhilarating new arena. With this fun and friendly book, you'll quickly discover why the supply for the Pi cannot keep up with the demand! Veteran tech authors Sean McManus and Mike Cook show you how to download and install the operating system, use the installed applications, and much more. Covers connecting the Pi to other devices such as a keyboard, mouse, monitor, and more Teaches you basic Linux System Admin Walks you through editing images, creating web pages, and playing music Details how to program with Scratch and Python Explores creating simple hardware projects Raspberry Pi For Dummies makes computing as easy as pie. Now discover the history of Raspberry Pi! The Raspberry Pi sold a million units in its first year, and came from a previously unknown organisation, The Raspberry Pi Foundation. If you’ve ever wondered how it came into being, and what inspired its creation, Sean McManus, co-author of Raspberry Pi For Dummies, has the answer. He has set up a section on his website to share bonus content, which includes a short history of the Raspberry Pi. At Sean’s website, you can also read reviews of the book, see videos of its projects, and read several exclusive blog posts about the Raspberry Pi and its community. Visit Sean’s homepage for Raspberry Pi For Dummies here!",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=9ouiMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2667,14 +2943,12 @@
         ],
         "isbn": "1783982225",
         "published": "2014-03",
+        "description": "This tutorial contains allimportant information about how to use your Raspberry Pi to develop any application you like. It is broken down into several actionpacked projects, each containing easytofollow steps, just to show you how easy and fun computer programming can be!If you are someone with a big imagination and would like to dive straight into the realm of technology and computers, then this is the book for you. With only a Raspberry Pi and no prior experience required, you will be shown how to translate your ideas into computer programs, creating any game, tool, or animation you can dream of.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2691,14 +2965,12 @@
         ],
         "isbn": "9781305271036",
         "published": "2014-10-24",
+        "description": "Have you ever thought of building your own robot? With today's technology, it's easy (and inexpensive!) to get started in this fascinating hobby. With the projects in this book and just a little bit of programming knowledge, you can create fun, functional robots. You'll learn the fundamentals of robot-building--the basic concepts and technologies that are used every day in the growing field of robotics. Each of the book's projects is presented in clear step-by-step fashion, so you can follow along at your own pace. Projects include a traveling robot, an intruder alarm detector, a medical assistant, a data logger, and more. The technology used in this book is based on the Arduino platform, a popular open-source tool based on easy-to-use hardware and software. Get started building your own robots today, with ROBOTICS: A PROJECT-BASED APPROACH.",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=nbRGBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "",
@@ -2712,14 +2984,17 @@
         ],
         "isbn": "0778765407",
         "published": "2019-07-31",
+        "description": "Using Scratch 3, a free online program for coding, this book explains some of the technologies used in smart home technologies, like cameras, voice control, and alarms using colorful diagrams and step by step projects.",
         "subjects": [
-            null,
+            "Internet of Things",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=5RmiwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Scratch-Code-Smart-Homes-Challenge/dp/0778765687/ref=sr_1_1?keywords=smart+homes+wainewright+max&qid=1575245907&sr=8-1",
@@ -2734,8 +3009,10 @@
         ],
         "isbn": "0989795608",
         "published": "2013-09-01",
+        "description": "Sew Electric is a set of hands-on LilyPad Arduino tutorials that bring together craft, electronics, and programming. The book walks you through the process of designing and making a series of quirky customizable projects including a sparkling bracelet, a glow in the dark bookmark, a fabric piano, and a monster that sings when you hold its hands. Play with cutting-edge technologies and learn sewing, programming, and circuit design along the way. It�s a book for all ages.",
         "subjects": [
-            null,
+            "Wearables",
+            "Sewing",
             "Arduino (Programmable controller)"
         ],
         "audience": [
@@ -2744,7 +3021,10 @@
             "General",
             "Libraries"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=78OSngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Sew-Electric-Leah-Buechley/dp/0989795608",
@@ -2758,15 +3038,21 @@
         ],
         "isbn": "1780677324",
         "published": "2016-02-02",
+        "description": "Approaches centered on design and designers. Smart Textiles for Designers introduces the different qualities and properties that can be embedded in, integrated with, and applied to fabrics, and looks at the different contexts in which these smart textiles can be used. The first book to look at smart textiles through the eyes of a designer, this is both a core reference work and an inspirational guide for students and professionals alike.",
         "subjects": [
-            null,
+            "Laser Cutting",
+            "Sewing",
+            "Fiber Arts",
             "Design"
         ],
         "audience": [
             "General",
             "College/University"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=I0XvsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Smart-Textiles-Designers-Inventing-Fabrics/dp/1780677324/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1780677324&pd_rd_r=8daddcc2-f2c9-11e8-a029-3b664630e258&pd_rd_w=QLTK9&pd_rd_wg=b7EIQ&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=T1HXS3N5X9ESSMWG0ZDV&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=T1HXS3N5X9ESSMWG0ZDV",
@@ -2784,8 +3070,11 @@
         ],
         "isbn": "9780262027847",
         "published": "2014-10-10",
+        "description": "Soft Circuits introduces students to the world of wearable technology. Using Modkit, an accessible DIY electronics toolkit, students learn to create e-textile cuffs, �electrici-tee� shirts, and solar-powered backpacks. Students also learn the importance of one component to the whole?how, for example, changing the structure of LED connections immediately affects the number of LEDs that light up.",
         "subjects": [
-            null,
+            "Wearables",
+            "Sewing",
+            "Fiber Arts",
             "Computers"
         ],
         "audience": [
@@ -2793,7 +3082,10 @@
             "College/University",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=t-7XBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Soft-Circuits-Fashion-Electronics-Foundation/dp/0262027844/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=0262027844&pd_rd_r=dfeda8d0-f2ca-11e8-bd66-f7675945ae46&pd_rd_w=1JeJE&pd_rd_wg=MR1X3&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=23AY9252X85P0YXCW6PG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=23AY9252X85P0YXCW6PG",
@@ -2808,14 +3100,17 @@
         ],
         "isbn": "1510520279",
         "published": "2018",
+        "description": "This book is a great introduction for a junior maker curious about soldering.  It includes chapters about what soldering is, what you use to solder, techniques used in soldering, and finishes with a project making an LED flashlight.",
         "subjects": [
-            null,
+            "Soldering",
             "Metal-work"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "",
         "amazon": "https://www.amazon.com/Soldering-Century-Skills-Innovation-Library/dp/1631377949/ref=sr_1_1?keywords=Soldering+Nelson&qid=1575759078&sr=8-1",
@@ -2829,15 +3124,18 @@
         ],
         "isbn": "9781634722582",
         "published": "2017-01-01",
+        "description": "This childrens book covers all the questions your junior makers may be asking: What is a maker?  What is a makerspace? How does a makerspace work?  Including pictures and large print, this book serves to inspire the next generation of makers.",
         "subjects": [
-            null,
+            "Makerspaces - Operating",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12",
             "Libraries"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=CPNKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Starting-Makerspace-Century-Innovation-Library/dp/1634723244/ref=sr_1_1?keywords=Starting+a+makerspace&qid=1572883194&sr=8-1",
@@ -2851,14 +3149,17 @@
         ],
         "isbn": "1782212043",
         "published": "2015-07-27",
+        "description": "The book gives detailed project instructions on tapestry weaving. It provides instructions on basic techniques like wefts, warps, hatching and slits. Along with the instructions, there is a gallery of ideas and designs to practice from. The book also provides instructions on mounting and framing.",
         "subjects": [
-            null,
+            "Sewing",
             "Tapestry"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=H7eQrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Tapestry-Weaving-Search-Press-Classics/dp/1782212043/ref=sr_1_1?keywords=Tapestry+weaving&qid=1570113639&s=gateway&sr=8-1",
@@ -2872,8 +3173,9 @@
         ],
         "isbn": "9781631590276",
         "published": "2015-07-15",
+        "description": "Discusses how artists have used cardboard to do complex paper crafts while also showing introductory crafts that new users can master. Nice pairing of projects and applications",
         "subjects": [
-            null,
+            "Paper Crafts",
             "Art"
         ],
         "audience": [
@@ -2881,7 +3183,10 @@
             "College/University",
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=RP76CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Art-Cardboard-Creativity-Collaboration-Storytelling/dp/1631590278/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1631590278&pd_rd_r=dfeda8d0-f2ca-11e8-bd66-f7675945ae46&pd_rd_w=1JeJE&pd_rd_wg=MR1X3&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=23AY9252X85P0YXCW6PG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=23AY9252X85P0YXCW6PG",
@@ -2895,8 +3200,9 @@
         ],
         "isbn": "8415967152",
         "published": "2015-01",
+        "description": "This book presents a selection of artists who revisit and work with traditional techniques, as well as those who adopt contemporary approaches. From paper to ceramics, food design and architecture, The Art of Cutting offers a stunning and diverse universe that is waiting to be discovered.",
         "subjects": [
-            null,
+            "Laser Cutting",
             "Crafts & Hobbies"
         ],
         "audience": [
@@ -2904,7 +3210,11 @@
             "General",
             "Libraries"
         ],
-        "expertise": "Beginner,Intermediate,Advanced",
+        "expertise": [
+            "Beginner",
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=koG1oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Art-Cutting-Tradition-Techniques-Cardboard/dp/8415967152/ref=sr_1_12?s=books&ie=UTF8&qid=1543380732&sr=1-12&keywords=Laser+Cutting",
@@ -2918,14 +3228,12 @@
         ],
         "isbn": "1681982102",
         "published": "2017",
+        "description": "Featuring nearly 200 beautiful photographs, as well as numerous charts, graphs, and tables, this invaluable book presents how-to techniques to beginner, intermediate, and advanced photographers for both traditional and digital approaches. --",
         "subjects": [
-            null,
             "Photography"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=RQ7VwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -2939,14 +3247,18 @@
         ],
         "isbn": "1438002637",
         "published": "2013",
+        "description": "This book, aimed at people interested in making unique jewelry using soldering,  explains soldering materials, tools, techniques, and safety before diving into more complex projects like cufflinks, bangles, and brooches.",
         "subjects": [
-            null,
+            "Soldering",
             "Crafts & Hobbies"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=IDIzmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Art-Soldering-Jewelry-Makers-Techniques/dp/1438002637/ref=sr_1_1?keywords=The+art+of+soldering+for+jewelry+makers+%3A+techniques+and+projects&qid=1575301417&sr=8-1",
@@ -2960,14 +3272,17 @@
         ],
         "isbn": "9781457189036",
         "published": "2015-03-16",
+        "description": "The art, science, and craft of great landscape photography explores the techniques and concepts one needs to understand to create riveting images of the natural world.  It assumes prior knowledge about basic photography and the use of a DSLR camera.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Photography"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate",
+        "expertise": [
+            "Intermediate"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=D15gBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Science-Craft-Great-Landscape-Photography/dp/1937538478/ref=sr_1_1?keywords=The+art%2C+science%2C+and+craft+of+great+landscape+photography&qid=1570467444&sr=8-1",
@@ -2981,14 +3296,20 @@
         ],
         "isbn": "1681884321",
         "published": "2018-09-18",
+        "description": "This all encompassing book crams more than 200 small sections into its pages. Each section is a step in developing skills in a specific category (hand tools, power tools, or robotics) and some are projects while others are tips and tricks. By the end of this book, you will have learned to apply an oil finish, fuse metal with a DIY welder, and block your cellphone from satellites.",
         "subjects": [
-            null,
+            "Soldering",
+            "Hand Tools",
+            "General Crafting/Making",
             "Technology & Engineering"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=0Td6swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Big-Book-Maker-Skills/dp/1681884321/ref=sr_1_1?keywords=The+big+book+of+maker+skills+%3A+tools+%26+techniques+for+building+great+tech+projects&qid=1572464215&sr=8-1",
@@ -3002,15 +3323,20 @@
         ],
         "isbn": "1260142833",
         "published": "2018-12-07",
+        "description": "Crafty kids guide contains multiple projects designed to build skills in paper circuits, soft circuits, wearables, and robotics.  Each project begins with an overview of materials and helpful background knowledge.  It then explains how to complete each step with pictures to help.",
         "subjects": [
-            null,
+            "Wearables",
+            "Robotics",
             "Technology & Engineering"
         ],
         "audience": [
             "General",
             "K-12"
         ],
-        "expertise": "Intermediate,Beginner",
+        "expertise": [
+            "Intermediate",
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=s-oytgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Crafty-Kids-Guide-DIY-Electronics/dp/1260142833/ref=sr_1_1?keywords=The+crafty+kid%27s+guide+to+DIY+electronics+%3A+20+fun+projects+for+makers%2C+crafters%2C+and+everyone+in+between&qid=1575247486&sr=8-1",
@@ -3024,14 +3350,12 @@
         ],
         "isbn": "1484241541",
         "published": "2018-12-13",
+        "description": "Gain a deep, practical knowledge of HTML and JavaScript that will provide an introduction to programming and enable you to build interactive websites. This completely updated second edition explains HTML, JavaScript and CSS in the context of working examples and contains full-color screen shots of the programs in action. You'll begin at an introductory level, learning the essentials of HTML5 and JavaScript and programming techniques. Each chapter features either a familiar game such as Hangman, Rock-Paper-Scissors, Craps, Memory, and Blackjack, or a simple type of game, such as a quiz, a maze, or animated simulations. You’ll develop solid programming skills that will help when learning other programming languages. Each chapter contains tables revealing the structure of the program with comments for each line of code. These examples demonstrate the features introduced with HTML5. You’ll see how to use canvas elements for line drawing. You can include your own audio and video clips, directly controlled by your JavaScript code. For example, the reward for correct completion of a quiz can be the playing of an audio clip and a video clip. You’ll also learn how to use localStorage to store high scores or game preferences on a user's computer for retrieval next time they play. The Essential Guide to HTML5 explores all of this and more. What You'll Learn Understand HTML 5 concepts with the help of easy-to-grasp, appealing examples Use HTML5 to explore new avenues for application and game development on the web Review important new elements of HTML 5 Build, test, and upload simple games to a web site. Who This Book Is For Both absolute beginners and users with some knowledge of HTML who want to learn the new HTML5 features",
         "subjects": [
-            null,
             "Computers"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=tAthuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -3049,14 +3373,12 @@
         ],
         "isbn": "098915114X",
         "published": "2014-06-01",
+        "description": "\"3D printing will be bigger than the Web.\" Chris Anderson, former editor-in-chief of Wired magazine This book is an essential guide for educators interested in bringing the amazing world of 3D printing to their classrooms. Learn about the technology, exciting powerful new design software, and even advice for purchasing your first 3D printer. The real power of the book comes from a variety of teacher-tested step-by-step classroom projects. Eighteen fun and challenging projects explore science, technology, engineering, and mathematics, along with forays into the visual arts and design. The Invent To Learn Guide to 3D Printing in the Classroom is written in an engaging style by authors with decades of educational technology experience.",
         "subjects": [
-            null,
             "Educational technology"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=c46roAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -3071,14 +3393,10 @@
         ],
         "isbn": "1732545537",
         "published": "2019-05-15",
-        "subjects": [
-            null,
-            null
-        ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "description": "Combining the worlds of machining, metalworking, industrial design, automotive design, woodworking, and Hollywood Effects. A practical guide to making anything imaginable.",
+        "subjects": [],
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=7Ps7xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -3092,14 +3410,18 @@
         ],
         "isbn": "0838915043",
         "published": "2017",
+        "description": "This book is your go-to guide for starting and running a makerspace in your library.  It includes starter kits and estimated cost for your maker spaces goals (including focus and target users), guides to interactive forms of learning, and how to run your space safely. It then covers the skills makerspace librarians should be familiar with, like Raspberry Pi, 3D Printing, and Robotics.",
         "subjects": [
-            null,
+            "Makerspaces (General)",
+            "Makerspaces - Operating",
             "Language Arts & Disciplines"
         ],
         "audience": [
             "Libraries"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=6IhHvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Makerspace-Librarians-Sourcebook-Ellyssa-Kroski/dp/0838915043/ref=sr_1_1?keywords=The+Makerspace+Librarian%27s+Sourcebook&qid=1572882714&sr=8-1",
@@ -3113,14 +3435,17 @@
         ],
         "isbn": "9780399582189",
         "published": "2018-07-24",
+        "description": "The book offers a detailed guide to brush lettering, as an art form. It provides information on how to use the book as well as the key differences between lettering, calligraphy and typography. It gives detailed lists of the materials required, that is, different kinds of pens and papers. The book contains worksheets for readers to practice different aspects of lettering like lettering, basic strokes, bounce and flourish. It also contains detailed instructions on DIY projects. The book is aimed for a general audience who would like to learn brush lettering.",
         "subjects": [
-            null,
+            "General Crafting/Making",
             "Art"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=REpEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Ultimate-Brush-Lettering-Guide-Step/dp/0399582177/ref=sr_1_1?keywords=Ultimate+Brush+Lettering+Guide+%3A+a+Complete+Step-By-Step+Creative+Workbook+to+Jumpstart+Modern+Calligraphy+Skills.&qid=1570113053&s=gateway&sr=8-1",
@@ -3135,14 +3460,12 @@
         ],
         "isbn": "9781635860283",
         "published": "2019-11-26",
+        "description": "Weaving is a highly accessible craft — over, under is the basic technique — but the stumbling block for many would-be weavers has been the high cost of a commercial loom. The Weaving Explorer removes that barrier, inviting crafters and artists to try out an amazing range of techniques and creative projects that are achievable with a simple homemade loom, or no loom at all! Weavers Deborah Jarchow and Gwen W. Steege take inspiration from the world of folk weaving traditions, adding a contemporary spin by introducing an unexpected range of materials and home dec projects. From sturdy rag fabric grocery bags to freeform wire baskets, delicately woven thread bracelets to colorful woven rugs, crafters will delight in exploring the opportunities to make their own personal variations on these beautiful — and functional — creations.",
         "subjects": [
-            null,
             "Crafts & Hobbies"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=nxWSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Weaving-Explorer-Ingenious-Techniques-Accessible/dp/1635860288/ref=sr_1_1?keywords=The+weaving+explorer+%3A+ingenious+techniques%2C+accessible+tools+%26+creative+projects+with+yarn%2C+paper%2C+wire+%26+more&qid=1570112226&s=gateway&sr=8-1",
@@ -3156,14 +3479,16 @@
         ],
         "isbn": "158011783X",
         "published": "2016-04-05",
+        "description": "The book provides detailed instruction on mending common household damages. It provides illustrated guidance on household repairs on an exhaustive list of damages and construction works. It also includes a comprehensive list of materials required for completing the tasks.",
         "subjects": [
-            null,
-            null
+            "Hand Tools"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=8RISjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Ultimate-Guide-Repair-Improvement-Updated/dp/158011783X/ref=sr_1_3?keywords=Ultimate+guide+home+repair+and+improvement&qid=1570112105&s=gateway&sr=8-3",
@@ -3177,14 +3502,19 @@
         ],
         "isbn": "1138058696",
         "published": "2019",
+        "description": "Understanding design in film production is for anyone interested in beginning their journey in filmmaking and film production.  Including examples from famous films, it leads you through the process of preparing for your films success, including exploring themes, intentional use of colors, finding or constructing your perfect setting, and more.",
         "subjects": [
-            null,
+            "Photography & Video",
             "Performing Arts"
         ],
         "audience": [
             "General"
         ],
-        "expertise": "Intermediate,Beginner,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Beginner",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=f9E5MQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "https://www.amazon.com/Understanding-Design-Film-Production-Locations/dp/1138058696/ref=sr_1_1?keywords=Understanding+design+in+film+production+%3A+using+art%2C+light+%26+locations+to+tell+your+story&qid=1571673571&sr=8-1",
@@ -3198,14 +3528,14 @@
         ],
         "isbn": "1641240172",
         "published": "2018-07",
-        "subjects": [
-            null,
-            null
-        ],
+        "description": "Inspired by the classic crafts that you made in summer camp, this big book provides more than 150 child-friendly craft ideas for both girls and boys. Kids will learn to make friendship bracelets, woven potholders, pony bead animals, plastic lanyards, and much more. Using inexpensive, readily available craft supplies and simple enough to take along to the mountains or beach, it's the perfect solution for any family vacation.",
+        "subjects": [],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner",
+        "expertise": [
+            "Beginner"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=jG25tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -3219,15 +3549,20 @@
         ],
         "isbn": "9781119051107",
         "published": "2015-09-15",
+        "description": "This book covers wearable computing and wearable application development particularly for Android Wear (smartwatches) and Google Fit (fitness sensors). It provides relevant history, background and core concepts of wearable computing and ubiquitous computing, as a foundation for designing/developing applications for the Android Wear and Google Fit platforms. This book is intended for Android wearable enthusiasts, technologists and software developers.",
         "subjects": [
-            null,
+            "Wearables",
             "Computers"
         ],
         "audience": [
             "College/University",
             "General"
         ],
-        "expertise": "Beginner,Intermediate,Advanced",
+        "expertise": [
+            "Beginner",
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=4FR_BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Wearable-Android-Wear-Google-Development-ebook/dp/B015ZLIEPQ/ref=sr_1_1?s=books&ie=UTF8&qid=1543370896&sr=1-1&keywords=Wearable+Android%3A+Android+wear+and+Google+Fit",
@@ -3243,15 +3578,17 @@
         ],
         "isbn": "9781118864579",
         "published": "2018-05-08",
+        "description": "This book provides the most up-to-date research and development on wearable computing, wireless body sensor networks, wearable systems integrated with mobile computing, wireless networking and cloud computing This book has a specific focus on advanced methods for programming Body Sensor Networks (BSNs) based on the reference SPINE project. It features an on-line website (http://spine.deis.unical.it) to support readers in developing their own BSN application/systems and covers new emerging topics on BSNs such as collaborative BSNs, BSN design methods, autonomic BSNs, integration of BSNs and pervasive environments, and integration of BSNs with cloud computing. The book provides a description of real BSN prototypes with the possibility to see on-line demos and download the software to test them on specific sensor platforms and includes case studies for more practical applications. • Provides a future roadmap by learning advanced technology and open research issues • Gathers the background knowledge to tackle key problems, for which solutions will enhance the evolution of next-generation wearable systems • References the SPINE web site (http://spine.deis.unical.it) that accompanies the text • Includes SPINE case studies and span topics like human activity recognition, rehabilitation of elbow/knee, handshake detection, emotion recognition systems Wearable Systems and Body Sensor Networks: from modeling to implementation is a great reference for systems architects, practitioners, and product developers. Giancarlo Fortino is currently an Associate Professor of Computer Engineering (since 2006) at the Department of Electronics, Informatics and Systems (DEIS) of the University of Calabria (Unical), Rende (CS), Italy. He was recently nominated Guest Professor in Computer Engineering of Wuhan University of Technology on April, 18 2012 (the term of appointment is three years). His research interests include distributed computing and networks, wireless sensor networks, wireless body sensor networks, agent systems, agent oriented software engineering, streaming content distribution networks, distributed multimedia systems, GRID computing. Raffaele Gravina received the B.Sc. and M.S. degrees both in computer engineering from the University of Calabria, Rende, Italy, in 2004 and 2007, respectively. Here he also received the Ph.D. degree in computer engineering. He's now a Postdoctoral research fellow at University of Calabria. His research interests are focused on high-level programming methods for WSNs, specifically Wireless Body Sensor Networks. He wrote almost 30 scientific/technical articles in the area of the proposed Book. He is co-founder of SenSysCal S.r.l., a spin-off company of the University of Calabria, and CTO of the wearable computing area of the company. Stefano Galzarano received the B.S. and M.S. degrees both in computer engineering from the University of Calabria, Rende, Italy, in 2006 and 2009, respectively. He is currently pursuing a joint Ph.D. degree in computer engineering with University of Calabria and Technical University of Eindhoven (The Netherlands). His research interests are focused on high-level programming methods for wireless sensor networks and, specifically, novel methods and frameworks for autonomic wireless body sensor networks.",
         "subjects": [
-            null,
             "Technology & Engineering"
         ],
         "audience": [
             "College/University",
             "General"
         ],
-        "expertise": "Advanced",
+        "expertise": [
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=nNhVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Wearable-Computing-Modeling-Implementation-Networks-ebook/dp/B07C1DV3Y4",
@@ -3265,15 +3602,19 @@
         ],
         "isbn": "9780128498811",
         "published": "2018-08-08",
+        "description": "Very specific to the medical field - focused on smart technologies (glasses and wearable textiles), biometric sensors, and wearable robotics for limb deficiencies. The chapters cover different types of sensors - fabric, motion, pressure, etc - as well as applications for use.",
         "subjects": [
-            null,
+            "Wearables",
             "Technology & Engineering"
         ],
         "audience": [
             "College/University",
             "General"
         ],
-        "expertise": "Intermediate,Advanced",
+        "expertise": [
+            "Intermediate",
+            "Advanced"
+        ],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=9aRBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Wearable-Technology-Medicine-Health-Care/dp/0128118105/ref=sr_1_1?ie=UTF8&qid=1543368171&sr=8-1&keywords=wearable+technology+in+medicine+and+health+care",
@@ -3287,14 +3628,13 @@
         ],
         "isbn": "9780760357743",
         "published": "2017-06-15",
+        "description": "Welding complete begins by discussing the basics of welding and then outlines projects you can complete to serve any purpose, including building your own welding table, wine rack, or fence.",
         "subjects": [
-            null,
+            "Hand Tools",
             "Crafts & Hobbies"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=eLktDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Welding-Complete-2nd-Techniques-Instructions/dp/159186691X/ref=sr_1_2?keywords=Welding+complete+%3A+techniques%2C+project+plans+%26+instructions&qid=1571081471&sr=8-2",
@@ -3308,14 +3648,13 @@
         ],
         "isbn": "0839533098",
         "published": "1994-06-01",
+        "description": "Outlines requirements for pursuing a merit badge in wood carving.",
         "subjects": [
-            null,
+            "Hand Tools",
             "Crafts & Hobbies"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=d4WyvMFL6TcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",
@@ -3329,14 +3668,18 @@
         ],
         "isbn": "9781612129426",
         "published": "2018-11-13",
+        "description": "This book, authored by a seasoned woodworker and mother, is a great teaching tool for the young ones who want to learn how to make things with wood.  In this book, you will find projects ranging from beginner friendly to projects for more experienced junior wood workers, and projects ranging from practically free to definitely more than one allowance.  It includes projects like a bird house, a peg board, and a hanging twinkle board.",
         "subjects": [
-            null,
+            "Hand Tools",
             "Juvenile Nonfiction"
         ],
         "audience": [
             "K-12"
         ],
-        "expertise": "Beginner,Intermediate",
+        "expertise": [
+            "Beginner",
+            "Intermediate"
+        ],
         "lessons": true,
         "image": "http://books.google.com/books/content?id=YS1xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "amazon": "https://www.amazon.com/Wood-Shop-Creative-Building-Projects/dp/1612129420/ref=sr_1_1?keywords=Wood+shop+%3A+handy+skills+and+creative+building+projects+for+kids&qid=1575757906&sr=8-1",
@@ -3350,14 +3693,13 @@
         ],
         "isbn": "1631869396",
         "published": "2018",
+        "description": "For woodworkers, hand tools put the emphasis on the process of woodworking rather than the result. Yet hand tools also are essential to the highest level of craftsmanship, bringing a refinement to work that machines alone cannot produce. Whether using hand tools alone as a source of pleasure, quality, or efficiency, or in combination with machines, woodworker can trust the information in Woodworking with Hand Tools, a collection of 35 articles from the experts at Fine Woodworking magazine. In Woodworking with Hand Tools, expert craftsmen explain how they choose, sharpen, and use every kind of hand tool. There's advice on tool maintenance, techniques for getting the most from the tools, and projects made using hand tools. With clear photographs, drawings, and step-by-step instructions, Woodworking with Hand Tools will be a useful and necessary resource for anyone who works wood.",
         "subjects": [
-            null,
+            "Hand Tools",
             "Woodwork"
         ],
-        "audience": [
-            ""
-        ],
-        "expertise": "",
+        "audience": [],
+        "expertise": [],
         "lessons": false,
         "image": "http://books.google.com/books/content?id=Lk60swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "amazon": "",

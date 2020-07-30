@@ -231,7 +231,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Adventures-Arduino-Becky-Stewart/dp/1118948475/ref=sr_1_1?ie=UTF8&qid=1541632403&sr=8-1&keywords=adventures+in+arduino&dpID=51kUEtA7W4L&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch",
 		"Worldcat Link": "",
-		"Annotation": "UF Lib - TJ223.P76"
+		"Annotation": ""
 	},
 	{
 		"Title": "Alexa for Dummies.",
@@ -270,7 +270,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Arduino-Dummies-John-Nussey/dp/1118446372/ref=sr_1_1?s=books&ie=UTF8&qid=1541655908&sr=1-1&keywords=arduino+for+dummies&dpID=51nLOVNuP%252BL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch",
 		"Worldcat Link": "",
-		"Annotation": "UF Library - TJ223.P76N87749"
+		"Annotation": ""
 	},
 	{
 		"Title": "Arduino Microcontroller: Processing for Everyone!",
@@ -283,7 +283,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Arduino-Microcontroller-Processing-Everyone-Synthesis/dp/1627052534/ref=sr_1_2?s=books&ie=UTF8&qid=1541656853&sr=1-2&keywords=arduino+microcontroller",
 		"Worldcat Link": "http://www.worldcat.org/oclc/862113184",
-		"Annotation": "UF Library Online link"
+		"Annotation": ""
 	},
 	{
 		"Title": "Arduino Playground: Geeky Projects for the Experienced Maker",
@@ -296,7 +296,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Arduino-Playground-Geeky-Projects-Experienced/dp/159327744X/ref=sr_1_1?s=books&ie=UTF8&qid=1541655140&sr=1-1&keywords=Arduino+Playground&dpID=51HyAc8oCoL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch",
 		"Worldcat Link": "",
-		"Annotation": "UF Library - TJ223.P76"
+		"Annotation": ""
 	},
 	{
 		"Title": "Arduino Project Handbook: 25 Practical Projects to Get You Started",
@@ -309,7 +309,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Arduino-Project-Handbook-Practical-Projects/dp/1593276907/ref=sr_1_1?s=books&ie=UTF8&qid=1541656366&sr=1-1&keywords=arduino+project+handbook&dpID=51sLZyL00IL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch",
 		"Worldcat Link": "http://www.worldcat.org/oclc/913335237",
-		"Annotation": "UF Lib - TJ223.P76"
+		"Annotation": ""
 	},
 	{
 		"Title": "Arduino Sketches: Tools and Techniques for Programming Wizardry",
@@ -322,7 +322,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Arduino-Sketches-Techniques-Programming-Wizardry/dp/1118919602",
 		"Worldcat Link": "",
-		"Annotation": "UF Library Catalog - TJ223.P76L36 2015"
+		"Annotation": ""
 	},
 	{
 		"Title": "Arduino wearables",
@@ -335,7 +335,7 @@
 		"Subjects": "Arduinos,Wearables",
 		"Amazon Link": "https://www.amazon.com/Arduino-Wearables-Technology-Action-Olsson/dp/1430243597",
 		"Worldcat Link": "",
-		"Annotation": "UF lib - QA76.592.O47 2012"
+		"Annotation": ""
 	},
 	{
 		"Title": "Arduino workshop: a hands-on introduction with 65 projects",
@@ -400,7 +400,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Beginning-Arduino-Technology-Michael-McRoberts/dp/143025016X",
 		"Worldcat Link": "",
-		"Annotation": "UF - TK7835.M37 2013"
+		"Annotation": ""
 	},
 	{
 		"Title": "Beginning robotics with Raspberry Pi and Arduino : using Python and OpenCV",
@@ -1492,7 +1492,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Practical-Arduino-Projects-Hardware-Technology/dp/1430224770",
 		"Worldcat Link": "",
-		"Annotation": "UF Library - QA76.76.O63O93 2009"
+		"Annotation": ""
 	},
 	{
 		"Title": "Pro Arduino",
@@ -1505,7 +1505,7 @@
 		"Subjects": "Arduinos",
 		"Amazon Link": "https://www.amazon.com/Arduino-Technology-Action-Rick-Anderson/dp/1430239395/ref=sr_1_2?s=books&ie=UTF8&qid=1541654520&sr=1-2&keywords=Pro+Arduino&dpID=51h3K8dlXoL&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch",
 		"Worldcat Link": "",
-		"Annotation": "UF Library - TJ223.P76A53 2013eb"
+		"Annotation": ""
 	},
 	{
 		"Title": "Programming the Raspberry Pi : getting started with Python",
