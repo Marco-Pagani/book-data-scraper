@@ -1,11 +1,15 @@
 ---
 title: Wearable Computing: From Modeling to Implementation of Wearable Systems based on Body Sensor Networks
 taxonomy:
-	author: Giancarlo Fortino, Raffaele Gravina, Stefano Galzarano
-	pubdate: 2018-05-08
+	author: [Giancarlo Fortino, Raffaele Gravina, Stefano Galzarano]
+	pubdate: 2018
 	isbn: 9781118864579
-	subjects: Technology & Engineering
-	audience: College/University, General
-	expertise: Advanced
+	subjects: [Technology & Engineering]
+	audience: [College/University, General]
+	expertise: [Advanced]
+cover: http://books.google.com/books/content?id=nNhVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+amazon: https://www.amazon.com/Wearable-Computing-Modeling-Implementation-Networks-ebook/dp/B07C1DV3Y4
+worldcat: nil
+google: https://books.google.com/books/about/Wearable_Computing.html?hl=&id=nNhVDwAAQBAJ
 ---
 This book provides the most up-to-date research and development on wearable computing, wireless body sensor networks, wearable systems integrated with mobile computing, wireless networking and cloud computing This book has a specific focus on advanced methods for programming Body Sensor Networks (BSNs) based on the reference SPINE project. It features an on-line website (http://spine.deis.unical.it) to support readers in developing their own BSN application/systems and covers new emerging topics on BSNs such as collaborative BSNs, BSN design methods, autonomic BSNs, integration of BSNs and pervasive environments, and integration of BSNs with cloud computing. The book provides a description of real BSN prototypes with the possibility to see on-line demos and download the software to test them on specific sensor platforms and includes case studies for more practical applications. • Provides a future roadmap by learning advanced technology and open research issues • Gathers the background knowledge to tackle key problems, for which solutions will enhance the evolution of next-generation wearable systems • References the SPINE web site (http://spine.deis.unical.it) that accompanies the text • Includes SPINE case studies and span topics like human activity recognition, rehabilitation of elbow/knee, handshake detection, emotion recognition systems Wearable Systems and Body Sensor Networks: from modeling to implementation is a great reference for systems architects, practitioners, and product developers. Giancarlo Fortino is currently an Associate Professor of Computer Engineering (since 2006) at the Department of Electronics, Informatics and Systems (DEIS) of the University of Calabria (Unical), Rende (CS), Italy. He was recently nominated Guest Professor in Computer Engineering of Wuhan University of Technology on April, 18 2012 (the term of appointment is three years). His research interests include distributed computing and networks, wireless sensor networks, wireless body sensor networks, agent systems, agent oriented software engineering, streaming content distribution networks, distributed multimedia systems, GRID computing. Raffaele Gravina received the B.Sc. and M.S. degrees both in computer engineering from the University of Calabria, Rende, Italy, in 2004 and 2007, respectively. Here he also received the Ph.D. degree in computer engineering. He's now a Postdoctoral research fellow at University of Calabria. His research interests are focused on high-level programming methods for WSNs, specifically Wireless Body Sensor Networks. He wrote almost 30 scientific/technical articles in the area of the proposed Book. He is co-founder of SenSysCal S.r.l., a spin-off company of the University of Calabria, and CTO of the wearable computing area of the company. Stefano Galzarano received the B.S. and M.S. degrees both in computer engineering from the University of Calabria, Rende, Italy, in 2006 and 2009, respectively. He is currently pursuing a joint Ph.D. degree in computer engineering with University of Calabria and Technical University of Eindhoven (The Netherlands). His research interests are focused on high-level programming methods for wireless sensor networks and, specifically, novel methods and frameworks for autonomic wireless body sensor networks.
