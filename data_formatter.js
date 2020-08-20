@@ -8,6 +8,21 @@ function check_nil(item) {
         return 'nil'
 }
 
+function select_images(images) {
+    let thumb = 'nil', cover = 'nil'
+    let values = Object.values(images)
+
+    if (values.length >= 1) {
+        thumb = values[Math.min(values.length - 1, 2)]
+        cover = values.pop()
+    }
+
+    return {
+        "thumb": thumb,
+        "cover": cover
+    }
+}
+
 data.forEach(book => {
     if (!book.error) {
         // define grub for url
@@ -20,18 +35,20 @@ data.forEach(book => {
         if (book.lessons)
             tag = '\ttag: [lesson plans]\n'
 
+        let images = select_images(book.images)
         // add data to page
         let page =
             '---\n' +
             'title: ' + book.title + '\n' +
             'taxonomy:\n' +
             '\tauthor: [' + book.authors.join(', ') + ']\n' +
-            '\tpubdate: ' + book.published.substr(0,4) + '\n' +
+            '\tpubdate: ' + book.published.substr(0, 4) + '\n' +
             '\tisbn: ' + book.isbn + '\n' +
             '\tsubjects: [' + book.subjects.join(', ') + ']\n' +
             '\taudience: [' + book.audience.join(', ') + ']\n' +
             '\texpertise: [' + book.expertise.join(', ') + ']\n' + tag +
-            'cover: ' + check_nil(book.image) + '\n' +
+            'thumb: ' + images.thumb + '\n' +
+            'cover: ' + images.cover + '\n' +
             'amazon: ' + check_nil(book.amazon) + '\n' +
             'worldcat: ' + check_nil(book.worldcat) + '\n' +
             'google: ' + check_nil(book.google) + '\n' +

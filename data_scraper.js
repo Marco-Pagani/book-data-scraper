@@ -4,6 +4,7 @@ const axios = require('axios');
 const rateLimit = require('axios-rate-limit');
 
 const database = require('./formatted_data/database_books.json')
+const vids = require('./raw_data/volume_ids.json')
 const http = rateLimit(axios.create(), { maxRequests: 1, perMilliseconds: 2000 })
 
 let promises = []
@@ -70,14 +71,34 @@ function searchTitle() {
     )
 };
 
-searchISBN();
+function searchVIDs() {
+    vids.ids.forEach(function (book, i) {
+        let url = 'https://www.googleapis.com/books/v1/volumes/' + book
+        promises.push(http.get(url)
+            .then(function (response) {
+                console.log('got ', i)
+                //console.log(response.data)
+                output.books.push({
+                    "id": response.data.id,
+                    "api_link": response.data.selfLink,
+                    "data": response.data.volumeInfo
+                })
+            }).catch(
+                function (error) {
+                    console.log('failed ')
+                    output.books.push({ error: 'api request failed' })
+                    return Promise.resolve()
+                }
+            )
+        )
+    }
+    )
+};
+
+searchVIDs();
 Promise.all(promises)
     .then(result => {
-        searchTitle();
-        Promise.all(promises)
-            .then(result => {
-                fs.writeFile('results.json', JSON.stringify(output), 'utf8', results => {
-                    console.log('done')
-                })
-            })
+        fs.writeFile('results.json', JSON.stringify(output), 'utf8', results => {
+            console.log('done')
+        })
     })

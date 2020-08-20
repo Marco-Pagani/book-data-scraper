@@ -4,12 +4,13 @@ taxonomy:
 	author: [Daniel Bates]
 	pubdate: 2014
 	isbn: 1783982225
-	subjects: [Computers]
+	subjects: [Computers / Programming / Games, Computers / Interactive & Multimedia, Computers / Programming Languages / Python]
 	audience: []
 	expertise: []
-cover: http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+thumb: http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250sA208FhKKvxUBntuLGAFMTOI5mWLK20Ytx1MlWLvIkoXkV3iNScrd7-P-U9jXnRAtVf0RpzbcegZnJNmGbQcqllNXBag7WzzT0Zk8oFw7iVUUA8_qt8EDyYa9slVQITpsH-&source=gbs_api
+cover: http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250sA208FhKKvxUBntuLGAFMTOI5mWLK20Ytx1MlWLvIkoXkV3iNScrd7-P-U9jXnRAtVf0RpzbcegZnJNmGbQcqllNXBag7WzzT0Zk8oFw7iVUUA8_qt8EDyYa9slVQITpsH-&source=gbs_api
 amazon: nil
 worldcat: nil
-google: https://books.google.com/books/about/Raspberry_Pi_Projects_for_Kids.html?hl=&id=eV6JoAEACAAJ
+google: https://play.google.com/store/books/details?id=eV6JoAEACAAJ
 ---
-This tutorial contains allimportant information about how to use your Raspberry Pi to develop any application you like. It is broken down into several actionpacked projects, each containing easytofollow steps, just to show you how easy and fun computer programming can be!If you are someone with a big imagination and would like to dive straight into the realm of technology and computers, then this is the book for you. With only a Raspberry Pi and no prior experience required, you will be shown how to translate your ideas into computer programs, creating any game, tool, or animation you can dream of.
+Technology today is growing rapidly, with all sorts of cool gadgets, applications, and games made thanks to the rise of computer programming. The Raspberry Pi is a crafty device that has promoted the teaching of basic computer science in schools, catching the attention of both young and old. Although learning to program offers a unique set of skills that allows you to explore your creative side, it has its own challenges, which may mean you will need a helping hand.This handy guide will launch you into the world of computer programming by showing you how to build your own amazing applications. Raspberry Pi Projects for Kids contains several awesome projects for you to get hands-on with, including creating your own games, crafting your own simple electronics, and making your own interactive map. By learning how to use Scratch and Python in your programming, you will be a computer scientist in no time!

@@ -3,53 +3,54 @@ let google_data = require('./formatted_data/google_books.json')
 let lib_data = require('./formatted_data/database_books.json')
 
 let site_data = []
-google_data.forEach(function (gbook, i) {
+google_data.books.forEach(function (gbook, i) {
     let lbook = lib_data[i]
 
-    let title = gbook.title
-    if (gbook.subtitle) { title = title + ': ' + gbook.subtitle }
+    let title = gbook.data.title
+    if (gbook.data.subtitle) { title = title + ': ' + gbook.data.subtitle }
 
     let description = ''
     if (lbook.Annotation && lbook.Annotation.length > 40)
         description = lbook.Annotation
-    else if (gbook.description)
-        description = gbook.description
+    else if (gbook.data.description)
+        description = gbook.data.description
 
     let subjects = []
-    if(lbook.Subjects)
+    if (lbook.Subjects)
         subjects = lbook.Subjects.split(',')
-    if(gbook.categories)
-        subjects = subjects.concat(gbook.categories)
-    
+    if (gbook.data.categories)
+        subjects = subjects.concat(gbook.data.categories)
+
     let audience = []
     if (lbook["Target Users"])
         audience = lbook["Target Users"].split(',')
-        
+
     let expertise = []
     if (lbook["Expertise Level"])
         expertise = lbook["Expertise Level"].split(',')
 
     let imageLink = ''
-    if (gbook.imageLinks)
-        imageLink = gbook.imageLinks.thumbnail
-    
+    if (gbook.data.imageLinks)
+        imageLink = gbook.data.imageLinks
+
     site_data.push({
         'title': title,
-        'authors': gbook.authors,
-        'isbn': gbook.industryIdentifiers[0].identifier,
-        'published': gbook.publishedDate,
+        'authors': gbook.data.authors,
+        'isbn': gbook.data.industryIdentifiers[0].identifier,
+        'published': gbook.data.publishedDate,
 
         'description': description,
 
         'subjects': subjects,
         'audience': audience,
-        'expertise': expertise ,
+        'expertise': expertise,
         'lessons': Boolean(lbook["Lesson Plans or Projects"]),
 
-        'image': imageLink,
+        'images': imageLink,
         'amazon': lbook['Amazon Link'],
         'worldcat': lbook['Worldcat Link'],
-        'google': gbook.canonicalVolumeLink
+        'google': gbook.data.canonicalVolumeLink,
+        'google_id': gbook.id
 
     })
 
