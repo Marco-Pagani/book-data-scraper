@@ -8,6 +8,8 @@ taxonomy:
 	audience: [General]
 	expertise: [Intermediate, Beginner, Advanced]
 	tag: [lesson plans]
+publisher: Search Press Limited
+pagecount: 144
 thumb: http://books.google.com/books/content?id=aSEnvgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE737v7mS0mgB5J5EWEQxvUFQXTRJIycLIr2WPvqjvG1GEOcDoFFnVUc6cpeOQFimht2HV7Y5juSoyPwV37MCEWyItzY_vghkPfZSWCGeQj_TBxu5mgV32J0rGGYK0_ZvB-QEpNLL&source=gbs_api
 cover: http://books.google.com/books/content?id=aSEnvgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE737v7mS0mgB5J5EWEQxvUFQXTRJIycLIr2WPvqjvG1GEOcDoFFnVUc6cpeOQFimht2HV7Y5juSoyPwV37MCEWyItzY_vghkPfZSWCGeQj_TBxu5mgV32J0rGGYK0_ZvB-QEpNLL&source=gbs_api
 amazon: https://www.amazon.com/Girl-Sewing-Machine-no-fuss-adapting/dp/1782214569/ref=sr_1_3?keywords=Girl+with+a+sewing+machine+%3A+the+no-fuss+guide+to+making+and+adapting+your+own+clothes&qid=1570113579&s=gateway&sr=8-3

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Jason R. Briggs]
 	pubdate: 2013
 	isbn: 1593274076
-	subjects: [Juvenile Nonfiction / Computers / Programming, Juvenile Nonfiction / General]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: No Starch Press
+pagecount: 344
 thumb: http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71BhM7_mdnxF0f_AiwNfu5CZ86wZeeErtcU7IHXNlyDD9f2ieUgDoRKYMv2WPWMa61F-S8YE7bM9m_7ELBCvXkcZTy07Xi6_B4KnD12xXAll_BAfydwGuQ3mScEB7IoXiKHI3MI&source=gbs_api
 cover: http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71l4XpVm01KUnXvh_zVg4C9-Q-0gx9JkxhIfsLYGGbykPoffnMn5q12EwPfF6jgAHDeke1xdcJSPQbnv957SbG5bV7C9Kib0D-yyZH_poQeoeCcOKem-exZELcNP73qAZc71Czi&source=gbs_api
 amazon: nil

@@ -7,6 +7,8 @@ taxonomy:
 	subjects: []
 	audience: []
 	expertise: []
+publisher: Lark Books
+pagecount: 144
 thumb: http://books.google.com/books/content?id=fnI4jwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7320w8SAZzIo_npR8inppuWaos-h0gb13FI3qYFtGrYjSMD8UZEiR4y-slBCU-kl4s-SWsJyPx_fGhzJ_dWi9eZnPffDiyyThO-aVUUtjWSUYNnnNKe1FmjPb_qviYFOFcCpUR5&source=gbs_api
 cover: http://books.google.com/books/content?id=fnI4jwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7320w8SAZzIo_npR8inppuWaos-h0gb13FI3qYFtGrYjSMD8UZEiR4y-slBCU-kl4s-SWsJyPx_fGhzJ_dWi9eZnPffDiyyThO-aVUUtjWSUYNnnNKe1FmjPb_qviYFOFcCpUR5&source=gbs_api
 amazon: nil

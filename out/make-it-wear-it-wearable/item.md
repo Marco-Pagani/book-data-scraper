@@ -4,10 +4,12 @@ taxonomy:
 	author: [Sahrye Cohen, Hal Rodriguez]
 	pubdate: 2018
 	isbn: 1260116158
-	subjects: [Wearables, Technology & Engineering / Electronics / General, Crafts & Hobbies / Fashion, Crafts & Hobbies / Fiber Arts & Textiles, Crafts & Hobbies / Sewing, Crafts & Hobbies / Quilts & Quilting, Crafts & Hobbies / Jewelry, Technology & Engineering / Electronics / Circuits / General, Technology & Engineering / Inventions, Computers / Programming / Open Source]
+	subjects: [Wearables]
 	audience: [General]
 	expertise: [Intermediate, Advanced]
 	tag: [lesson plans]
+publisher: McGraw-Hill Education
+pagecount: 176
 thumb: http://books.google.com/books/content?id=5uqzswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71Lly7k9HG4tCKzC9yidazMcee-TeCtc4AJdwEvlRcN1L9nq8jabfFCexjG3V51PSBBaYzRMedLwfAbCxc4vqIuWZUe6f2Rac4gl0WGyIGv6HfFLPgAeu-IEdHaMB12SynqjIhI&source=gbs_api
 cover: http://books.google.com/books/content?id=5uqzswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71Lly7k9HG4tCKzC9yidazMcee-TeCtc4AJdwEvlRcN1L9nq8jabfFCexjG3V51PSBBaYzRMedLwfAbCxc4vqIuWZUe6f2Rac4gl0WGyIGv6HfFLPgAeu-IEdHaMB12SynqjIhI&source=gbs_api
 amazon: https://www.amazon.com/Make-Wear-Wearable-Electronics-Cosplayers/dp/1260116158/ref=sr_1_1?keywords=Make+it%2C+wear+it+%3A+wearable+electronics+for+makers%2C+crafters%2C+and+cosplayers&qid=1572884762&sr=8-1

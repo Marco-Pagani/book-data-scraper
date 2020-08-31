@@ -4,9 +4,11 @@ taxonomy:
 	author: [Kirsten Glasbrook]
 	pubdate: 2015
 	isbn: 1782212043
-	subjects: [Sewing, Crafts & Hobbies / Weaving & Spinning]
+	subjects: [Sewing]
 	audience: [General]
 	expertise: [Advanced]
+publisher: Search Press Limited
+pagecount: 96
 thumb: http://books.google.com/books/content?id=H7eQrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71kDux12Zu8Gi9pSb1co6VTikzjug-QuZvz3FvCMozuQWtYI78U8Yjs1chIcBahcG1TIFLmLVkw_n_J7E_VEL3GeB94MTPF47neaHcQsASPTKR0BuEXKQGpJfw0Rp81EUZLgfc6&source=gbs_api
 cover: http://books.google.com/books/content?id=H7eQrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71kDux12Zu8Gi9pSb1co6VTikzjug-QuZvz3FvCMozuQWtYI78U8Yjs1chIcBahcG1TIFLmLVkw_n_J7E_VEL3GeB94MTPF47neaHcQsASPTKR0BuEXKQGpJfw0Rp81EUZLgfc6&source=gbs_api
 amazon: https://www.amazon.com/Tapestry-Weaving-Search-Press-Classics/dp/1782212043/ref=sr_1_1?keywords=Tapestry+weaving&qid=1570113639&s=gateway&sr=8-1

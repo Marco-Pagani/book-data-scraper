@@ -4,10 +4,12 @@ taxonomy:
 	author: [Helen Leigh]
 	pubdate: 2018
 	isbn: 1260142833
-	subjects: [Wearables, Robotics, Technology & Engineering / Electronics / General, Crafts & Hobbies / Sewing, Crafts & Hobbies / Papercrafts, Crafts & Hobbies / Crafts for Children, Crafts & Hobbies / Wirework]
+	subjects: [Wearables, Robotics]
 	audience: [General, K-12]
 	expertise: [Intermediate, Beginner]
 	tag: [lesson plans]
+publisher: McGraw-Hill Education
+pagecount: 288
 thumb: http://books.google.com/books/content?id=s-oytgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71xDZkGZbCloPXbc5xRIgW60x64IDG6EznemBOF-JmPnKT8znbTBi5BbvI9syOMAETy7kQw2ngHmua7bpv0QQQp0egRV91xs6a8rewe59Or2JgSXfjkc5sg8rY3g8GRGbr5nUu-&source=gbs_api
 cover: http://books.google.com/books/content?id=s-oytgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71xDZkGZbCloPXbc5xRIgW60x64IDG6EznemBOF-JmPnKT8znbTBi5BbvI9syOMAETy7kQw2ngHmua7bpv0QQQp0egRV91xs6a8rewe59Or2JgSXfjkc5sg8rY3g8GRGbr5nUu-&source=gbs_api
 amazon: https://www.amazon.com/Crafty-Kids-Guide-DIY-Electronics/dp/1260142833/ref=sr_1_1?keywords=The+crafty+kid%27s+guide+to+DIY+electronics+%3A+20+fun+projects+for+makers%2C+crafters%2C+and+everyone+in+between&qid=1575247486&sr=8-1

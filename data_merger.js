@@ -9,6 +9,9 @@ google_data.books.forEach(function (gbook, i) {
     let title = gbook.data.title
     if (gbook.data.subtitle) { title = title + ': ' + gbook.data.subtitle }
 
+    let publisher = gbook.data.publisher
+    publisher = publisher.replace(',', '')
+
     let description = ''
     if (lbook.Annotation && lbook.Annotation.length > 40)
         description = lbook.Annotation
@@ -33,11 +36,17 @@ google_data.books.forEach(function (gbook, i) {
     if (gbook.data.imageLinks)
         imageLink = gbook.data.imageLinks
 
+    let pagecount = 0
+    if (gbook.data.pageCount)
+        pagecount = gbook.data.pageCount
+
     site_data.push({
         'title': title,
         'authors': gbook.data.authors,
         'isbn': gbook.data.industryIdentifiers[0].identifier,
         'published': gbook.data.publishedDate,
+        'publisher': publisher,
+        'pagecount': pagecount,
 
         'description': description,
 

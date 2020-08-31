@@ -4,9 +4,11 @@ taxonomy:
 	author: [Christopher Armstrong]
 	pubdate: 2019
 	isbn: 1732545537
-	subjects: [Technology & Engineering / Industrial Design / Product]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: MFG. Lab Press
+pagecount: 214
 thumb: http://books.google.com/books/content?id=7Ps7xQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72MigfQ3Chlwx8nC08u9ps-7m06yUm6-3IZcxCvHnMdpqkDzRX354jqpidn7RQCJxc8dc-C3aFwpcx20dBiFDbW-Rkt1_V8fUipCigvR8p0YqE4jZXA7rVGuPvH0FLTbcYqv7cu&source=gbs_api
 cover: http://books.google.com/books/content?id=7Ps7xQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72MigfQ3Chlwx8nC08u9ps-7m06yUm6-3IZcxCvHnMdpqkDzRX354jqpidn7RQCJxc8dc-C3aFwpcx20dBiFDbW-Rkt1_V8fUipCigvR8p0YqE4jZXA7rVGuPvH0FLTbcYqv7cu&source=gbs_api
 amazon: nil

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Cameron Coward]
 	pubdate: 2019
 	isbn: 1593279264
-	subjects: [Computers / CAD-CAM, TECHNOLOGY & ENGINEERING / Engineering (General)]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: No Starch Press Incorporated
+pagecount: 152
 thumb: http://books.google.com/books/content?id=9crSswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70GqzT2hJbKhzz-2-AlS337PliOltMygLE_kY-8BOEFEYTrJsg4NYxmgjFYuV5_7oOHwXVBmEWdjBbu8ChS5r_m0gzjD1wAmfEO-JbXq2jm31JzTCq6na4pVvQf4_NWoA7P525N&source=gbs_api
 cover: http://books.google.com/books/content?id=9crSswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70GqzT2hJbKhzz-2-AlS337PliOltMygLE_kY-8BOEFEYTrJsg4NYxmgjFYuV5_7oOHwXVBmEWdjBbu8ChS5r_m0gzjD1wAmfEO-JbXq2jm31JzTCq6na4pVvQf4_NWoA7P525N&source=gbs_api
 amazon: nil

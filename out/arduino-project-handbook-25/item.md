@@ -4,10 +4,12 @@ taxonomy:
 	author: [Mark Geddes]
 	pubdate: 2016
 	isbn: 1593276907
-	subjects: [Arduinos, Technology & Engineering / Electronics / Microelectronics, Computers / Hardware / General, Juvenile Nonfiction / Computers / General]
+	subjects: [Arduinos]
 	audience: [College/University, Libraries, General]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: No Starch Press
+pagecount: 272
 thumb: http://books.google.com/books/content?id=Zni7DQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73Q7dXzDjCx464QJvcGasvu9QzoO5ZPGzAtpAvQWmfucH-2ZrliyvJbtx_nhyuE3umvjYqHzfVIpb7UASD59uBQXTWyYL2xEPFI34v9mtpc2HkPQmLh529tZPe8h3tNTYOGqmKp&source=gbs_api
 cover: http://books.google.com/books/content?id=Zni7DQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73epdmdSSp0uyAu-MGuB4Nbg2ahgOHg5hdUfSeuil46avJS6vBD0tWGHYtew_5wnaQNneGlqGjZJJ_eb1Usuca4WVGzH_p9dbrBcmIrNhzeZ3aE1JznlflNlk5xZwFzBtajQY7q&source=gbs_api
 amazon: https://www.amazon.com/Arduino-Project-Handbook-Practical-Projects/dp/1593276907/ref=sr_1_1?s=books&ie=UTF8&qid=1541656366&sr=1-1&keywords=arduino+project+handbook&dpID=51sLZyL00IL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch

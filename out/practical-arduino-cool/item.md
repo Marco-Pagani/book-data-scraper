@@ -4,10 +4,12 @@ taxonomy:
 	author: [Jonathan Oxer, Hugh Blemings]
 	pubdate: 2009
 	isbn: 1430224770
-	subjects: [Arduinos, Computers / Programming / Open Source, Technology & Engineering / Robotics]
+	subjects: [Arduinos]
 	audience: [College/University, General, Libraries]
 	expertise: [Intermediate, Advanced]
 	tag: [lesson plans]
+publisher: Apress
+pagecount: 456
 thumb: http://books.google.com/books/content?id=HsTxON1L6D4C&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71hptcCtVW4roBEtwC4iJ3gf5A3qJ6WqCSn9b5jeiW2OE1zSrii0ZTdS554MWsJXh4VNmdiqu7Ff9SC9ymg6Xcp6nA7OUNQpWPyVxUPiyXw61GZNSXlOp6MNjTnY5Cf1PAL-xcA&source=gbs_api
 cover: http://books.google.com/books/content?id=HsTxON1L6D4C&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71hptcCtVW4roBEtwC4iJ3gf5A3qJ6WqCSn9b5jeiW2OE1zSrii0ZTdS554MWsJXh4VNmdiqu7Ff9SC9ymg6Xcp6nA7OUNQpWPyVxUPiyXw61GZNSXlOp6MNjTnY5Cf1PAL-xcA&source=gbs_api
 amazon: https://www.amazon.com/Practical-Arduino-Projects-Hardware-Technology/dp/1430224770

@@ -4,10 +4,12 @@ taxonomy:
 	author: [Steven F. Barrett]
 	pubdate: 2013
 	isbn: 1627052542
-	subjects: [Arduinos, Technology & Engineering / Electronics / Circuits / General, Computers / Hardware / General, Technology & Engineering / Electronics / Circuits / Integrated]
+	subjects: [Arduinos]
 	audience: [College/University, K-12, Libraries, General]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: Morgan & Claypool Publishers
+pagecount: 513
 thumb: http://books.google.com/books/content?id=TbldAQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70pY6XKI0YUjXXSUk2bwvcQhZlfNMkhhkJHZF26qK0RQ1m6bHAcsJ4tl1GCf-ylnhHPjePLLyB41Y3FadHw4OGC6HQcDrkX8moDTQMe102jHqrsRk_FIanDy68KrgfT31jBWPHB&source=gbs_api
 cover: http://books.google.com/books/content?id=TbldAQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73RxY4qqEn7g6td7L3oNVrwUtKyQEgb6RhRGj1s9ReRKya0xPa4mI7LVWDxHXU9-FZlcRjVLdIawfYW3XNmSa2WOLnj0HPV9yNS0P-BKlKlh0zyhTTsbuSlK5n42qXiHHTX9NE5&source=gbs_api
 amazon: https://www.amazon.com/Arduino-Microcontroller-Processing-Everyone-Synthesis/dp/1627052534/ref=sr_1_2?s=books&ie=UTF8&qid=1541656853&sr=1-2&keywords=arduino+microcontroller

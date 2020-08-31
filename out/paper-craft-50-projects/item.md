@@ -4,9 +4,11 @@ taxonomy:
 	author: [DK]
 	pubdate: 2015
 	isbn: 1465449655
-	subjects: [Paper Crafts, Crafts & Hobbies / Papercrafts, Crafts & Hobbies / Scrapbooking, Crafts & Hobbies / Decorating]
+	subjects: [Paper Crafts]
 	audience: [General]
 	expertise: [Beginner, Intermediate]
+publisher: Penguin
+pagecount: 224
 thumb: http://books.google.com/books/content?id=zgdkCgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72fxrboU1hz56VniAVg-GMXshg-2SjWosXVTab0IVPV3et9qk_oGXwjWR7syBMnE3kXeDL3_JM_TQRddzCAGPMB737INVmXApwtepc4DY_3JRNR7gQ3pWEBTYzf1nlgWgCKzq6j&source=gbs_api
 cover: http://books.google.com/books/content?id=zgdkCgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE704N2ZKVUtgJyindYN3U9UxDO61BHnEU4nL3fJMfdhFVGsTYEFvrZuZMrWfGvdhzWx2BfSSseco3Rl4fkuJNpzW7KWJq2iErHoBoDgvxOU5GCqQYEFLDlZzvIkl5f6u4PB7TV7K&source=gbs_api
 amazon: https://www.amazon.com/Paper-Craft-Including-Scrapbooking-Beautiful/dp/1465439439/ref=sr_1_1?keywords=Paper+Craft%3A+50+Projects+Including+Card+Making%2C+Gift+Wrapping%2C+Scrapbooking%2C+and+Beautiful+Paper+Flowers&qid=1573574407&sr=8-1

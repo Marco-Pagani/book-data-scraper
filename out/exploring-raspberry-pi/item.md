@@ -4,9 +4,11 @@ taxonomy:
 	author: [Derek Molloy]
 	pubdate: 2016
 	isbn: 1119188709
-	subjects: [Computers / Hardware / General, Technology & Engineering / General]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: John Wiley & Sons
+pagecount: 720
 thumb: http://books.google.com/books/content?id=iftUDAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71sVsMUC8t64xddw3o9VGlyvUPPhyLKIhlFVeEkR8nqwUkCt6cbnl1kTuQ1Cx784fmFDjJDgusF4AW5Jgeq244LkN-CCTg7Lm-JVkZWm7wdN-tjEuHImkZaHkLMPhW1MUWWLjKN&source=gbs_api
 cover: http://books.google.com/books/content?id=iftUDAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE737GMNUr_z4IBW4M4ZM_ZjOwEoL3wprBQF3wgC6C2tjajF7OBq9mW6s1hcSxb7flmEkgXygV5a_WsNrDlZyi5AzEbErbUhuVL0ZjnbUXOq52Hgakb3_tXGy7ay5Q2u63BIiSD5J&source=gbs_api
 amazon: nil

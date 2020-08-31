@@ -4,9 +4,11 @@ taxonomy:
 	author: [Peter Waher]
 	pubdate: 2015
 	isbn: 1783553537
-	subjects: [Internet of Things, Computers / Hardware / Personal Computers / PCs, Computers / Internet / Application Development, Computers / Online Services]
+	subjects: [Internet of Things]
 	audience: [General]
 	expertise: [Advanced]
+publisher: Packt Publishing
+pagecount: 242
 thumb: http://books.google.com/books/content?id=YgggrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72P2vIZvXEK10JQkaCV3FUFGRE74rHFBmEbG4H6r9qUYw_7dxF0HxMhXhgOmyYNnd_xMvRq_4phpb0WZ8nx1m2m0u7f2K8xb6jejLf8leFz5PBOAWt7mc1YXhNqMJOpM9CmLl8M&source=gbs_api
 cover: http://books.google.com/books/content?id=YgggrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72P2vIZvXEK10JQkaCV3FUFGRE74rHFBmEbG4H6r9qUYw_7dxF0HxMhXhgOmyYNnd_xMvRq_4phpb0WZ8nx1m2m0u7f2K8xb6jejLf8leFz5PBOAWt7mc1YXhNqMJOpM9CmLl8M&source=gbs_api
 amazon: https://www.amazon.com/Learning-Internet-Things-Peter-Waher/dp/1783553537/ref=sr_1_3?keywords=Learning+Internet+of+things+Waher&qid=1570043570&s=gateway&sr=8-3

@@ -4,10 +4,12 @@ taxonomy:
 	author: [Chris Peterson]
 	pubdate: 2011
 	isbn: 161059763X
-	subjects: [Hand Tools, House & Home / Remodeling & Renovation]
+	subjects: [Hand Tools]
 	audience: [General]
 	expertise: [Intermediate, Advanced]
 	tag: [lesson plans]
+publisher: Creative Publishing International
+pagecount: 144
 thumb: http://books.google.com/books/content?id=gXAe4LKqMV8C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70WJsI4F5xF60fnxk-D8Oo4we4crIK3NkJu2eBoj0yhEAO-hViczPaGwkBG8p7m_S7fYtOZHq7TrfdFDnqWaLoDV3vYmoOo-SzkG2ROSdtma3sOUEO43n4cN45ATCrEF1N-lLF-&source=gbs_api
 cover: http://books.google.com/books/content?id=gXAe4LKqMV8C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72BoSjZr-B5gCvbpPkGyOq_8HQASeMm1ucLtDWm8cHx6WPNtPt_hCATd-3M-VkzP7LwlVmH0mLy4l-0OUeUldIQXBKpnyrR9BUl_VFk6mvPaBXQBANqxozo2ovkFcswoWZivOTQ&source=gbs_api
 amazon: https://www.amazon.com/Building-Secondhand-Stuff-2nd-Repurpose/dp/1591866812/ref=sr_1_1?keywords=Building+with+secondhand+stuff+%3A+how+to+reclaim%2C+repurpose%2C+re-use+%26+upcycle+salvaged+%26+leftover+materials&qid=1575492999&sr=8-1

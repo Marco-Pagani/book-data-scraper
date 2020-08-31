@@ -4,9 +4,11 @@ taxonomy:
 	author: [Jesse Au]
 	pubdate: 2013
 	isbn: 1449343015
-	subjects: [Computers / CAD-CAM, Architecture / Design, Drafting, Drawing & Presentation, Computers / Hardware / General, Technology & Engineering / General, Technology & Engineering / Drafting & Mechanical Drawing, Technology & Engineering / Industrial Engineering, Technology & Engineering / Inventions, Technology & Engineering / Manufacturing, Technology & Engineering / Textiles & Polymers]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: O'Reilly Media Incorporated
+pagecount: 300
 thumb: http://books.google.com/books/content?id=mGXUMgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE734nhrzGuwRYODJROpwJA9ljrdgyl-fWJzIGEK4w-OzrVCJks3B5LsTY6nBgm9T5ESPyREi0Jdlw0Cv9u50fgyIOCJyAZdGm26eayCjB9sQToCon1UyhIVPZIPEBFJMte4P7Jag&source=gbs_api
 cover: http://books.google.com/books/content?id=mGXUMgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE734nhrzGuwRYODJROpwJA9ljrdgyl-fWJzIGEK4w-OzrVCJks3B5LsTY6nBgm9T5ESPyREi0Jdlw0Cv9u50fgyIOCJyAZdGm26eayCjB9sQToCon1UyhIVPZIPEBFJMte4P7Jag&source=gbs_api
 amazon: nil

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Laurie Carlson]
 	pubdate: 2016
 	isbn: 1613734034
-	subjects: [Juvenile Nonfiction / Crafts & Hobbies]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Chicago Review Press
+pagecount: 144
 thumb: http://books.google.com/books/content?id=TW0fDAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73IcU20PA7PbGXQZRlS2m1mQpaDEmABmcytQbYRmDfEo0WX8yKTURVpOB17HV5252dQCmxkxF9NMGktvWGU2fddj7hUHBQVMq2c16Q7gyjQiFVdvjbAAuRSjdnqpsuujla0Wlq2&source=gbs_api
 cover: http://books.google.com/books/content?id=TW0fDAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70FRUrAuVmjV8w7ZUHoGkOZJKciQQbRKw46UXBoiJcVap1OVzETRVt4JGuHN5JoUTFJIF7ykDP-V_gnMiNsjBBA8g5y7x5ztzwlw5EyalMSceBa-Wxi_ZtXS9GljzeviNDUhgra&source=gbs_api
 amazon: nil

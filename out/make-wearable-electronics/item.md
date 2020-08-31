@@ -4,9 +4,11 @@ taxonomy:
 	author: [Kate Hartman]
 	pubdate: 2014
 	isbn: 1449336515
-	subjects: [Wearables, Computers / Hardware / General, Technology & Engineering / Electronics / Circuits / General]
+	subjects: [Wearables]
 	audience: [General, College/University, Libraries]
 	expertise: [Beginner, Intermediate]
+publisher: Maker Media
+pagecount: 257
 thumb: http://books.google.com/books/content?id=tX3UmAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7100vnONECqZpic6P2oZzOY9K97XqfU3xO2oIqQXZnrPI6Lu8_ONX7S5IG4_6QBmwQ06BUZ5oirJh77LzB3mPTNjnOTC271Eqah7VXBpRdlkpd99dTyyZTcXwnJOhlC8hdph8cq&source=gbs_api
 cover: http://books.google.com/books/content?id=tX3UmAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7100vnONECqZpic6P2oZzOY9K97XqfU3xO2oIqQXZnrPI6Lu8_ONX7S5IG4_6QBmwQ06BUZ5oirJh77LzB3mPTNjnOTC271Eqah7VXBpRdlkpd99dTyyZTcXwnJOhlC8hdph8cq&source=gbs_api
 amazon: https://www.amazon.com/Make-Wearable-Electronics-prototype-interactive-ebook/dp/B00MNTH1H6

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Stephen Hoskins]
 	pubdate: 2018
 	isbn: 1474248675
-	subjects: [Making Scholarship, Technology & Engineering / Industrial Design / Product, Art / Digital, Design / Product]
+	subjects: [Making Scholarship]
 	audience: [Libraries, College/University]
 	expertise: [Intermediate]
+publisher: Bloomsbury Academic
+pagecount: 168
 thumb: http://books.google.com/books/content?id=ErY7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71MSVoAK0LeXovGTz0hCSq1X3HFuu9E7Vw4NDUMBmJflpO8gfWzJdGjCi6IPvlWMLJO62l4ArzBrhYuH7EzjbpmL2woUy9hK9ka7bGV3NzNsEpBaaEkCUO85MVGfADL02IRqk2_&source=gbs_api
 cover: http://books.google.com/books/content?id=ErY7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71MSVoAK0LeXovGTz0hCSq1X3HFuu9E7Vw4NDUMBmJflpO8gfWzJdGjCi6IPvlWMLJO62l4ArzBrhYuH7EzjbpmL2woUy9hK9ka7bGV3NzNsEpBaaEkCUO85MVGfADL02IRqk2_&source=gbs_api
 amazon: https://www.amazon.com/s?k=3D+printing+for+artists%2C+designers+and+makers&ref=nb_sb_noss

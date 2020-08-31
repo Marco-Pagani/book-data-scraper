@@ -4,10 +4,12 @@ taxonomy:
 	author: [Ellyssa Kroski]
 	pubdate: 2017
 	isbn: 0838916627
-	subjects: [3D Modeling, Sewing, Paper Crafts, Soldering, Laser Cutting, Robotics, Photography & Video, Language Arts & Disciplines / Library & Information Science / General, Language Arts & Disciplines / Library & Information Science / Collection Development]
+	subjects: [3D Modeling, Sewing, Paper Crafts, Soldering, Laser Cutting, Robotics, Photography & Video]
 	audience: [Libraries, General]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: American Library Association
+pagecount: 368
 thumb: http://books.google.com/books/content?id=G6PUDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72IKuzS-REBJE6_HwkkhTiAxRmyNlfp0RYwOUUtqmn16AGIb0dzy0T_m7vcvn4fb39A2JkSUAR7V51LkEdLOCZcdF339Qp-7vY43KrmYrV4YwgVcSvxGf2hP4wILIA4KPIXAeq8&source=gbs_api
 cover: http://books.google.com/books/content?id=G6PUDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70aePryih4S47dabpBlu_xMiKM81n5lnUCaFYMXyMPuH-APk4b3o9kzdO6YOf_JnnTt5rqY8Be7txtsIQR4q4nSZRCnYXKof_aZiAGRMBwCEVb3-CJ_fyRndokeZ5aD9pSXJpvX&source=gbs_api
 amazon: https://www.amazon.com/63-Ready-Use-Maker-Projects/dp/0838915914/ref=sr_1_1?keywords=63+ready-to-use+maker+projects&qid=1575490363&sr=8-1

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Bob Gledhill]
 	pubdate: 2016
 	isbn: 1785002279
-	subjects: [Crafts & Hobbies / Model Railroading]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: The Crowood Press
+pagecount: 300
 thumb: http://books.google.com/books/content?id=CVZwDQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71KMCyqX9_wg2Aa7AadfCjI4pklYZx4PaYZIcg_aqP6bqeQq2RhcSLFGNPJy_VM7k7eZ3OOg2PMYksUa4glcf_DG1Y6gAlJq0BM1ywCpr_lJAQ3TJSNaaP4z933Ci9yknEjaeZp&source=gbs_api
 cover: http://books.google.com/books/content?id=CVZwDQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71eBvnt5naEn2TKEUQ3_A59Q7zo7VfB7Hz2dMHdtDxVUuw0EA3qLSgZYIql8NTHNTZQ76nvFg20sgu54Q074XA9G0cu8QOcHBvj-JBTElZonzXhkqgmhGslOB2Qyw9O__ayRQH4&source=gbs_api
 amazon: nil

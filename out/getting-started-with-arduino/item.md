@@ -4,9 +4,11 @@ taxonomy:
 	author: [Massimo Banzi, Michael Shiloh]
 	pubdate: 2014
 	isbn: 1449363334
-	subjects: [Arduinos, Computers / Programming Languages / C, Technology & Engineering / Robotics, Technology & Engineering / Sensors]
+	subjects: [Arduinos]
 	audience: []
 	expertise: []
+publisher: MakerMedia
+pagecount: 245
 thumb: http://books.google.com/books/content?id=nYLmoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70yVeWudDLPS-xavA0o81BtQnsknLGhecXYJj75sGBGGU0uHpMMpGbisz3FhKOCTUYV65S5JvhdV_HOh0p-xwr30gQ3bv65E8vFeaDYgcO_ZpWQCCi598BZIKS0GMSTp3GtH1Nr&source=gbs_api
 cover: http://books.google.com/books/content?id=nYLmoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70yVeWudDLPS-xavA0o81BtQnsknLGhecXYJj75sGBGGU0uHpMMpGbisz3FhKOCTUYV65S5JvhdV_HOh0p-xwr30gQ3bv65E8vFeaDYgcO_ZpWQCCi598BZIKS0GMSTp3GtH1Nr&source=gbs_api
 amazon: nil

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Steve Cory]
 	pubdate: 2014
 	isbn: 1621138089
-	subjects: [Gardening / Garden Furnishings, House & Home / Do-It-Yourself / Carpentry, House & Home / Outdoor & Recreational Areas]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Taunton Press
+pagecount: 201
 thumb: http://books.google.com/books/content?id=ibP2nQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE720dAOrng5GKACwuKrJMAesJFhdSsxtLjm16MqqbU1zILwQTwBXg8N5dheeE7P8iOeD1a8GnHdZfyDAMxxm96VDPuGCJMvNzgvfDY0ol9_BSh0HbITutyVuNddEEfbcy79eb10U&source=gbs_api
 cover: http://books.google.com/books/content?id=ibP2nQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE720dAOrng5GKACwuKrJMAesJFhdSsxtLjm16MqqbU1zILwQTwBXg8N5dheeE7P8iOeD1a8GnHdZfyDAMxxm96VDPuGCJMvNzgvfDY0ol9_BSh0HbITutyVuNddEEfbcy79eb10U&source=gbs_api
 amazon: nil

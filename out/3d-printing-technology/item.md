@@ -7,6 +7,8 @@ taxonomy:
 	subjects: [3D Printing]
 	audience: [General]
 	expertise: [Intermediate]
+publisher: CRC Press Taylor & Francis Group
+pagecount: 0
 thumb: nil
 cover: nil
 amazon: https://www.amazon.com/3D-Printing-Technology-Applications-Selection/dp/1498783759/ref=sr_1_2?keywords=3D+printing+%3A+technology%2C+applications%2C+and+selection&qid=1569590604&s=gateway&sr=8-2

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Matt Richardson, Shawn Wallace, Shawn P. Wallace]
 	pubdate: 2012
 	isbn: 1449344216
-	subjects: [Raspberry Pi's, Computers / Operating Systems / Linux, Computers / Hardware / Peripherals, Computers / Programming / General, Computers / Programming Languages / Python, Computers / Hardware / General, Education / Computers & Technology, Technology & Engineering / Electronics / General, Technology & Engineering / Electronics / Circuits / Integrated, Technology & Engineering / Sensors]
+	subjects: [Raspberry Pi's]
 	audience: []
 	expertise: []
+publisher: "O'Reilly Media Inc."
+pagecount: 161
 thumb: http://books.google.com/books/content?id=qKQcXBpWXPAC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE715QZKzklKsAvPax9UMS5krQLGSHF1Ktt3LOjac2AxEJ_tU7mOLUMU8OLy9Se305kafYkrEdeNE3zR97zKrc7lvllrzEb3faf8emx72cEkaB8vFY_XdVR9TleTKhTukHumBhi-k&source=gbs_api
 cover: http://books.google.com/books/content?id=qKQcXBpWXPAC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73gJWAgpM9D4UU1egONrX_SoHibRKZpRw_BX1kCHJ591RIZXmQDlolsSmxFVy5HqMkjZLkH0TPXYYWA6x823eWlOYZjEfSSp5zmsoTeufKivn_zoASMmStUCHiBPWdB3mt6rW-F&source=gbs_api
 amazon: nil

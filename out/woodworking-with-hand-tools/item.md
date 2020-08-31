@@ -7,6 +7,8 @@ taxonomy:
 	subjects: [Hand Tools]
 	audience: []
 	expertise: []
+publisher: Taunton Press Incorporated
+pagecount: 240
 thumb: http://books.google.com/books/content?id=Lk60swEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71NMTa6AEUuVaG_CB19dc1MmYIarpsE6-1yy3KqG_9a7uN8Nb7W0fmqp03YHXQ3geG9smcIBJ_Q9GrqJAmMEp3fTFQsaa6ttnJyUtuXhUE_-mZ0G0wHCdU7AogwdCi-pP8V7vVx&source=gbs_api
 cover: http://books.google.com/books/content?id=Lk60swEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71NMTa6AEUuVaG_CB19dc1MmYIarpsE6-1yy3KqG_9a7uN8Nb7W0fmqp03YHXQ3geG9smcIBJ_Q9GrqJAmMEp3fTFQsaa6ttnJyUtuXhUE_-mZ0G0wHCdU7AogwdCi-pP8V7vVx&source=gbs_api
 amazon: nil

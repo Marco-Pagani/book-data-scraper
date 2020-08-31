@@ -4,9 +4,11 @@ taxonomy:
 	author: [Joan Horvath]
 	pubdate: 2014
 	isbn: 1484200268
-	subjects: [3D Printing, Computers / Hardware / General, Computers / Interactive & Multimedia, Computers / Desktop Applications / Design & Graphics]
+	subjects: [3D Printing]
 	audience: [General]
 	expertise: [Intermediate]
+publisher: Apress
+pagecount: 224
 thumb: http://books.google.com/books/content?id=vXQ1oAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72lqofu3YjzizEKpdvY-LRD8gX7kC4dMwkxuUwtG1he8v41Zkz-3x3M7frwROf5GCacbJTf-G8pP5KSV_0XgdEWEjwinsEQneYp1REsV1Dv5BDAhk7O2Rdr-b_QcSuEauo0WrWk&source=gbs_api
 cover: http://books.google.com/books/content?id=vXQ1oAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72lqofu3YjzizEKpdvY-LRD8gX7kC4dMwkxuUwtG1he8v41Zkz-3x3M7frwROf5GCacbJTf-G8pP5KSV_0XgdEWEjwinsEQneYp1REsV1Dv5BDAhk7O2Rdr-b_QcSuEauo0WrWk&source=gbs_api
 amazon: https://www.amazon.com/Mastering-3D-Printing-Technology-Action/dp/1484200268/ref=sr_1_4?keywords=Mastering+3D+printing&qid=1569590845&s=gateway&sr=8-4

@@ -7,6 +7,8 @@ taxonomy:
 	subjects: []
 	audience: []
 	expertise: []
+publisher: Hungry Tomato
+pagecount: 0
 thumb: nil
 cover: nil
 amazon: https://www.amazon.com/Amazing-Origami-Gifts-Rob-Ives/dp/1541501241/ref=sr_1_1?crid=QNMU4RZO6NRX&keywords=amazing+origami+gifts+rob+ives&qid=1570113542&s=gateway&sprefix=Amazing+origami+gifts+r%2Caps%2C168&sr=8-1

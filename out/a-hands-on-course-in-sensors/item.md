@@ -4,9 +4,11 @@ taxonomy:
 	author: [Volker Ziemann]
 	pubdate: 2018
 	isbn: 1351188291
-	subjects: [Science / Physics / General, Technology & Engineering / Robotics, Technology & Engineering / Sensors]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: CRC Press
+pagecount: 258
 thumb: http://books.google.com/books/content?id=9NJMDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73edcjRb2wFliOBGMf5mzYbpWkeju_60TdccTDiEpD8n9skC40ngNQdji_LYVLZXLftE0VCyDftiK6vXAdkli6BrCkm71zpLlxiIAA61eET5MUIpOUK0LpRNfQ89p1h6J5icmUx&source=gbs_api
 cover: http://books.google.com/books/content?id=9NJMDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71hJyXzAuVyOBdHLv8sqo87sqYLxPk3NVW2UyAF1y_OdpZ-bj8AW3iWlKA-7TZrGGASrxzg5lnv9FNnEpi0pnGmlI1GxyIglc1_o1HTOPSfTR-d5XNDW7E-etqjfg303VyKFvdO&source=gbs_api
 amazon: nil

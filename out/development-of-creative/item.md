@@ -4,9 +4,11 @@ taxonomy:
 	author: [Katy Kavanagh Webb]
 	pubdate: 2018
 	isbn: 0081022662
-	subjects: [Language Arts & Disciplines / Library & Information Science / General]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Elsevier Science
+pagecount: 212
 thumb: http://books.google.com/books/content?id=tLavtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE734OBfEFOXknpvrOjK2qOabUAmnIc_91dbKtxnbECMxhbL_O30KLsC8mObBU1-tTtVHpHsBRquPAOrGk9ydtiRSnh9UFAZwXpgzZzZkkbF1KW0maaSOWjhT14RRksh5jpwKlkg9&source=gbs_api
 cover: http://books.google.com/books/content?id=tLavtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE734OBfEFOXknpvrOjK2qOabUAmnIc_91dbKtxnbECMxhbL_O30KLsC8mObBU1-tTtVHpHsBRquPAOrGk9ydtiRSnh9UFAZwXpgzZzZkkbF1KW0maaSOWjhT14RRksh5jpwKlkg9&source=gbs_api
 amazon: https://www.amazon.com/Development-Creative-Spaces-Academic-Libraries/dp/0081022662/ref=sr_1_1?keywords=Development+of+creative+spaces+in+academic+libraries+%3A+a+decision+maker%27s+guide&qid=1570113871&s=gateway&sr=8-1

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Anna Kaziunas France]
 	pubdate: 2013
 	isbn: 1457182939
-	subjects: [Computers / CAD-CAM, Technology & Engineering / Industrial Design / General, Technology & Engineering / Manufacturing]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Maker Media Incorporated
+pagecount: 213
 thumb: http://books.google.com/books/content?id=K5MlnQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71jCQpnt9VadwKoh2BMq_dp8ghdinKHBK3uRGLHRpzWIA8wqdPt8F0w-8eLUGQE9OUpH68IM8g2NK8UaRYvGREy4JKux6sFoXzY0_gLn6_2a7jGv7y8vFeeaw3EuIrd3CboNNI3&source=gbs_api
 cover: http://books.google.com/books/content?id=K5MlnQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71jCQpnt9VadwKoh2BMq_dp8ghdinKHBK3uRGLHRpzWIA8wqdPt8F0w-8eLUGQE9OUpH68IM8g2NK8UaRYvGREy4JKux6sFoXzY0_gLn6_2a7jGv7y8vFeeaw3EuIrd3CboNNI3&source=gbs_api
 amazon: nil

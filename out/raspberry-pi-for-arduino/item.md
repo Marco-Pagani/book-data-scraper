@@ -4,10 +4,12 @@ taxonomy:
 	author: [James R. Strickland]
 	pubdate: 2018
 	isbn: 1484234138
-	subjects: [Arduinos, Raspberry Pi's, Programming, Computers / Hardware / General]
+	subjects: [Arduinos, Raspberry Pi's, Programming]
 	audience: [General]
 	expertise: [Intermediate, Advanced]
 	tag: [lesson plans]
+publisher: Apress
+pagecount: 427
 thumb: http://books.google.com/books/content?id=hWXEtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71VevmVPuWDNbjhqR8TTRaTULyn2sblY9il4f3TNVmE7PNfBTdqXHhcoQYnYZHIhEt20qYpW_XJ_5LKIr3xXqrVaenRmc4GRfmqCz2NzJU9nUpvuhppT1NzbXVAbqF_PXO6iofX&source=gbs_api
 cover: http://books.google.com/books/content?id=hWXEtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71VevmVPuWDNbjhqR8TTRaTULyn2sblY9il4f3TNVmE7PNfBTdqXHhcoQYnYZHIhEt20qYpW_XJ_5LKIr3xXqrVaenRmc4GRfmqCz2NzJU9nUpvuhppT1NzbXVAbqF_PXO6iofX&source=gbs_api
 amazon: https://www.amazon.com/Raspberry-Pi-Arduino-Users-Applications/dp/1484234138/ref=sr_1_1?keywords=Raspberry+Pi+for+Arduino+users+%3A+building+IoT+and+network+applications+and+devices&qid=1574352197&sr=8-1

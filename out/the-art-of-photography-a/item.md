@@ -7,6 +7,8 @@ taxonomy:
 	subjects: []
 	audience: []
 	expertise: []
+publisher: Rocky Nook
+pagecount: 408
 thumb: http://books.google.com/books/content?id=RQ7VwAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72so0uk-66bfCpq4xlwULPrY6hHKfjSvi33YBqkQYHmz9tfYbv7SoaKwRCwT0I3lNmKc75rl0wvaqToHe_V_Dn98y_J_dO8JxyO0A_OVga729pKEjOKPITaN_oQ5-kIKGmhbxJF&source=gbs_api
 cover: http://books.google.com/books/content?id=RQ7VwAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72so0uk-66bfCpq4xlwULPrY6hHKfjSvi33YBqkQYHmz9tfYbv7SoaKwRCwT0I3lNmKc75rl0wvaqToHe_V_Dn98y_J_dO8JxyO0A_OVga729pKEjOKPITaN_oQ5-kIKGmhbxJF&source=gbs_api
 amazon: nil

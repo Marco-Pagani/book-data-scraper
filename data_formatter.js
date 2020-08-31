@@ -23,6 +23,10 @@ function select_images(images) {
     }
 }
 
+function filterSubjects(list) {
+    return list.filter(x => x.indexOf('/') == -1)
+}
+
 data.forEach(book => {
     if (!book.error) {
         // define grub for url
@@ -44,9 +48,11 @@ data.forEach(book => {
             '\tauthor: [' + book.authors.join(', ') + ']\n' +
             '\tpubdate: ' + book.published.substr(0, 4) + '\n' +
             '\tisbn: ' + book.isbn + '\n' +
-            '\tsubjects: [' + book.subjects.join(', ') + ']\n' +
+            '\tsubjects: [' + filterSubjects(book.subjects).join(', ') + ']\n' +
             '\taudience: [' + book.audience.join(', ') + ']\n' +
             '\texpertise: [' + book.expertise.join(', ') + ']\n' + tag +
+            'publisher: ' + book.publisher + '\n' +
+            'pagecount: ' + book.pagecount + '\n' +
             'thumb: ' + images.thumb + '\n' +
             'cover: ' + images.cover + '\n' +
             'amazon: ' + check_nil(book.amazon) + '\n' +

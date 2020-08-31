@@ -4,10 +4,12 @@ taxonomy:
 	author: [Wing Mun Devenney]
 	pubdate: 2013
 	isbn: 1438002637
-	subjects: [Soldering, Crafts & Hobbies / Jewelry, Crafts & Hobbies / Metal Work]
+	subjects: [Soldering]
 	audience: [General]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: Barron's Educational Series Incorporated
+pagecount: 160
 thumb: http://books.google.com/books/content?id=IDIzmQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE710yl44C8YxM08BNbLUyk9Nm_PGPDIBBrdameFI9p4LrdpfJUSiMH2gZ1PlVKNcvTXdP_QzXbSfi7NoMfy_CSoOvixtQPpXqWCoRw2ek3vmXH4S1mWOcyrVZTKbmRxzXwEhodQV&source=gbs_api
 cover: http://books.google.com/books/content?id=IDIzmQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE710yl44C8YxM08BNbLUyk9Nm_PGPDIBBrdameFI9p4LrdpfJUSiMH2gZ1PlVKNcvTXdP_QzXbSfi7NoMfy_CSoOvixtQPpXqWCoRw2ek3vmXH4S1mWOcyrVZTKbmRxzXwEhodQV&source=gbs_api
 amazon: https://www.amazon.com/Art-Soldering-Jewelry-Makers-Techniques/dp/1438002637/ref=sr_1_1?keywords=The+art+of+soldering+for+jewelry+makers+%3A+techniques+and+projects&qid=1575301417&sr=8-1

@@ -4,9 +4,11 @@ taxonomy:
 	author: [Sean McManus, Mike Cook]
 	pubdate: 2013
 	isbn: 1118554213
-	subjects: [Computers / Hardware / General]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Wiley
+pagecount: 432
 thumb: http://books.google.com/books/content?id=9ouiMQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71cBzr17nFqmr_iUWbRUts8zsxcwpGR_Ys8dRb-h-QpAsIsZOxxMun756eDI4lKZyyiGvReie6Q5-VfSIrG9pLs8odpTWbyKJssMsAcivL-FRFy0bHRqHBC-miaUbJ70mo_a7EH&source=gbs_api
 cover: http://books.google.com/books/content?id=9ouiMQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71cBzr17nFqmr_iUWbRUts8zsxcwpGR_Ys8dRb-h-QpAsIsZOxxMun756eDI4lKZyyiGvReie6Q5-VfSIrG9pLs8odpTWbyKJssMsAcivL-FRFy0bHRqHBC-miaUbJ70mo_a7EH&source=gbs_api
 amazon: nil

@@ -4,10 +4,12 @@ taxonomy:
 	author: [Kristina A. Holzweiss, Amy Barth]
 	pubdate: 2017
 	isbn: 053123410X
-	subjects: [Robotics, Juvenile Nonfiction / Technology / How Things Work-Are Made]
+	subjects: [Robotics]
 	audience: [K-12]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Scholastic Incorporated
+pagecount: 32
 thumb: http://books.google.com/books/content?id=q0R4AQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71R0am4hfC8TwZwBKq7yxeQgqSYDi7918YSZcdo0K2XXKIz9MDKHNlfFG06ujyLLkckKd0lgHcOWVPhk3GTNvVjM06GRLcOTXEyROkgZlTXWbXELgaU_5De1bVqjBQ2yugIrxqs&source=gbs_api
 cover: http://books.google.com/books/content?id=q0R4AQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71R0am4hfC8TwZwBKq7yxeQgqSYDi7918YSZcdo0K2XXKIz9MDKHNlfFG06ujyLLkckKd0lgHcOWVPhk3GTNvVjM06GRLcOTXEyROkgZlTXWbXELgaU_5De1bVqjBQ2yugIrxqs&source=gbs_api
 amazon: nil

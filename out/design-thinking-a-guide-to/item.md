@@ -4,9 +4,11 @@ taxonomy:
 	author: [Andrew Pressman]
 	pubdate: 2018
 	isbn: 131720283X
-	subjects: [Architecture / General, Architecture / Design, Drafting, Drawing & Presentation, Architecture / Methods & Materials, Architecture / Study & Teaching, Architecture / Professional Practice, Design / General, Design / Reference]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Routledge
+pagecount: 154
 thumb: http://books.google.com/books/content?id=I_h1DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71BD3Vy_vIEkHgj0Rdxf_CDqCuNXJQ1Qn-aEmeOC4uJA_XEYwelNGn-P1nZ5fsieyCszgJjdrZUgGcZWJiPCGN-Al2hAsisnMIvMPdrYKnhKmyqO8ntTamyQ7ZpacEmS6h6iaUO&source=gbs_api
 cover: http://books.google.com/books/content?id=I_h1DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73eL2hnd67W3clD2lQCD617kc4d0ZFl15ptqkJP26uJ5LZr1pcwXfnse3KaFmKcgSZG9H77I2ctuNEGGomxpr7fDzW6aaPijGqGTjE_JU-2r3_Dj39LnEb3KNHVxaeSABDnF_r-&source=gbs_api
 amazon: nil

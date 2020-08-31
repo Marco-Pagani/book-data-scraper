@@ -8,6 +8,8 @@ taxonomy:
 	audience: [K-12]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Smartbook Media Incorporated
+pagecount: 32
 thumb: nil
 cover: nil
 amazon: https://www.amazon.com/Soldering-Century-Skills-Innovation-Library/dp/1631377949/ref=sr_1_1?keywords=Soldering+Nelson&qid=1575759078&sr=8-1

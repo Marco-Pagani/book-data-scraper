@@ -4,9 +4,11 @@ taxonomy:
 	author: [Simon Monk]
 	pubdate: 2015
 	isbn: 1259587401
-	subjects: [Raspberry Pi's, Programming, Technology & Engineering / Electronics / General, Computers / Programming Languages / Python, Technology & Engineering / Electronics / Circuits / General, Computers / Programming / General, Technology & Engineering / Inventions]
+	subjects: [Raspberry Pi's, Programming]
 	audience: []
 	expertise: []
+publisher: McGraw-Hill Education
+pagecount: 208
 thumb: http://books.google.com/books/content?id=wj4KrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71gXm0CfrhsTKMw1ZkdfOWKMw0Q3PlgfUqcpoJFulC9FVg25NszFTC3eVq19GK-o3_nfSOe7-OMWOcL5dfOf2cKReWrpAM_VY5PWHXVgnPJBYFEh6DJZEjIXDdDQxbTnuyMkaEh&source=gbs_api
 cover: http://books.google.com/books/content?id=wj4KrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71gXm0CfrhsTKMw1ZkdfOWKMw0Q3PlgfUqcpoJFulC9FVg25NszFTC3eVq19GK-o3_nfSOe7-OMWOcL5dfOf2cKReWrpAM_VY5PWHXVgnPJBYFEh6DJZEjIXDdDQxbTnuyMkaEh&source=gbs_api
 amazon: nil

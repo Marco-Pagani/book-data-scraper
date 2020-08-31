@@ -4,10 +4,12 @@ taxonomy:
 	author: [James A. Langbridge]
 	pubdate: 2015
 	isbn: 1118919602
-	subjects: [Arduinos, Computers / Hardware / General, Technology & Engineering / General]
+	subjects: [Arduinos]
 	audience: [College/University, Libraries]
 	expertise: [Intermediate, Advanced]
 	tag: [lesson plans]
+publisher: John Wiley & Sons
+pagecount: 480
 thumb: http://books.google.com/books/content?id=bxFqBgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72_hi6LHc43dZioXMr9-8sOj05glkxCZMFXK45Ydvi0iNrbUIDL-n3bO_MG8Rsd2d6_0jPLh6Zi4Dqffw3gk-EBRgXQkNugsGZhxLPOtOu3wriFr2QznQ_sj_IW59dHure54u_A&source=gbs_api
 cover: http://books.google.com/books/content?id=bxFqBgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE718o9snQqJbyLyDCrAvouP9yKbTGUY3iFLLYJoJqPdeTp_z7QrbSsLXQ_BCtnFjyXCNJ1dAZgGjdoLyoyRq_gR_5eM2o5233VRHN6NZn1AcdxrkFYWsGdoHEEj3NVFnQCGESaA9&source=gbs_api
 amazon: https://www.amazon.com/Arduino-Sketches-Techniques-Programming-Wizardry/dp/1118919602

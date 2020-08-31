@@ -4,9 +4,11 @@ taxonomy:
 	author: [John Shovic, Alan Simpson]
 	pubdate: 2019
 	isbn: 1119557593
-	subjects: [Programming, Computers / Programming Languages / Python, Computers / Programming / General]
+	subjects: [Programming]
 	audience: [General]
 	expertise: [Beginner, Intermediate]
+publisher: John Wiley & Sons
+pagecount: 704
 thumb: http://books.google.com/books/content?id=BDmRDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71iWQvguSctcLT2jXzCIRanaolwKeopFlNjPqmOZBJizAQASLSZhIC6fMJip8Y__EIpWkOuTA6may_qb4k4lRDViAseO0yQ1SIRkPebE21x9-mmtWvNezcctBNNSii2g1_nsb-Y&source=gbs_api
 cover: http://books.google.com/books/content?id=BDmRDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72E6_URH_axv_e5uuAfnrxF_T_K9cMzyad-oERdWfbFGogghyM05Shox6QGuLZ3SJmCSjhyEpVG6q0mdaGkUcRyBfpVskXOJ-UCbt5Bncs-Oz05CCcEtir2HLPnHmJrsfSB-TC_&source=gbs_api
 amazon: https://www.amazon.com/Python-All-One-Dummies-Shovic/dp/1119557593/ref=sr_1_1?keywords=Python+all-in-one&qid=1575492272&sr=8-1

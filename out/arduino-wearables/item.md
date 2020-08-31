@@ -4,10 +4,12 @@ taxonomy:
 	author: [Tony Olsson]
 	pubdate: 2012
 	isbn: 1430243597
-	subjects: [Arduinos, Wearables, Computers / Hardware / General, Computers / Data Processing, Computers / General]
+	subjects: [Arduinos, Wearables]
 	audience: [K-12, Libraries, College/University, General]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: Apress
+pagecount: 336
 thumb: http://books.google.com/books/content?id=LkrVwAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y82ITySDvfPZ7gwUw42TON1k0E5PIHSXFxCqs0IsCMwUtM7ONGn66DI5yF6OU2r9TQ6ZgGQnMx-iUCMV-r15w6RB1IMcEEkKzjCujUHqkfJQ8kxakgnCuYwX5mlgP2ws_MIC2&source=gbs_api
 cover: http://books.google.com/books/content?id=LkrVwAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y82ITySDvfPZ7gwUw42TON1k0E5PIHSXFxCqs0IsCMwUtM7ONGn66DI5yF6OU2r9TQ6ZgGQnMx-iUCMV-r15w6RB1IMcEEkKzjCujUHqkfJQ8kxakgnCuYwX5mlgP2ws_MIC2&source=gbs_api
 amazon: https://www.amazon.com/Arduino-Wearables-Technology-Action-Olsson/dp/1430243597

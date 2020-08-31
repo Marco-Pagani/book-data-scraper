@@ -8,6 +8,8 @@ taxonomy:
 	audience: [General]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Maker Media
+pagecount: 160
 thumb: http://books.google.com/books/content?id=AeHxsgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WJO030ybctMBBzFA50D_eNVmO2TO8FjWfcdSvRz4EpuxWc8dIXJnXxSF5gExiNMCmPOl2aNGNsVx0SQqmm8LZB5yj7sL3cTOwalzzK1WQPItxUV4-4xOnUAoavQ3Vv3-HsEsa&source=gbs_api
 cover: http://books.google.com/books/content?id=AeHxsgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WJO030ybctMBBzFA50D_eNVmO2TO8FjWfcdSvRz4EpuxWc8dIXJnXxSF5gExiNMCmPOl2aNGNsVx0SQqmm8LZB5yj7sL3cTOwalzzK1WQPItxUV4-4xOnUAoavQ3Vv3-HsEsa&source=gbs_api
 amazon: https://www.amazon.com/Design-3D-Printing-Scanning-Dimensions/dp/1457187361

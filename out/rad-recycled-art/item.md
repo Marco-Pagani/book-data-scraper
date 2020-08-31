@@ -4,10 +4,12 @@ taxonomy:
 	author: [Emily Kington]
 	pubdate: 2019
 	isbn: 1541548493
-	subjects: [General Crafting/Making, Juvenile Nonfiction / Crafts & Hobbies, Juvenile Nonfiction / Art / General, Juvenile Nonfiction / Games & Activities / General]
+	subjects: []
 	audience: [K-12]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Hungry Tomato ®
+pagecount: 32
 thumb: http://books.google.com/books/content?id=dsJ9DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71e489AuE8FKk3juRwCP5w3POyigIWxwfP6ICvXn20dWUZKN-_TF1EVP2YXzENbvzN6fVMXtytgenk8BRWV4Q8NOVUN4-Skq46xQWkhrc-HfZNIzTJlz8OckyrYAFHK89MSs9wG&source=gbs_api
 cover: http://books.google.com/books/content?id=dsJ9DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE710ODIgmoZWoCqE56Sq0SrJTtGdfh8QkE6JrqmIE0ur7AZIJC-cszCj8wVZTJHJVTHD6FNY5FC_GgQTSeaYldrJqNh36xLn54_wsWq38qhcdD29b_X3XgBVMhHyX_FWt6U7Phu4&source=gbs_api
 amazon: https://www.amazon.com/Rad-Recycled-Art-Wild-Projects-ebook/dp/B07JK6HQMQ/ref=sr_1_1?keywords=Rad+recycled+art&qid=1570114220&s=gateway&sr=8-1

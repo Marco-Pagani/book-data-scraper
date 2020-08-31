@@ -4,9 +4,11 @@ taxonomy:
 	author: [Robert Neale, Thomas Hull]
 	pubdate: 2018
 	isbn: 125023008X
-	subjects: [Crafts & Hobbies / Origami]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: St. Martin's Publishing Group
+pagecount: 112
 thumb: http://books.google.com/books/content?id=0U9wDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70T5KfYuxcbJ5kMKQT0TyDxBi_lEAhL57IHmJllME5yQxiC_s4i92qAXR4xDaf1LAxcSiXK2t104eSnydMc2876CacmwcrdHtOBYvA9PSUhDanfGPGVPx5juRirrVaPp85NaWYm&source=gbs_api
 cover: http://books.google.com/books/content?id=0U9wDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73UbFctAQxl2e3FR41HgUp666dV_DCL1dM3NLZwPGjAUHPeIexiYRI7b3GhPhIVUUwnybsrfTJPg61gOStlM4zP0RMXG36BI35cknKXYgAibu6UmSNDJSzyL_f9UICe781J75dw&source=gbs_api
 amazon: nil

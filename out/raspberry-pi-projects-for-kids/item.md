@@ -4,9 +4,11 @@ taxonomy:
 	author: [Daniel Bates]
 	pubdate: 2014
 	isbn: 1783982225
-	subjects: [Computers / Programming / Games, Computers / Interactive & Multimedia, Computers / Programming Languages / Python]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Packt Publishing
+pagecount: 96
 thumb: http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250sA208FhKKvxUBntuLGAFMTOI5mWLK20Ytx1MlWLvIkoXkV3iNScrd7-P-U9jXnRAtVf0RpzbcegZnJNmGbQcqllNXBag7WzzT0Zk8oFw7iVUUA8_qt8EDyYa9slVQITpsH-&source=gbs_api
 cover: http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250sA208FhKKvxUBntuLGAFMTOI5mWLK20Ytx1MlWLvIkoXkV3iNScrd7-P-U9jXnRAtVf0RpzbcegZnJNmGbQcqllNXBag7WzzT0Zk8oFw7iVUUA8_qt8EDyYa9slVQITpsH-&source=gbs_api
 amazon: nil

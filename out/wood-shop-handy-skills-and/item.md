@@ -4,10 +4,12 @@ taxonomy:
 	author: [Margaret Larson]
 	pubdate: 2018
 	isbn: 1612129420
-	subjects: [Hand Tools, Juvenile Nonfiction / Crafts & Hobbies, Juvenile Nonfiction / Technology / Machinery & Tools, Crafts & Hobbies / Crafts for Children]
+	subjects: [Hand Tools]
 	audience: [K-12]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: Storey Publishing
+pagecount: 216
 thumb: http://books.google.com/books/content?id=YS1xDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73AuVKyUFPQ56SY5dvRszHSlOf2hmOPH3EoT6xeEVlT2g5gFZbk6agkPGE0XLxt9k-nX7voRNCXvqiL-TFV3GgsdMXUY0Ll5vVhKUNZZ7yp-UhrPJhGtNMyPQxGifE9i5VdYL-t&source=gbs_api
 cover: http://books.google.com/books/content?id=YS1xDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70KszOC60FvQvLGPq-5XYYdYktPDBkVLyMZDXC6WpU1W7ZHQ6ILU5B5pMnlsI0CH9JRZOu8xmNbunehpNl41v6xTWxVrlNKGO6ysX-oDO7urWDlEmgIpYgyhPulVrDpVImfYoe0&source=gbs_api
 amazon: https://www.amazon.com/Wood-Shop-Creative-Building-Projects/dp/1612129420/ref=sr_1_1?keywords=Wood+shop+%3A+handy+skills+and+creative+building+projects+for+kids&qid=1575757906&sr=8-1

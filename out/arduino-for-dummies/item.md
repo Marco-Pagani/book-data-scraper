@@ -4,10 +4,12 @@ taxonomy:
 	author: [John Nussey]
 	pubdate: 2013
 	isbn: 1118446437
-	subjects: [Arduinos, Computers / Hardware / Peripherals, Computers / Hardware / General]
+	subjects: [Arduinos]
 	audience: [General, College/University, Libraries]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: John Wiley & Sons
+pagecount: 456
 thumb: http://books.google.com/books/content?id=LRWcJH5SPokC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73hO-3bTKk1iii777PsJK5Yl84gocb5FehKtunge7Y8xeyu17YWtHBBbvMR8xrmTe-ZNgDZPYHlf-dimCierHovUljh8KngADVEVw5WhX5knyJYtUsu5gt5e9XQpjjYPNn6EeFf&source=gbs_api
 cover: http://books.google.com/books/content?id=LRWcJH5SPokC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72d1siiB8HfU1YzXQ3iToID-GMilYPxymNhiPINaCHCHhFk3im7z7Uh08N11koYBzPMBebIWQw95kui30n-bcWaK77dlmxeT9drUg-T7gcIrmEBmd1E9-Aen0eDbro2YMwx58mA&source=gbs_api
 amazon: https://www.amazon.com/Arduino-Dummies-John-Nussey/dp/1118446372/ref=sr_1_1?s=books&ie=UTF8&qid=1541655908&sr=1-1&keywords=arduino+for+dummies&dpID=51nLOVNuP%252BL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch

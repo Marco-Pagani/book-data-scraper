@@ -8,6 +8,8 @@ taxonomy:
 	audience: [K-12, College/University, General, Libraries]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: HLT Press
+pagecount: 185
 thumb: http://books.google.com/books/content?id=78OSngEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71CvEn0clZWdqIPRwKH4DZR0HyimrYZ54CNXBv9tVsnErLMdXt7vnPAf6PAmQGidM-f-i0vjh35zk9EkN2EooawMUcYIzrxztYBsJIhtPkgzRz_6E-r9IW0XpG3MninoNWk9xfI&source=gbs_api
 cover: http://books.google.com/books/content?id=78OSngEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71CvEn0clZWdqIPRwKH4DZR0HyimrYZ54CNXBv9tVsnErLMdXt7vnPAf6PAmQGidM-f-i0vjh35zk9EkN2EooawMUcYIzrxztYBsJIhtPkgzRz_6E-r9IW0XpG3MninoNWk9xfI&source=gbs_api
 amazon: https://www.amazon.com/Sew-Electric-Leah-Buechley/dp/0989795608

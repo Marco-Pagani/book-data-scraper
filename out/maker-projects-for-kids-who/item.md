@@ -4,10 +4,12 @@ taxonomy:
 	author: [Sarah Levete]
 	pubdate: 2016
 	isbn: 0778725766
-	subjects: [General Crafting/Making, Juvenile Nonfiction / Science & Nature / Experiments & Projects]
+	subjects: []
 	audience: [K-12]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Crabtree Publishing Company
+pagecount: 32
 thumb: http://books.google.com/books/content?id=ERf-jwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70vPHNyT5-hhOReCVJp5c5OpcARaM-k_NYuNYBPVisXF_XHAvJOEDF61GbCF8f3Gbk5UC8fvoRAuieUGn4sCyTgxHTGwJKH8srrxQ5X7YcQMurL4385EkOkXnEvS7ytuRsrTbQ2&source=gbs_api
 cover: http://books.google.com/books/content?id=ERf-jwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70vPHNyT5-hhOReCVJp5c5OpcARaM-k_NYuNYBPVisXF_XHAvJOEDF61GbCF8f3Gbk5UC8fvoRAuieUGn4sCyTgxHTGwJKH8srrxQ5X7YcQMurL4385EkOkXnEvS7ytuRsrTbQ2&source=gbs_api
 amazon: https://www.amazon.com/Maker-Projects-Kids-Exploring-Outdoors/dp/0778725766/ref=sr_1_1?keywords=Maker+projects+for+kids+who+love+exploring+the+outdoors&qid=1569876862&s=gateway&sr=8-1

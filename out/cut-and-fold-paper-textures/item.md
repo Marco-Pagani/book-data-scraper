@@ -4,10 +4,12 @@ taxonomy:
 	author: [Paul Jackson]
 	pubdate: 2017
 	isbn: 1780678614
-	subjects: [Paper Crafts, Design / Decorative Arts]
+	subjects: [Paper Crafts]
 	audience: [K-12, General]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Laurence King Publishing
+pagecount: 128
 thumb: http://books.google.com/books/content?id=io_xjwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE737UvUMMfxCmWotNpy3EhEbtZKLUorTprk6R36B4UG35CEeAxWKDDF2Mp6VknheU6FUTvlgU-mkLWcJeuU_zWXd4ORKaPaJHzOJW88Huit3FZDAffPhZkIxry7xrmDqXfWuIncq&source=gbs_api
 cover: http://books.google.com/books/content?id=io_xjwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE737UvUMMfxCmWotNpy3EhEbtZKLUorTprk6R36B4UG35CEeAxWKDDF2Mp6VknheU6FUTvlgU-mkLWcJeuU_zWXd4ORKaPaJHzOJW88Huit3FZDAffPhZkIxry7xrmDqXfWuIncq&source=gbs_api
 amazon: https://www.amazon.com/Cut-Fold-Paper-Textures-Techniques/dp/1780678614/ref=sr_1_1?keywords=Cut+and+fold+paper+textures+%3A+techniques+for+surface+design&qid=1569856356&s=gateway&sr=8-1

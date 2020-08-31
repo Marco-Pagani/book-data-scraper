@@ -8,6 +8,8 @@ taxonomy:
 	audience: [General]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Raintree
+pagecount: 48
 thumb: http://books.google.com/books/content?id=Det3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72xW0EjXwTRSfeWptjOJQHz8qHHEs87yw04m6dcRb8N8EwgCaS-JqfjzF-HYuHT6uwP3ykIsMSc2Ezx-Qp3uq3q6JOwWgZeERM0PHqIGlWKaSYQyj9CVccCZeoNPRUfINWA-3Zn&source=gbs_api
 cover: http://books.google.com/books/content?id=Det3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72xW0EjXwTRSfeWptjOJQHz8qHHEs87yw04m6dcRb8N8EwgCaS-JqfjzF-HYuHT6uwP3ykIsMSc2Ezx-Qp3uq3q6JOwWgZeERM0PHqIGlWKaSYQyj9CVccCZeoNPRUfINWA-3Zn&source=gbs_api
 amazon: https://www.amazon.com/Electronics-Projects-Build-Dabble-Lab/dp/1474775403/ref=sr_1_1?keywords=Electronic+Projects+to+Build+On+enz&qid=1574641230&sr=8-1

@@ -4,10 +4,12 @@ taxonomy:
 	author: [Brittany Watson Jepsen]
 	pubdate: 2018
 	isbn: 1683352157
-	subjects: [Paper Crafts, Crafts & Hobbies / Papercrafts, Crafts & Hobbies / General, Design / Reference]
+	subjects: [Paper Crafts]
 	audience: [General]
 	expertise: [Intermediate]
 	tag: [lesson plans]
+publisher: Abrams
+pagecount: 192
 thumb: http://books.google.com/books/content?id=JM1FDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE717mrN1Ihnu5CtfJud1WIYILKAb2hMCfvp_hwFv7ND1LGQ55BOsDOUVP_lbTlh44H48jo-Y0sRgjohihVS7oYNkuCgTBt1m8HOpCOrs_MbP26MLV9bVkabZjVKyg4OqEFaovZqr&source=gbs_api
 cover: http://books.google.com/books/content?id=JM1FDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73mMtxNHLbMH4a50nN5SxjKXzx-xF53hS0lxQeHNveUnE6xOJ2qvLCX6Alv9HSxa_-BGZO-1aQb2LVRVhgHOSB4L7xh3exuLq7KmK90DDJbVpX_RnHn8tpJKIlnRAlZwgNBR0Op&source=gbs_api
 amazon: https://www.amazon.com/s?k=Craft+the+rainbow+%3A+40+colorful+paper+projects+from+"The+house+that+Lars+built"&ref=nb_sb_noss

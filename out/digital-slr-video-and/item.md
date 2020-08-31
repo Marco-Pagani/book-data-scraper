@@ -4,9 +4,11 @@ taxonomy:
 	author: [John Carucci]
 	pubdate: 2013
 	isbn: 1118365984
-	subjects: [Photography & Video, Photography / Techniques / Digital, Photography / Techniques / Cinematography & Videography]
+	subjects: [Photography & Video]
 	audience: [General]
 	expertise: [Beginner]
+publisher: Wiley
+pagecount: 416
 thumb: http://books.google.com/books/content?id=Q-DduQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72qdPds0D-dB3Et3ycx4vOiWcxRUC79yvMIBBcRmzqpX43faF7JtvH9nNGJOcBwa2tVuRfIznDkV8wsgkNLF57lYB2mn1aje9zRPxIuH1_M9Tp3enn3PPQgGHGEoBAiipCQa1cp&source=gbs_api
 cover: http://books.google.com/books/content?id=Q-DduQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72qdPds0D-dB3Et3ycx4vOiWcxRUC79yvMIBBcRmzqpX43faF7JtvH9nNGJOcBwa2tVuRfIznDkV8wsgkNLF57lYB2mn1aje9zRPxIuH1_M9Tp3enn3PPQgGHGEoBAiipCQa1cp&source=gbs_api
 amazon: https://www.amazon.com/Digital-SLR-Video-Filmmaking-Dummies/dp/1118365984/ref=sr_1_3?keywords=Digital+SLR+video+and+filmmaking+for+dummies&qid=1571941215&sr=8-3

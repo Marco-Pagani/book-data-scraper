@@ -8,6 +8,8 @@ taxonomy:
 	audience: [General]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: Thames & Hudson
+pagecount: 176
 thumb: http://books.google.com/books/content?id=zGmWswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71pv4kddNDjonwoevDt0ic5a1N0K9F7c1lQeJT_8g6d88LauMPQmkNPJN8Zhwv-PpRi8f0C-idzimOlnXmAGuufTcqjcph6939hb30SDONlquZI9M1OUj29kMao5CdIErRte78U&source=gbs_api
 cover: http://books.google.com/books/content?id=zGmWswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71pv4kddNDjonwoevDt0ic5a1N0K9F7c1lQeJT_8g6d88LauMPQmkNPJN8Zhwv-PpRi8f0C-idzimOlnXmAGuufTcqjcph6939hb30SDONlquZI9M1OUj29kMao5CdIErRte78U&source=gbs_api
 amazon: https://www.amazon.com/Paper-Crafts-Victoria-Albert-Museum/dp/0500294186/ref=sr_1_3?keywords=Paper+Crafts%3A+A+Maker%27s+Guide&qid=1572463275&sr=8-3

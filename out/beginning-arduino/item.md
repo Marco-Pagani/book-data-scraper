@@ -4,10 +4,12 @@ taxonomy:
 	author: [Michael McRoberts]
 	pubdate: 2013
 	isbn: 143025016X
-	subjects: [Arduinos, Technology & Engineering / Robotics, Computers / Software Development & Engineering / General, Computers / Programming / Open Source, Computers / Hardware / General]
+	subjects: [Arduinos]
 	audience: [Libraries, College/University, General, K-12]
 	expertise: [Beginner, Intermediate]
 	tag: [lesson plans]
+publisher: Apress
+pagecount: 424
 thumb: http://books.google.com/books/content?id=QTbyAAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70WYL3PpVC802LcnpKFf_sg0-x_G3fRCrdTLR_u-PdN_-FSiez9oqbwJtawqsA7WKGwYbCR29xUUnVk2J_uzQS5dZbfDlxPjr6VxTCwnNucOQgJg3-FuoyyU330RKaDPAM3aNZO&source=gbs_api
 cover: http://books.google.com/books/content?id=QTbyAAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71jTgq4aY6888P2w49KSo9qmjQw4t3pot9-kMJG-sAnaDJ-XcnMfcreT4oUtionv0xrPGXWRVLRMxh6GqVPHmwD6TK8_3UseLDaXQ1cvCmsiYDXeV1QrW0G-G1HAeqh2Q79CLyz&source=gbs_api
 amazon: https://www.amazon.com/Beginning-Arduino-Technology-Michael-McRoberts/dp/143025016X

@@ -4,10 +4,12 @@ taxonomy:
 	author: [Kristina A. Holzweiss, Amy Barth]
 	pubdate: 2017
 	isbn: 0531234118
-	subjects: [General Crafting/Making, Juvenile Nonfiction / Technology / How Things Work-Are Made]
+	subjects: []
 	audience: [K-12]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: Scholastic Incorporated
+pagecount: 32
 thumb: http://books.google.com/books/content?id=CmtOAQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70SYGblL-Gzz_-BbMItRkY5KOz-cvNkIdCnojX2ewg5du4vigZt8pG8bJhj4t2WKZuiXwd5te0yidA8u8uKRvzyAutdgY4eY_7uL-3Uw19Q8hIAbBHNJZG_4rlr9fDx2NvziBVx&source=gbs_api
 cover: http://books.google.com/books/content?id=CmtOAQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70SYGblL-Gzz_-BbMItRkY5KOz-cvNkIdCnojX2ewg5du4vigZt8pG8bJhj4t2WKZuiXwd5te0yidA8u8uKRvzyAutdgY4eY_7uL-3Uw19Q8hIAbBHNJZG_4rlr9fDx2NvziBVx&source=gbs_api
 amazon: https://www.amazon.com/Exciting-Electronics-Rookie-Makerspace-Projects/dp/0531238806/ref=sr_1_1?keywords=I+can+make+exciting+electronics&qid=1574640340&sr=8-1

@@ -4,10 +4,12 @@ taxonomy:
 	author: [Warren Andrews]
 	pubdate: 2017
 	isbn: 159327744X
-	subjects: [Arduinos, Technology & Engineering / Electronics / General, Technology & Engineering / Electronics / Digital, Technology & Engineering / Electronics / Circuits / General]
+	subjects: [Arduinos]
 	audience: [College/University, General, Libraries]
 	expertise: [Advanced, Intermediate]
 	tag: [lesson plans]
+publisher: No Starch Press
+pagecount: 344
 thumb: http://books.google.com/books/content?id=IdOaDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73ufPELw_r4zTmaq-4Zgc5ug8d_ynXjO9cttGOEN4ATOujFOq7-Nh5lAHimzhGkKyE-qh-AJcaWabIdNPWt0LplCAj_FB3NqOGbJFek5T0I-ECBYqx7KYzvATJ4BLzBL7gxm_g7&source=gbs_api
 cover: http://books.google.com/books/content?id=IdOaDgAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE734X-kHrAKoHSTwCIms_ETxhZ2_ZdOIHdCMA7TeZMyoPKA4q8_Zo4cIeupYmVyW4qPUwkq_AQsxneZClbR8vmEzIpk6JRSW91SrmV-0K9XXknRD-Z5XZc5VVL6yTV9zpwWCPopo&source=gbs_api
 amazon: https://www.amazon.com/Arduino-Playground-Geeky-Projects-Experienced/dp/159327744X/ref=sr_1_1?s=books&ie=UTF8&qid=1541655140&sr=1-1&keywords=Arduino+Playground&dpID=51HyAc8oCoL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch

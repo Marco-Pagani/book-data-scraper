@@ -7,6 +7,8 @@ taxonomy:
 	subjects: [Internet of Things, Programming, Raspberry Pi's, Arduinos]
 	audience: [General]
 	expertise: [Beginner, Intermediate]
+publisher: Packt Publishing
+pagecount: 298
 thumb: http://books.google.com/books/content?id=EF9dAQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70M9zFXTXb2G9Z_jGf2Q8YInlsZrJCVguDlAsSMwz8aCZ0S1xGke720Mv5S8bdnScFCTiY3qcWRSOfeNiafCef9b1xoUpq0NsjRsXvRirNf23rKunmc-qozfJzkBBmQRvaEV7n0&source=gbs_api
 cover: http://books.google.com/books/content?id=EF9dAQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70M9zFXTXb2G9Z_jGf2Q8YInlsZrJCVguDlAsSMwz8aCZ0S1xGke720Mv5S8bdnScFCTiY3qcWRSOfeNiafCef9b1xoUpq0NsjRsXvRirNf23rKunmc-qozfJzkBBmQRvaEV7n0&source=gbs_api
 amazon: https://www.amazon.com/Internet-Things-IoT-Technologies-Applications/dp/1138035009/ref=sr_1_1?ie=UTF8&qid=1543368706&sr=8-1&keywords=internet+of+things+technologies+applications+challenges+and+solutions

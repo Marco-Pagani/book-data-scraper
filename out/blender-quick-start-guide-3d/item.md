@@ -4,9 +4,11 @@ taxonomy:
 	author: [Allan Brito]
 	pubdate: 2018
 	isbn: 1789612934
-	subjects: [Computers / Software Development & Engineering / Tools, Computers / Computer Graphics, Computers / User Interfaces, Computers / Programming / General, Computers / Desktop Applications / Design & Graphics]
+	subjects: []
 	audience: []
 	expertise: []
+publisher: Packt Publishing Ltd
+pagecount: 194
 thumb: http://books.google.com/books/content?id=ZP1wDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE719GLoxbr8iGIVHxFNsYuu8OLEyMfpUK7Ix2PC3gK3mQV0K_XrT1TeCa5TP9Daw_osVLkPO80aauNoHeLIJRN4hc775H-aXBu7lH3vFTZMSGxyjzA0nBi7QJGl1EEGJv5RYQ5HS&source=gbs_api
 cover: http://books.google.com/books/content?id=ZP1wDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70Ug8mP53xWsX__rH7qc5m2FnM-Xh34NLnkdPcecZGx13uRZAumXwcp74INZQAyAzY2STwfQFzVGXHfWsCaNeDi3IRs__SB778DxEefuENTDC8s3EwP8kOq2xDBvf7ik8yG3THH&source=gbs_api
 amazon: nil

@@ -4,10 +4,12 @@ taxonomy:
 	author: [Christine Kirker]
 	pubdate: 2018
 	isbn: 0838917399
-	subjects: [General Crafting/Making, Language Arts & Disciplines / Library & Information Science / General]
+	subjects: []
 	audience: [K-12]
 	expertise: [Beginner]
 	tag: [lesson plans]
+publisher: American Library Association
+pagecount: 64
 thumb: http://books.google.com/books/content?id=W8tCuQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70JyRgtNnCqRb0cUasJHHMpRnquai-DYW6Du84gPRLtSDKgBIYOYzmy_h3un0wTsynbYOJIK1goIIJyRiFIh_ymhIoJ8UVQpfHyyJ25ZphAhvGZTtjp7zki-fIX5uaevQ9caVCx&source=gbs_api
 cover: http://books.google.com/books/content?id=W8tCuQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70JyRgtNnCqRb0cUasJHHMpRnquai-DYW6Du84gPRLtSDKgBIYOYzmy_h3un0wTsynbYOJIK1goIIJyRiFIh_ymhIoJ8UVQpfHyyJ25ZphAhvGZTtjp7zki-fIX5uaevQ9caVCx&source=gbs_api
 amazon: https://www.amazon.com/Projects-Art-Explorers-Christine-Kirker/dp/0838917399/ref=sr_1_1?keywords=25+projects+for+art+explorers&qid=1570114504&s=gateway&sr=8-1
