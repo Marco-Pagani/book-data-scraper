@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: CreateSpace Independent Publishing Platform
 pagecount: 240
-thumb: http://books.google.com/books/content?id=M_DJDAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250N1lSsF4FvDaiYrnud59xAqqUiwf0m202rkUO7xeY5kfebb5mjc45peZ-TW0xOEYI_8toQtUoZPXLQ8E-aVxlV7PMD3FAgcjz-qi4yKr2DKCtPk5kVNDse7y9e7Ck_fo9eHy&source=gbs_api
-cover: http://books.google.com/books/content?id=M_DJDAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250N1lSsF4FvDaiYrnud59xAqqUiwf0m202rkUO7xeY5kfebb5mjc45peZ-TW0xOEYI_8toQtUoZPXLQ8E-aVxlV7PMD3FAgcjz-qi4yKr2DKCtPk5kVNDse7y9e7Ck_fo9eHy&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/3D-Modeling-Beginners-Learn-everything-ebook/dp/B01DJ2I930/ref=sr_1_1?keywords=3D+modeling+for+beginners+%3A+learn+everything+you+need+to+know+about+3D+modeling%21&qid=1575758323&sr=8-1
 worldcat: https://www.worldcat.org/title/3d-modeling-for-beginners-learn-everything-you-need-to-know-about-3d-modeling/oclc/959283280&referer=brief_results
 google: https://play.google.com/store/books/details?id=M_DJDAEACAAJ

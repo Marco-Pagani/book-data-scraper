@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Apress
 pagecount: 350
-thumb: http://books.google.com/books/content?id=5RVv0-ucWikC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73R2TdTeRqllpvipjPsq9KmRFZ0vW43bFf5I0JhYNSy20cNHMsSzAzm4gSmb_uPIu0X4Y9klR86_oNnFGiwggi7qVix_b_iPDvCvmqo4dL2u_FJEze6a6hV1GX6iIuF1rryyaNU&source=gbs_api
-cover: http://books.google.com/books/content?id=5RVv0-ucWikC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73R2TdTeRqllpvipjPsq9KmRFZ0vW43bFf5I0JhYNSy20cNHMsSzAzm4gSmb_uPIu0X4Y9klR86_oNnFGiwggi7qVix_b_iPDvCvmqo4dL2u_FJEze6a6hV1GX6iIuF1rryyaNU&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Arduino-Technology-Action-Rick-Anderson/dp/1430239395/ref=sr_1_2?s=books&ie=UTF8&qid=1541654520&sr=1-2&keywords=Pro+Arduino&dpID=51h3K8dlXoL&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch
 worldcat: nil
 google: https://play.google.com/store/books/details?id=5RVv0-ucWikC

@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: O'Reilly Media Incorporated
 pagecount: 300
-thumb: http://books.google.com/books/content?id=mGXUMgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE734nhrzGuwRYODJROpwJA9ljrdgyl-fWJzIGEK4w-OzrVCJks3B5LsTY6nBgm9T5ESPyREi0Jdlw0Cv9u50fgyIOCJyAZdGm26eayCjB9sQToCon1UyhIVPZIPEBFJMte4P7Jag&source=gbs_api
-cover: http://books.google.com/books/content?id=mGXUMgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE734nhrzGuwRYODJROpwJA9ljrdgyl-fWJzIGEK4w-OzrVCJks3B5LsTY6nBgm9T5ESPyREi0Jdlw0Cv9u50fgyIOCJyAZdGm26eayCjB9sQToCon1UyhIVPZIPEBFJMte4P7Jag&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=mGXUMgEACAAJ

@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: American Library Association
 pagecount: 64
-thumb: http://books.google.com/books/content?id=W8tCuQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70JyRgtNnCqRb0cUasJHHMpRnquai-DYW6Du84gPRLtSDKgBIYOYzmy_h3un0wTsynbYOJIK1goIIJyRiFIh_ymhIoJ8UVQpfHyyJ25ZphAhvGZTtjp7zki-fIX5uaevQ9caVCx&source=gbs_api
-cover: http://books.google.com/books/content?id=W8tCuQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70JyRgtNnCqRb0cUasJHHMpRnquai-DYW6Du84gPRLtSDKgBIYOYzmy_h3un0wTsynbYOJIK1goIIJyRiFIh_ymhIoJ8UVQpfHyyJ25ZphAhvGZTtjp7zki-fIX5uaevQ9caVCx&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Projects-Art-Explorers-Christine-Kirker/dp/0838917399/ref=sr_1_1?keywords=25+projects+for+art+explorers&qid=1570114504&s=gateway&sr=8-1
 worldcat: https://www.worldcat.org/title/25-projects-for-art-explorers/oclc/1040677777&referer=brief_results
 google: https://play.google.com/store/books/details?id=W8tCuQEACAAJ

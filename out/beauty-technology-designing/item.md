@@ -9,8 +9,8 @@ taxonomy:
 	expertise: [Beginner, Intermediate]
 publisher: Springer International Publishing
 pagecount: 110
-thumb: http://books.google.com/books/content?id=jtodrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72ojRIh7_1Tk18I9oAoiE1c7jm_BiUiKfIy_uEM4wUbC13C9ZLCY_CEEeEJg10X-Y-LyfcxsfIMEqckB4KefzYyzmzHPSNXRgt9Z9nj7IujQjxM5poO4DxP8Lft1CpgkB_S403b&source=gbs_api
-cover: http://books.google.com/books/content?id=jtodrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72ojRIh7_1Tk18I9oAoiE1c7jm_BiUiKfIy_uEM4wUbC13C9ZLCY_CEEeEJg10X-Y-LyfcxsfIMEqckB4KefzYyzmzHPSNXRgt9Z9nj7IujQjxM5poO4DxP8Lft1CpgkB_S403b&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Beauty-Technology-Interfaces-Human-Computer-Interaction-ebook/dp/B01G4XEUE8/ref=sr_1_1?ie=UTF8&qid=1543369392&sr=8-1&keywords=beauty+technology+designing+seamless+interfaces+for+wearable+computing
 worldcat: nil
 google: https://play.google.com/store/books/details?id=jtodrgEACAAJ

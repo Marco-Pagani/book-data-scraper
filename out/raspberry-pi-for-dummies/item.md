@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Wiley
 pagecount: 432
-thumb: http://books.google.com/books/content?id=9ouiMQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71cBzr17nFqmr_iUWbRUts8zsxcwpGR_Ys8dRb-h-QpAsIsZOxxMun756eDI4lKZyyiGvReie6Q5-VfSIrG9pLs8odpTWbyKJssMsAcivL-FRFy0bHRqHBC-miaUbJ70mo_a7EH&source=gbs_api
-cover: http://books.google.com/books/content?id=9ouiMQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71cBzr17nFqmr_iUWbRUts8zsxcwpGR_Ys8dRb-h-QpAsIsZOxxMun756eDI4lKZyyiGvReie6Q5-VfSIrG9pLs8odpTWbyKJssMsAcivL-FRFy0bHRqHBC-miaUbJ70mo_a7EH&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=9ouiMQEACAAJ

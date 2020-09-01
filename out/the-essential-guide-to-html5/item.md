@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Apress
 pagecount: 417
-thumb: http://books.google.com/books/content?id=tAthuwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71KK7eIpdIXZGqgQ-vOnqB9ED1YdRWpfcztR8Nk4IXp-7XG4GxuMiKsaQONW8pT9GqVg2EExSXrHqK3oLFgHVSOS0nGGFYF-fggicqI89rl5YBr8kUhqJAqaHKosAZ9u_MFn3wN&source=gbs_api
-cover: http://books.google.com/books/content?id=tAthuwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71KK7eIpdIXZGqgQ-vOnqB9ED1YdRWpfcztR8Nk4IXp-7XG4GxuMiKsaQONW8pT9GqVg2EExSXrHqK3oLFgHVSOS0nGGFYF-fggicqI89rl5YBr8kUhqJAqaHKosAZ9u_MFn3wN&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=tAthuwEACAAJ

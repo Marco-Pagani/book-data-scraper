@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: McGraw-Hill Education
 pagecount: 288
-thumb: http://books.google.com/books/content?id=s-oytgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71xDZkGZbCloPXbc5xRIgW60x64IDG6EznemBOF-JmPnKT8znbTBi5BbvI9syOMAETy7kQw2ngHmua7bpv0QQQp0egRV91xs6a8rewe59Or2JgSXfjkc5sg8rY3g8GRGbr5nUu-&source=gbs_api
-cover: http://books.google.com/books/content?id=s-oytgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71xDZkGZbCloPXbc5xRIgW60x64IDG6EznemBOF-JmPnKT8znbTBi5BbvI9syOMAETy7kQw2ngHmua7bpv0QQQp0egRV91xs6a8rewe59Or2JgSXfjkc5sg8rY3g8GRGbr5nUu-&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Crafty-Kids-Guide-DIY-Electronics/dp/1260142833/ref=sr_1_1?keywords=The+crafty+kid%27s+guide+to+DIY+electronics+%3A+20+fun+projects+for+makers%2C+crafters%2C+and+everyone+in+between&qid=1575247486&sr=8-1
 worldcat: https://www.worldcat.org/title/crafty-kids-guide-to-diy-electronics-20-fun-projects-for-makers-crafters-and-everyone-in-between/oclc/1084952164&referer=brief_results
 google: https://play.google.com/store/books/details?id=s-oytgEACAAJ

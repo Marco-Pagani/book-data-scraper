@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Crabtree Publishing Company
 pagecount: 32
-thumb: http://books.google.com/books/content?id=ERf-jwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70vPHNyT5-hhOReCVJp5c5OpcARaM-k_NYuNYBPVisXF_XHAvJOEDF61GbCF8f3Gbk5UC8fvoRAuieUGn4sCyTgxHTGwJKH8srrxQ5X7YcQMurL4385EkOkXnEvS7ytuRsrTbQ2&source=gbs_api
-cover: http://books.google.com/books/content?id=ERf-jwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70vPHNyT5-hhOReCVJp5c5OpcARaM-k_NYuNYBPVisXF_XHAvJOEDF61GbCF8f3Gbk5UC8fvoRAuieUGn4sCyTgxHTGwJKH8srrxQ5X7YcQMurL4385EkOkXnEvS7ytuRsrTbQ2&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Maker-Projects-Kids-Exploring-Outdoors/dp/0778725766/ref=sr_1_1?keywords=Maker+projects+for+kids+who+love+exploring+the+outdoors&qid=1569876862&s=gateway&sr=8-1
 worldcat: https://www.worldcat.org/title/maker-projects-for-kids-who-love-exploring-the-outdoors/oclc/1032583779&referer=brief_results
 google: https://play.google.com/store/books/details?id=ERf-jwEACAAJ

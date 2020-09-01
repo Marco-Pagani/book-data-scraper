@@ -1,5 +1,6 @@
 let fs = require('fs')
 let data = require('./formatted_data/complete_books.json')
+let http = require('http')
 
 function check_nil(item) {
     if (item)
@@ -8,13 +9,15 @@ function check_nil(item) {
         return 'nil'
 }
 
+let image_name = ['smallThumbnail', 'thumbnail', 'small', 'medium', 'large', 'extraLarge']
+
 function select_images(images) {
     let thumb = 'nil', cover = 'nil'
     let values = Object.values(images)
 
     if (values.length >= 1) {
-        thumb = values[Math.min(values.length - 1, 2)]
-        cover = values.pop()
+        thumb = image_name[Math.min(values.length - 1, 2)] + '.jpeg'
+        cover = image_name[values.length - 1] + '.jpeg'
     }
 
     return {
@@ -70,6 +73,16 @@ data.forEach(book => {
         fs.writeFile('out/' + grub + '/item.md', page, function (err) {
             console.log("writing " + grub)
         })
+
+        // download images
+        /*
+        Object.keys(book.images).forEach(size => {
+            let fullUrl = book.images[size];
+            let file = fs.createWriteStream(`out/${grub}/${size}.jpeg`);
+            let request = http.get(fullUrl, function (response) {
+                response.pipe(file);
+            });
+        });*/
 
     }
 })

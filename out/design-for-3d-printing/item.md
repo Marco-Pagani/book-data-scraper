@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Maker Media
 pagecount: 160
-thumb: http://books.google.com/books/content?id=AeHxsgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WJO030ybctMBBzFA50D_eNVmO2TO8FjWfcdSvRz4EpuxWc8dIXJnXxSF5gExiNMCmPOl2aNGNsVx0SQqmm8LZB5yj7sL3cTOwalzzK1WQPItxUV4-4xOnUAoavQ3Vv3-HsEsa&source=gbs_api
-cover: http://books.google.com/books/content?id=AeHxsgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WJO030ybctMBBzFA50D_eNVmO2TO8FjWfcdSvRz4EpuxWc8dIXJnXxSF5gExiNMCmPOl2aNGNsVx0SQqmm8LZB5yj7sL3cTOwalzzK1WQPItxUV4-4xOnUAoavQ3Vv3-HsEsa&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Design-3D-Printing-Scanning-Dimensions/dp/1457187361
 worldcat: https://www.worldcat.org/title/design-for-3d-printing-scanning-creating-editing-remixing-and-making-in-three-dimensions/oclc/910702365
 google: https://play.google.com/store/books/details?id=AeHxsgEACAAJ

@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: John Wiley & Sons
 pagecount: 320
-thumb: http://books.google.com/books/content?id=HEjjBwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73b-oblcOJoo0JakDQckcu23NYk6BVvpTHxi9TRIWNhUKyNEWTJGUlLEsDGZ-yzvJqGKHcw1qUzttGhQif-BAIeXB9-B50hxuzu-ffV_Zf6XO4RR3rETvypEQymldP5E2H5cMG7&source=gbs_api
-cover: http://books.google.com/books/content?id=HEjjBwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70TA4ZNrSmb1qpC8ScX7V1OULdhFQkLgB3-cucC0IkXPzZZFlrt8PPb_z03Kv6bMMOqQYlrQSNlmH-WiJng1_w_APGiKMwePSQGSwe_MQQJXri8FpFy9XEGGZz61uxtM6JDhyVk&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: https://www.amazon.com/Adventures-Arduino-Becky-Stewart/dp/1118948475/ref=sr_1_1?ie=UTF8&qid=1541632403&sr=8-1&keywords=adventures+in+arduino&dpID=51kUEtA7W4L&preST=_SX258_BO1,204,203,200_QL70_&dpSrc=srch
 worldcat: nil
 google: https://play.google.com/store/books/details?id=HEjjBwAAQBAJ

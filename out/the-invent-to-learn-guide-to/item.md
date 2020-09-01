@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Constructing Modern Knowledge Press
 pagecount: 163
-thumb: http://books.google.com/books/content?id=c46roAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70JnXvJ5l1Tpxbkgmj-d2WTnJidl9ajQcWAj6B4fz77aW9ZlbBUkOpLIxD6cQPYv5ExWVqegj0IZW56L-aUcjNyQVC8sizxUxDSZ_lPcIMmvMkmSPmZeM5cFhSwq96Wy_twhIb4&source=gbs_api
-cover: http://books.google.com/books/content?id=c46roAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70JnXvJ5l1Tpxbkgmj-d2WTnJidl9ajQcWAj6B4fz77aW9ZlbBUkOpLIxD6cQPYv5ExWVqegj0IZW56L-aUcjNyQVC8sizxUxDSZ_lPcIMmvMkmSPmZeM5cFhSwq96Wy_twhIb4&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=c46roAEACAAJ

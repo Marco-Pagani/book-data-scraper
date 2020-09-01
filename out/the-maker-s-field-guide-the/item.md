@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: MFG. Lab Press
 pagecount: 214
-thumb: http://books.google.com/books/content?id=7Ps7xQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72MigfQ3Chlwx8nC08u9ps-7m06yUm6-3IZcxCvHnMdpqkDzRX354jqpidn7RQCJxc8dc-C3aFwpcx20dBiFDbW-Rkt1_V8fUipCigvR8p0YqE4jZXA7rVGuPvH0FLTbcYqv7cu&source=gbs_api
-cover: http://books.google.com/books/content?id=7Ps7xQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72MigfQ3Chlwx8nC08u9ps-7m06yUm6-3IZcxCvHnMdpqkDzRX354jqpidn7RQCJxc8dc-C3aFwpcx20dBiFDbW-Rkt1_V8fUipCigvR8p0YqE4jZXA7rVGuPvH0FLTbcYqv7cu&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=7Ps7xQEACAAJ

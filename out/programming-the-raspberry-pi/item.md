@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: McGraw-Hill Education
 pagecount: 208
-thumb: http://books.google.com/books/content?id=wj4KrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71gXm0CfrhsTKMw1ZkdfOWKMw0Q3PlgfUqcpoJFulC9FVg25NszFTC3eVq19GK-o3_nfSOe7-OMWOcL5dfOf2cKReWrpAM_VY5PWHXVgnPJBYFEh6DJZEjIXDdDQxbTnuyMkaEh&source=gbs_api
-cover: http://books.google.com/books/content?id=wj4KrgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71gXm0CfrhsTKMw1ZkdfOWKMw0Q3PlgfUqcpoJFulC9FVg25NszFTC3eVq19GK-o3_nfSOe7-OMWOcL5dfOf2cKReWrpAM_VY5PWHXVgnPJBYFEh6DJZEjIXDdDQxbTnuyMkaEh&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=wj4KrgEACAAJ

@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Scholastic Incorporated
 pagecount: 32
-thumb: http://books.google.com/books/content?id=q0R4AQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71R0am4hfC8TwZwBKq7yxeQgqSYDi7918YSZcdo0K2XXKIz9MDKHNlfFG06ujyLLkckKd0lgHcOWVPhk3GTNvVjM06GRLcOTXEyROkgZlTXWbXELgaU_5De1bVqjBQ2yugIrxqs&source=gbs_api
-cover: http://books.google.com/books/content?id=q0R4AQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71R0am4hfC8TwZwBKq7yxeQgqSYDi7918YSZcdo0K2XXKIz9MDKHNlfFG06ujyLLkckKd0lgHcOWVPhk3GTNvVjM06GRLcOTXEyROkgZlTXWbXELgaU_5De1bVqjBQ2yugIrxqs&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=q0R4AQAACAAJ

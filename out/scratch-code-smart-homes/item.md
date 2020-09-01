@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Crabtree Publishing Company
 pagecount: 32
-thumb: http://books.google.com/books/content?id=5RmiwwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73j286WTntxbM63sgYAMpewpEnXbfHFk_aLhgIA1-de7LG7B6JJExmmC_6HDhf0p1Umq5F3yZ7PLuZkXdromlxzNkVCwmwXA5ZbbcwmPNhTAxmEPZSBBgq6AYdMkH365ePfmgV-&source=gbs_api
-cover: http://books.google.com/books/content?id=5RmiwwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73j286WTntxbM63sgYAMpewpEnXbfHFk_aLhgIA1-de7LG7B6JJExmmC_6HDhf0p1Umq5F3yZ7PLuZkXdromlxzNkVCwmwXA5ZbbcwmPNhTAxmEPZSBBgq6AYdMkH365ePfmgV-&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Scratch-Code-Smart-Homes-Challenge/dp/0778765687/ref=sr_1_1?keywords=smart+homes+wainewright+max&qid=1575245907&sr=8-1
 worldcat: https://www.worldcat.org/title/scratch-code-smart-homes/oclc/1090700944&referer=brief_results
 google: https://play.google.com/store/books/details?id=5RmiwwEACAAJ

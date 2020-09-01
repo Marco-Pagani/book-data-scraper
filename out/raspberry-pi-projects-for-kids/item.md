@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Packt Publishing
 pagecount: 96
-thumb: http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250sA208FhKKvxUBntuLGAFMTOI5mWLK20Ytx1MlWLvIkoXkV3iNScrd7-P-U9jXnRAtVf0RpzbcegZnJNmGbQcqllNXBag7WzzT0Zk8oFw7iVUUA8_qt8EDyYa9slVQITpsH-&source=gbs_api
-cover: http://books.google.com/books/content?id=eV6JoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7250sA208FhKKvxUBntuLGAFMTOI5mWLK20Ytx1MlWLvIkoXkV3iNScrd7-P-U9jXnRAtVf0RpzbcegZnJNmGbQcqllNXBag7WzzT0Zk8oFw7iVUUA8_qt8EDyYa9slVQITpsH-&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=eV6JoAEACAAJ

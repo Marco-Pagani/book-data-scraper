@@ -9,8 +9,8 @@ taxonomy:
 	expertise: [Beginner]
 publisher: The Rosen Publishing Group Inc
 pagecount: 64
-thumb: http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70iPBNcutzPYxL6cFdBxqsbi4JXyDfNNstJKpJcvrIMJfZVaDQVi4YkVKJvS4K7_qUH4Mg2aEMU1RbrGInaHtBluAZjw5ByDSrxh-u6DpcZJ2vnJOzeXN8qvLCK0X0Kc4JjzL2o&source=gbs_api
-cover: http://books.google.com/books/content?id=pca2BQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71ZpWfAzNpe29RkWiJmAJlGQ_qn2sFGXIPSwNo54cabvsumTPtYU0lEI3SLhWndX6MawbE3zVte4jXFP6cEKR7gExPgbdHxoIJ8BRYAQIXjW_3uKnb9obJIenblyDf9O-b0MT0V&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: https://www.amazon.com/Getting-Most-Makerspaces-Create-Printers/dp/1477786023/ref=sr_1_1?keywords=Getting+the+most+out+of+makerspaces+to+create+with+3-D+printers&qid=1569857195&s=gateway&sr=8-1
 worldcat: https://www.worldcat.org/title/getting-the-most-out-of-makerspaces-to-create-with-3-d-printers/oclc/884552729&referer=brief_results
 google: https://play.google.com/store/books/details?id=pca2BQAAQBAJ

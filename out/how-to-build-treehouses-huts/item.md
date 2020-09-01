@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Lyons Press
 pagecount: 96
-thumb: http://books.google.com/books/content?id=3900od2rKbsC&printsec=frontcover&img=1&zoom=2&imgtk=AFLRE70MXMOieQBltSQPGiLHDivLRUW0FtgqynQPM_tiuGvjG-Sv8wT6JdiTrR8qY5LwbKXJhGVA8SciaXjVMa26MZqH0fn1ZRJ75FAKqAtK7L9kJGsKWJYgtVaTAo85hNf3BC5OBbe9&source=gbs_api
-cover: http://books.google.com/books/content?id=3900od2rKbsC&printsec=frontcover&img=1&zoom=6&imgtk=AFLRE72P-GJda6_NU0ahdYS7Z8UU8baVcomXlCDpTmC5sgCAWGGdwYyw3tZookrrPS-wIrJzYtMaQxLUWd878m60RA0aOQYuqRZLOC3uYQkPnZGq_5tAE5HOTzBnTESZQMbeogxzA6fs&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=3900od2rKbsC

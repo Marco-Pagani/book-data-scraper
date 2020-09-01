@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Macmillan
 pagecount: 144
-thumb: http://books.google.com/books/content?id=KfyKAwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE715sQt2aAN2PLuP7QBUCSF4lJ5yIAiG24KY9U3PlaPbvtBZuwt_UKRAN_iyKzMKYi_kZF3e6-6lJK_-fC-OS3pojjDmAPZdB00YzHZzH2O7eu46_D_vDnu7zh_0tQCjS2bf7UBr&source=gbs_api
-cover: http://books.google.com/books/content?id=KfyKAwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE732nTQhbPUa1b4NyGdae4HgjOJLw6GkPFnV-gKxPLgczkOkIOHfCq2HCbF9ZL4T96LGE_nMX5YBFCAo-7bN6-0jrHCsiFriXl6-vSSABYx2OO16GxQF8NVajbXoDAEdigfsip7y&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=KfyKAwAAQBAJ

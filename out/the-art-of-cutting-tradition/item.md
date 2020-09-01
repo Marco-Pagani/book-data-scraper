@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Promotora de prensa internacional S.A
 pagecount: 160
-thumb: http://books.google.com/books/content?id=koG1oQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70yneJuMbK27VJnlRtd3p1Rd5YZUWIwt4S0FGqmGB5MrZLrB0KHTtbKBDS-h1dpbzYofC8_vNPTLiA1SBgCpeCZSj4asQCSyIM0oR490iYe2ij4BG34zAJZ8kP1qEDmjKR_NGqt&source=gbs_api
-cover: http://books.google.com/books/content?id=koG1oQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70yneJuMbK27VJnlRtd3p1Rd5YZUWIwt4S0FGqmGB5MrZLrB0KHTtbKBDS-h1dpbzYofC8_vNPTLiA1SBgCpeCZSj4asQCSyIM0oR490iYe2ij4BG34zAJZ8kP1qEDmjKR_NGqt&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Art-Cutting-Tradition-Techniques-Cardboard/dp/8415967152/ref=sr_1_12?s=books&ie=UTF8&qid=1543380732&sr=1-12&keywords=Laser+Cutting
 worldcat: nil
 google: https://play.google.com/store/books/details?id=koG1oQEACAAJ

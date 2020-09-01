@@ -9,8 +9,8 @@ taxonomy:
 	expertise: [Advanced]
 publisher: John Wiley & Sons
 pagecount: 256
-thumb: http://books.google.com/books/content?id=nNhVDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70Oh0uU9kd3l_Duua29AHr4V7GStmm8y65_tRTW9uoV6NeBhOjVbqVMzI7k0z9-hsYhrxB6q2ccGgYTnCb0lJlQDTsoO4W8bjMhfPAZLOu4dpnFAmFy5_dBUdnrtlHZqo-bA1NH&source=gbs_api
-cover: http://books.google.com/books/content?id=nNhVDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71DLXIb1hIzO2CydNjVpWfrVC-9wqd8HWt7wMM8WoNVDu_Xbx2IixI0FF5B-3bTUXSWJNnrG9vf3vwIBmN2atBj4wNQMuZnMyurRFyLZkB363gDqibuslEeZSzmtR_P4PtXHYT_&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: https://www.amazon.com/Wearable-Computing-Modeling-Implementation-Networks-ebook/dp/B07C1DV3Y4
 worldcat: nil
 google: https://play.google.com/store/books/details?id=nNhVDwAAQBAJ

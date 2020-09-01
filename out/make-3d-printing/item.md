@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Maker Media Incorporated
 pagecount: 213
-thumb: http://books.google.com/books/content?id=K5MlnQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71jCQpnt9VadwKoh2BMq_dp8ghdinKHBK3uRGLHRpzWIA8wqdPt8F0w-8eLUGQE9OUpH68IM8g2NK8UaRYvGREy4JKux6sFoXzY0_gLn6_2a7jGv7y8vFeeaw3EuIrd3CboNNI3&source=gbs_api
-cover: http://books.google.com/books/content?id=K5MlnQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71jCQpnt9VadwKoh2BMq_dp8ghdinKHBK3uRGLHRpzWIA8wqdPt8F0w-8eLUGQE9OUpH68IM8g2NK8UaRYvGREy4JKux6sFoXzY0_gLn6_2a7jGv7y8vFeeaw3EuIrd3CboNNI3&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=K5MlnQEACAAJ

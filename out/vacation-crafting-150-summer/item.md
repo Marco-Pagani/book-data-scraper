@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Fox Chapel Publishing Company Incorporated
 pagecount: 160
-thumb: http://books.google.com/books/content?id=jG25tAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72tcxiIFYfdxKxPX_fP7bzIjk9ISGXGNGIx8-36E0pqS8zcHGd-q_XHwFiiT38k5RZrWgBvSkJ-2OtMZIM0B3K1wdXnZpbAZbDWD_KAWq6xsc4dSTvx8nEioMgD-g5DL1XIvp0D&source=gbs_api
-cover: http://books.google.com/books/content?id=jG25tAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72tcxiIFYfdxKxPX_fP7bzIjk9ISGXGNGIx8-36E0pqS8zcHGd-q_XHwFiiT38k5RZrWgBvSkJ-2OtMZIM0B3K1wdXnZpbAZbDWD_KAWq6xsc4dSTvx8nEioMgD-g5DL1XIvp0D&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=jG25tAEACAAJ

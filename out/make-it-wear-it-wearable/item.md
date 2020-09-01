@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: McGraw-Hill Education
 pagecount: 176
-thumb: http://books.google.com/books/content?id=5uqzswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71Lly7k9HG4tCKzC9yidazMcee-TeCtc4AJdwEvlRcN1L9nq8jabfFCexjG3V51PSBBaYzRMedLwfAbCxc4vqIuWZUe6f2Rac4gl0WGyIGv6HfFLPgAeu-IEdHaMB12SynqjIhI&source=gbs_api
-cover: http://books.google.com/books/content?id=5uqzswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71Lly7k9HG4tCKzC9yidazMcee-TeCtc4AJdwEvlRcN1L9nq8jabfFCexjG3V51PSBBaYzRMedLwfAbCxc4vqIuWZUe6f2Rac4gl0WGyIGv6HfFLPgAeu-IEdHaMB12SynqjIhI&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Make-Wear-Wearable-Electronics-Cosplayers/dp/1260116158/ref=sr_1_1?keywords=Make+it%2C+wear+it+%3A+wearable+electronics+for+makers%2C+crafters%2C+and+cosplayers&qid=1572884762&sr=8-1
 worldcat: https://www.worldcat.org/title/make-it-wear-it-wearable-electronics-for-makers-crafters-and-cosplayers/oclc/1101209079&referer=brief_results
 google: https://play.google.com/store/books/details?id=5uqzswEACAAJ

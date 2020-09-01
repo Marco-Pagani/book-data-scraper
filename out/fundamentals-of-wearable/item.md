@@ -9,8 +9,8 @@ taxonomy:
 	expertise: [Intermediate, Advanced]
 publisher: Taylor & Francis Group
 pagecount: 739
-thumb: http://books.google.com/books/content?id=46BrtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WfRsFlgvQxDouswiaGdDgbvqRRUj8CXveECFN1AQhZ1jWJlHVVNGF7E8AU3XjBmzq2CA6YVBkbKhg7IxsXPS-2ChfKP_XDeZP2Eka8vcwGz21PHOfHtu2kBzGMhofofuB1liI&source=gbs_api
-cover: http://books.google.com/books/content?id=46BrtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72WfRsFlgvQxDouswiaGdDgbvqRRUj8CXveECFN1AQhZ1jWJlHVVNGF7E8AU3XjBmzq2CA6YVBkbKhg7IxsXPS-2ChfKP_XDeZP2Eka8vcwGz21PHOfHtu2kBzGMhofofuB1liI&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Fundamentals-Wearable-Computers-Augmented-Reality-ebook/dp/B011NH3DB6/ref=sr_1_1?ie=UTF8&qid=1543370188&sr=8-1&keywords=wearable+computers+and+augmented+reality
 worldcat: nil
 google: https://play.google.com/store/books/details?id=46BrtAEACAAJ

@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: CRC Press
 pagecount: 434
-thumb: http://books.google.com/books/content?id=4f-GDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71zwCs_bCI78kyXZfRGSU83O-eUUSNEzICSOoYPTW65LRUCUe_E65CeEEjWEy8T4-IOgQCxlQ5SvRaDTVRfQsdl_m1VX9jBI0P5KVi4J8PI9yg4s6ZBQfQ7PmDVhKRpsqCUurlu&source=gbs_api
-cover: http://books.google.com/books/content?id=4f-GDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70nAiXc8oeb48Okm-TcrUuYKgnQApgy2gF1m4hlGC4N7ukyVfB_uUj4CTeCDVMfdomsnSdXTbdgmDkAmGudy0PwzK0SIutEDPcFRndN7aX2Edkf1b8Z6GWlT8OAEvf9uWp8Xq99&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=4f-GDwAAQBAJ

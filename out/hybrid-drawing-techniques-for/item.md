@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Routledge
 pagecount: 221
-thumb: http://books.google.com/books/content?id=T3cwtgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70qKIF9_1E1q8afVmcpNaBDNB1URHUXiC72bf8y-17y9FzU8ofMhlBDHEOdD1UoDr40KOK8wwX0C3gQzRlaZq_-NsJ_pfuBX5BExkwiflQkiFLa702RllB55Clz8K7RphvH7T1g&source=gbs_api
-cover: http://books.google.com/books/content?id=T3cwtgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70qKIF9_1E1q8afVmcpNaBDNB1URHUXiC72bf8y-17y9FzU8ofMhlBDHEOdD1UoDr40KOK8wwX0C3gQzRlaZq_-NsJ_pfuBX5BExkwiflQkiFLa702RllB55Clz8K7RphvH7T1g&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Hybrid-Drawing-Techniques-Interior-Design/dp/1138280674/ref=sr_1_1?keywords=Hybrid+drawing+techniques+for+interior+design&qid=1569875258&s=gateway&sr=8-1
 worldcat: https://www.worldcat.org/title/hybrid-drawing-techniques-for-interior-design/oclc/967846638&referer=brief_results
 google: https://play.google.com/store/books/details?id=T3cwtgEACAAJ

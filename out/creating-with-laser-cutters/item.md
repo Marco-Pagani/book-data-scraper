@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: The Rosen Publishing Group Inc
 pagecount: 64
-thumb: http://books.google.com/books/content?id=Q9dhDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73p84JhBYeaJZcmvw-FOOTOih4bsz3yOeiLZc0UXecE2aainaBLCQKEUO58Z8K-1njGQjnxg1TuO2_ExZFxCTQ4Upg0j1slsmdUXG4LIXKiUo8jhI3g03JrT8Y7FxypSygv6Iuh&source=gbs_api
-cover: http://books.google.com/books/content?id=Q9dhDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE723_tDeGeh-irYqZvpnhaaO6IJReJceEGsdbZse27ytp4KsgZGwca6Hr4pqVGxNWVdxlTRZhA-EBmM71_0IQXjH0xB8K9jk2Z3OH2GAe2h7m0qwB-nXGT_maumWrK6DMi74b1M9&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: https://www.amazon.com/Creating-Cutters-Engravers-Getting-Creative/dp/1499465041/ref=sr_1_11?s=books&ie=UTF8&qid=1543380732&sr=1-11&keywords=Laser+Cutting
 worldcat: nil
 google: https://play.google.com/store/books/details?id=Q9dhDwAAQBAJ

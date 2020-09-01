@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Fox Chapel Publishing Company Incorporated
 pagecount: 160
-thumb: http://books.google.com/books/content?id=bkFmtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71Jr7Ib0RdpSEB3yA_2LwmYEwRe9wKNzJM2oEfcNFJ3DE99eA0miPLMnWOXbTvbzK9P6lKD1m1WOeVUZywhR2QVMvoKPWX1pWsdVYuHk4GgSLZI2lDRaP3szSW7hMXbhx1e8O_D&source=gbs_api
-cover: http://books.google.com/books/content?id=bkFmtAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71Jr7Ib0RdpSEB3yA_2LwmYEwRe9wKNzJM2oEfcNFJ3DE99eA0miPLMnWOXbTvbzK9P6lKD1m1WOeVUZywhR2QVMvoKPWX1pWsdVYuHk4GgSLZI2lDRaP3szSW7hMXbhx1e8O_D&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Macrame-Home-Decor-Step-Step/dp/1565239512/ref=sr_1_1?keywords=Macram%C3%A9+for+home+decor+%3A+40+stunning+projects+for+stylish+decorating&qid=1570112480&s=gateway&sr=8-1
 worldcat: https://www.worldcat.org/title/macrame-for-home-decor-40-stunning-projects-for-stylish-decorating/oclc/1036786995&referer=brief_results
 google: https://play.google.com/store/books/details?id=bkFmtAEACAAJ

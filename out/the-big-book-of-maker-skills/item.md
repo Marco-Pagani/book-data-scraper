@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Weldon Owen
 pagecount: 208
-thumb: http://books.google.com/books/content?id=0Td6swEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71mr-JGt-QsVGrEZjV9TJYeAsvAzE_K2vqIVugiS2MlKhdG1K9lyNq6tTBDerP3h8kpdxhKwDom-JZJavcM6ory7bLXR-5vVibdcNN1ngFsKHkLZc6elmdKGVSkQNjClj907u9T&source=gbs_api
-cover: http://books.google.com/books/content?id=0Td6swEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71mr-JGt-QsVGrEZjV9TJYeAsvAzE_K2vqIVugiS2MlKhdG1K9lyNq6tTBDerP3h8kpdxhKwDom-JZJavcM6ory7bLXR-5vVibdcNN1ngFsKHkLZc6elmdKGVSkQNjClj907u9T&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Big-Book-Maker-Skills/dp/1681884321/ref=sr_1_1?keywords=The+big+book+of+maker+skills+%3A+tools+%26+techniques+for+building+great+tech+projects&qid=1572464215&sr=8-1
 worldcat: https://www.worldcat.org/title/big-book-of-maker-skills-tools-techniques-for-building-great-tech-projects/oclc/1026693218&referer=brief_results
 google: https://play.google.com/store/books/details?id=0Td6swEACAAJ

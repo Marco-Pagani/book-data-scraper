@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: John Wiley & Sons
 pagecount: 384
-thumb: http://books.google.com/books/content?id=X6jCBwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73rduFCy1UMLJMIqUd23oclILlg4b-l9nNg3TIzjynh9uPOmhfxZNwgHEkVqyCKK3KWxCM7PZBjCW5HhCLI9VxLkJ3OEuzbqKqiDOq57vv7lQX5i7J-g-hc-4oTFApplokC5xYm&source=gbs_api
-cover: http://books.google.com/books/content?id=X6jCBwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70Mzx_I12HLtYtbPdY37m14NkwAHihn6dQyhVLRXf5HBKXRmRN_PetSddgeHl5iZlvReaGMpZXh8lX0twXOvI3aETPM2ggLfNpXM8SvguVPThiZS9ZFhs08EiKaud8SVyBNgRCN&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=X6jCBwAAQBAJ

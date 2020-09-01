@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: The Rosen Publishing Group Inc
 pagecount: 64
-thumb: http://books.google.com/books/content?id=y8xhDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72X1pl9h__W35lV7WRAotIfKKRgFcCuuAXQC4Z64gznSdhp1lgGTYRzhUqxi2wDArL7zqOEZewerGBu0S_RT8ryNz_NBdy9HiUXJwmXFf_ysblrEGvhtBEspY8THzpQexT7lfU-&source=gbs_api
-cover: http://books.google.com/books/content?id=y8xhDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70RjvXtXpvQFuDHcASaUzk_jkoJyjc1j23xFc3sq-76wFlUtCg8y5Ea4XeWhm26lixdEqwbCkn71HKeSKcH0WYKRqd3EarkSOCGtIiuraYOdSq05oRMSpE2eRTmfHRHMWUVE91D&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: https://www.amazon.com/Makerspace-Projects-Social-Studies-Makerspaces/dp/1499438508/ref=sr_1_1?keywords=10+great+makerspace+projects+using+social+studies+Hinton+Kerry&qid=1572276323&sr=8-1
 worldcat: https://www.worldcat.org/title/10-great-makerspace-projects-using-social-studies/oclc/972092904&referer=brief_results
 google: https://play.google.com/store/books/details?id=y8xhDwAAQBAJ

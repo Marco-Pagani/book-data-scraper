@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Cool Springs Press
 pagecount: 128
-thumb: http://books.google.com/books/content?id=JrtsgfQSG7EC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE703q2DYhl3TwhEswDoygbOY6aLUyXtjvNTnnzSbTRtjKnVUkG4uE3qOWnO8qTh8n8Dygq_v4Q0KvFAzUwUCTh58BvjJDhcszGPHBu23sYAmU42k5ArekFSv0rsdjpEqyl6rp2I5&source=gbs_api
-cover: http://books.google.com/books/content?id=JrtsgfQSG7EC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73bLINGgbVvGQvyTIl39_V2gnVo4D_uHcfFo2PAdKmj2wGtcyZUr2SPl2YlFNK3WdSNmtfTGDUik3H7ri1xPYiuCxN20AYK7EvEtGU4P7fnhq8wjk0AGtnNgxtRJi5TNRv2oUMM&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=JrtsgfQSG7EC

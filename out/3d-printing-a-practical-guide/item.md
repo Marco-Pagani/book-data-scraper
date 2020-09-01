@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Rowman & Littlefield
 pagecount: 173
-thumb: http://books.google.com/books/content?id=t3eHjgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72k4WAylmz68pwFK0V4dpE7q_u78Lug4OLSa_sUs8qIvXthqKfhLIeL6nWfVYET9qs-vakc0E5ggkH7J5LcDJFefotDaQuIDuUHokqKkdPjdJnuupLIad5bwVbUtlBtDgc0hIy8&source=gbs_api
-cover: http://books.google.com/books/content?id=t3eHjgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72k4WAylmz68pwFK0V4dpE7q_u78Lug4OLSa_sUs8qIvXthqKfhLIeL6nWfVYET9qs-vakc0E5ggkH7J5LcDJFefotDaQuIDuUHokqKkdPjdJnuupLIad5bwVbUtlBtDgc0hIy8&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/3D-Printing-Practical-Librarians-Guides/dp/1442255471
 worldcat: https://www.worldcat.org/title/3d-printing-a-practical-guide-for-librarians/oclc/1028501464
 google: https://play.google.com/store/books/details?id=t3eHjgEACAAJ

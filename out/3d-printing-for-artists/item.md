@@ -9,8 +9,8 @@ taxonomy:
 	expertise: [Intermediate]
 publisher: Bloomsbury Academic
 pagecount: 168
-thumb: http://books.google.com/books/content?id=ErY7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71MSVoAK0LeXovGTz0hCSq1X3HFuu9E7Vw4NDUMBmJflpO8gfWzJdGjCi6IPvlWMLJO62l4ArzBrhYuH7EzjbpmL2woUy9hK9ka7bGV3NzNsEpBaaEkCUO85MVGfADL02IRqk2_&source=gbs_api
-cover: http://books.google.com/books/content?id=ErY7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71MSVoAK0LeXovGTz0hCSq1X3HFuu9E7Vw4NDUMBmJflpO8gfWzJdGjCi6IPvlWMLJO62l4ArzBrhYuH7EzjbpmL2woUy9hK9ka7bGV3NzNsEpBaaEkCUO85MVGfADL02IRqk2_&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/s?k=3D+printing+for+artists%2C+designers+and+makers&ref=nb_sb_noss
 worldcat: https://www.worldcat.org/title/3d-printing-for-artists-designers-and-makers/oclc/1120132360&referer=brief_results
 google: https://play.google.com/store/books/details?id=ErY7DwAAQBAJ

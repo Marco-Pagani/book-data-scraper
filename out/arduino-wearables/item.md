@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Apress
 pagecount: 336
-thumb: http://books.google.com/books/content?id=LkrVwAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y82ITySDvfPZ7gwUw42TON1k0E5PIHSXFxCqs0IsCMwUtM7ONGn66DI5yF6OU2r9TQ6ZgGQnMx-iUCMV-r15w6RB1IMcEEkKzjCujUHqkfJQ8kxakgnCuYwX5mlgP2ws_MIC2&source=gbs_api
-cover: http://books.google.com/books/content?id=LkrVwAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y82ITySDvfPZ7gwUw42TON1k0E5PIHSXFxCqs0IsCMwUtM7ONGn66DI5yF6OU2r9TQ6ZgGQnMx-iUCMV-r15w6RB1IMcEEkKzjCujUHqkfJQ8kxakgnCuYwX5mlgP2ws_MIC2&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Arduino-Wearables-Technology-Action-Olsson/dp/1430243597
 worldcat: nil
 google: https://play.google.com/store/books/details?id=LkrVwAEACAAJ

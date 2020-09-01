@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Penguin
 pagecount: 109
-thumb: http://books.google.com/books/content?id=7-U3DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72LMycHKHzqaoLDRxwQfSH8DP_NVCAST_LDhxMkwXTy9bKrukpEl0hZ8ihXQene24s3-tWh3NTPCIxtYZOvCxyWNF24OMlFeSXefL5BfO1eo7RAYb62LVc3ko88I1eXfuK-JO1g&source=gbs_api
-cover: http://books.google.com/books/content?id=7-U3DwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70uouh63s3WAXT12Cp-nAzHFNyXkn9XGTGqOhMe6--tXdl9W4cgCP_U3arZtHbpICMJGVHBklQzLnwgbrf3ilUR2kNteS9Sjn4IM_ZB8UK5iDBXXPPHJHcybw2dhvqP7QfzveDi&source=gbs_api
+thumb: small.jpeg
+cover: large.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=7-U3DwAAQBAJ

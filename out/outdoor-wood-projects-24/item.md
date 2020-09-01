@@ -9,8 +9,8 @@ taxonomy:
 	expertise: []
 publisher: Taunton Press
 pagecount: 201
-thumb: http://books.google.com/books/content?id=ibP2nQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE720dAOrng5GKACwuKrJMAesJFhdSsxtLjm16MqqbU1zILwQTwBXg8N5dheeE7P8iOeD1a8GnHdZfyDAMxxm96VDPuGCJMvNzgvfDY0ol9_BSh0HbITutyVuNddEEfbcy79eb10U&source=gbs_api
-cover: http://books.google.com/books/content?id=ibP2nQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE720dAOrng5GKACwuKrJMAesJFhdSsxtLjm16MqqbU1zILwQTwBXg8N5dheeE7P8iOeD1a8GnHdZfyDAMxxm96VDPuGCJMvNzgvfDY0ol9_BSh0HbITutyVuNddEEfbcy79eb10U&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: nil
 worldcat: nil
 google: https://play.google.com/store/books/details?id=ibP2nQEACAAJ

@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Capstone
 pagecount: 48
-thumb: http://books.google.com/books/content?id=3D07DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70Saoi7f2nlf1iYe2i1DMKPv7TjeKP0NGU86gLFiA_6FhGKKmzmL7ybvp19UOwmf9Ac2ly9R4GAf6ie4X2CoSG0I41m2rC490TVpa6r6d9Mf4JT2r4klV2pdKFaB6nEwefInrJw&source=gbs_api
-cover: http://books.google.com/books/content?id=3D07DwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE709uvBwFTyLgaXgN4KYvfQ0pUTTrvOk-BryNrOFrEDCSLXEd3xH5_qlPhWXqvi_uhfO_u87LMuDKAoUaTzgHC2vbD1kqXiT6zZwXOTjv0rf20XRgy2aUreKol_oGbR2bgFXdzon&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: https://www.amazon.com/Electronics-Projects-Beginners-Dabble-Hands/dp/1474751903/ref=sr_1_1?keywords=Electronics+Projects+for+Beginners+enz&qid=1574640744&sr=8-1
 worldcat: https://www.worldcat.org/title/electronics-projects-for-beginners/oclc/1108046952&referer=brief_results
 google: https://play.google.com/store/books/details?id=3D07DwAAQBAJ

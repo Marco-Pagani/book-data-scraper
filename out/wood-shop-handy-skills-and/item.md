@@ -10,8 +10,8 @@ taxonomy:
 	tag: [lesson plans]
 publisher: Storey Publishing
 pagecount: 216
-thumb: http://books.google.com/books/content?id=YS1xDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73AuVKyUFPQ56SY5dvRszHSlOf2hmOPH3EoT6xeEVlT2g5gFZbk6agkPGE0XLxt9k-nX7voRNCXvqiL-TFV3GgsdMXUY0Ll5vVhKUNZZ7yp-UhrPJhGtNMyPQxGifE9i5VdYL-t&source=gbs_api
-cover: http://books.google.com/books/content?id=YS1xDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70KszOC60FvQvLGPq-5XYYdYktPDBkVLyMZDXC6WpU1W7ZHQ6ILU5B5pMnlsI0CH9JRZOu8xmNbunehpNl41v6xTWxVrlNKGO6ysX-oDO7urWDlEmgIpYgyhPulVrDpVImfYoe0&source=gbs_api
+thumb: small.jpeg
+cover: extraLarge.jpeg
 amazon: https://www.amazon.com/Wood-Shop-Creative-Building-Projects/dp/1612129420/ref=sr_1_1?keywords=Wood+shop+%3A+handy+skills+and+creative+building+projects+for+kids&qid=1575757906&sr=8-1
 worldcat: https://www.worldcat.org/title/wood-shop-handy-skills-and-creative-building-projects-for-kids/oclc/1037884809&referer=brief_results
 google: https://play.google.com/store/books/details?id=YS1xDwAAQBAJ

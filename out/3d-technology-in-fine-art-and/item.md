@@ -9,8 +9,8 @@ taxonomy:
 	expertise: [Beginner]
 publisher: Focal Press
 pagecount: 308
-thumb: http://books.google.com/books/content?id=pRI6vgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71nOJswKH6lP76_dFgssp9t9OWjraVvLNZOiPFbyutc9uTPgZVruXIuqeusGB3QOOlZcIo_EjKZSZZ3RKsXWD6honetciXMBNlEfMmxsGN6SMovYIAr-ztNyG0pbtIvcmOciVbR&source=gbs_api
-cover: http://books.google.com/books/content?id=pRI6vgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71nOJswKH6lP76_dFgssp9t9OWjraVvLNZOiPFbyutc9uTPgZVruXIuqeusGB3QOOlZcIo_EjKZSZZ3RKsXWD6honetciXMBNlEfMmxsGN6SMovYIAr-ztNyG0pbtIvcmOciVbR&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Technology-Fine-Art-Craft-Exploring/dp/1138844330/ref=sr_1_1?keywords=3D+technology+in+fine+art+and+craft+%3A+exploring+3D+printing%2C+scanning%2C+sculpting+and+milling&qid=1569855462&s=gateway&sr=8-1
 worldcat: https://www.worldcat.org/title/3d-technology-in-fine-art-and-craft-exploring-3d-printing-scanning-sculpting-and-milling/oclc/1003798240&referer=brief_results
 google: https://play.google.com/store/books/details?id=pRI6vgAACAAJ

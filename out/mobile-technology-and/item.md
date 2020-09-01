@@ -9,8 +9,8 @@ taxonomy:
 	expertise: [Intermediate, Advanced]
 publisher: Association of College and Research Libraries
 pagecount: 269
-thumb: http://books.google.com/books/content?id=yimlswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73FqHVg-TQBWHdY2mUn_l3dD5As1f7Cjlz8u9u4Mn7bLq-vxfqJBNHLdnoa83DcB1Y_UV3dMjHBM3I3-svA2VUsrOQVhkatxwu2b5ZMLa8ON-X9oP4QRG3RxvgUhqRvbjWUFjG8&source=gbs_api
-cover: http://books.google.com/books/content?id=yimlswEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73FqHVg-TQBWHdY2mUn_l3dD5As1f7Cjlz8u9u4Mn7bLq-vxfqJBNHLdnoa83DcB1Y_UV3dMjHBM3I3-svA2VUsrOQVhkatxwu2b5ZMLa8ON-X9oP4QRG3RxvgUhqRvbjWUFjG8&source=gbs_api
+thumb: thumbnail.jpeg
+cover: thumbnail.jpeg
 amazon: https://www.amazon.com/Mobile-Technology-Academic-Libraries-Innovative/dp/0838988792/ref=sr_1_1?ie=UTF8&qid=1543369094&sr=8-1&keywords=mobile+technology+and+academic+libraries
 worldcat: nil
 google: https://play.google.com/store/books/details?id=yimlswEACAAJ
